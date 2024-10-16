@@ -1,0 +1,24 @@
+{
+  "soruMetni": "Kur'an-ı Kerim hangi ayda indirilmeye başlanmıştır?",
+  "zorlukSeviyesi": 1,
+  "siklar": [
+    "Ramazan",
+    "Muharrem",
+    "Recep",
+    "Şaban"
+  ],
+  "dogruCevap": "Ramazan",
+  "ipucu": "Bu ay, İslam'ın en kutsal ayı olarak bilinir ve oruç tutulur."
+},
+{
+  "soruMetni": "İslam'ın beş şartından biri hangisidir?",
+  "zorlukSeviyesi": 1,
+  "siklar": [
+    "Namaz kılmak",
+    "Sadaka vermek",
+    "İlim öğrenmek",
+    "Cuma namazına gitmek"
+  ],
+  "dogruCevap": "Namaz kılmak",
+  "ipucu": "Günde beş vakit yapılan bir ibadettir."
+}
