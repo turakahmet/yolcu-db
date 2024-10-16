@@ -1,10 +1,8 @@
 ---
 layout: default
 ---
-![Forbitten](https://github.com/turakahmet/boycot-db/blob/main/file.png?raw=true)
+![Forbitten](https://github.com/turakahmet/yolcu-db/blob/main/file.png?raw=true)
 # JSON file
-[Link to baycot.json](./all-products.json)
+[Link to baycot.json](./sual.json)
 # Gizlilik Politikasi
 [Link to Gizlilik_Politikası](./gizlilik_politikasi.html)
-# app-ads
-[Link to app-ads](./app-ads.txt)
