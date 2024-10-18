@@ -22,5 +22,89 @@
     ],
     "dogruCevap": "Namaz kılmak",
     "ipucu": "Günde beş vakit yapılan bir ibadettir."
+  },
+  {
+    "soruMetni": "Peygamber Efendimiz Hz. Muhammed'in (SAV) doğum yılı hangi yıldır?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "571",
+      "610",
+      "632",
+      "622"
+    ],
+    "dogruCevap": "571",
+    "ipucu": "Bu yıl, Fil Vakası'nın olduğu ve Peygamber Efendimiz'in doğduğu yıldır."
+  },
+  {
+    "soruMetni": "İslam'da ilk vahiy hangi dağda inmiştir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Hira Dağı",
+      "Uhud Dağı",
+      "Sina Dağı",
+      "Tur Dağı"
+    ],
+    "dogruCevap": "Hira Dağı",
+    "ipucu": "Bu dağ, Peygamber Efendimiz'e ilk vahyin indirildiği yerdir ve Mekke'dedir."
+  },
+  {
+    "soruMetni": "Hz. Muhammed'in (SAV) Medine'ye hicreti ile başlayan İslami takvim hangi isimle anılır?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Hicri Takvim",
+      "Miladi Takvim",
+      "Güneş Takvimi",
+      "Rumi Takvim"
+    ],
+    "dogruCevap": "Hicri Takvim",
+    "ipucu": "Bu takvim, Hz. Muhammed'in (SAV) Mekke'den Medine'ye göçü ile başlar."
+  },
+  {
+    "soruMetni": "Hz. İbrahim'in (AS) oğlu olan ve kurban edilmek istenen peygamber kimdir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Hz. İsmail",
+      "Hz. İshak",
+      "Hz. Yusuf",
+      "Hz. Yakup"
+    ],
+    "dogruCevap": "Hz. İsmail",
+    "ipucu": "Kurban Bayramı'nın temelini oluşturan bu olay, Mekke'de gerçekleşmiştir."
+  },
+  {
+    "soruMetni": "Mekke'de bulunan Kâbe, hangi peygamberin yapıldığına inanılır?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Hz. İsa",
+      "Hz. Nuh",
+      "Hz. İbrahim",
+      "Hz. Musa"
+    ],
+    "dogruCevap": "Hz. İbrahim",
+    "ipucu": "Bu peygamber, Kâbe'yi oğlu İsmail ile birlikte inşa etmiştir."
+  },
+  {
+    "soruMetni": "Hangi farz ibadet, her yıl Ramazan ayında yapılır?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Oruç",
+      "Namaz",
+      "Zekat",
+      "Hac"
+    ],
+    "dogruCevap": "Oruç",
+    "ipucu": "Bu ibadet, güneşin doğuşundan batışına kadar yemek ve içmekten uzak durmayı içerir."
+  },
+  {
+    "soruMetni": "İslam'ın beş şartından biri olan Zekat, neyi ifade eder?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Küçük baş hayvan",
+      "Maddi yardım",
+      "Oruç",
+      "Hac"
+    ],
+    "dogruCevap": "Maddi yardım",
+    "ipucu": "Bu ibadet, maddi durumu iyi olanların, belirli bir miktar malını ihtiyaç sahiplerine vermesi anlamına gelir."
   }
 ]
