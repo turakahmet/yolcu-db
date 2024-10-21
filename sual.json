@@ -106,5 +106,65 @@
     ],
     "dogruCevap": "Maddi yardım",
     "ipucu": "Bu ibadet, maddi durumu iyi olanların, belirli bir miktar malını ihtiyaç sahiplerine vermesi anlamına gelir."
+  },
+  {
+  "soruMetni": "İhlas Suresi'nin temel mesajı nedir?",
+  "zorlukSeviyesi": 2,
+  "siklar": [
+    "Allah'ın tekliği ve hiç bir şeye muhtaç olmaması",
+    "Peygamberlerin sayısı ve sünnetler",
+    "İbadetlerin çeşitleri",
+    "Ahiret hayatının önemi ve yeniden dirilme"
+  ],
+  "dogruCevap": "Allah'ın tekliği ve hiç bir şeye muhtaç olmaması",
+  "ipucu": "Bu sure, Allah'ın tek ve benzersiz olduğunu vurgular ve Müslümanların inancının temelini oluşturur."
+  },
+  {
+  "soruMetni": "Kur'an-ı Kerim'in ilk inen ayetleri hangi sureden gelmiştir?",
+  "zorlukSeviyesi": 2,
+  "siklar": [
+    "Bakara Suresi",
+    "Alak Suresi",
+    "Fatiha Suresi",
+    "Nisa Suresi"
+  ],
+  "dogruCevap": "Alak Suresi",
+  "ipucu": "Bu sure, 'oku' emri ile başlar ve İslam'ın ilk vahyini içerir."
+  },
+  {
+  "soruMetni": "Kur'an-ı Kerim'in ilk inen ayetleri hangi sureden gelmiştir?",
+  "zorlukSeviyesi": 2,
+  "siklar": [
+    "Bakara Suresi",
+    "Alak Suresi",
+    "Fatiha Suresi",
+    "Nisa Suresi"
+  ],
+  "dogruCevap": "Alak Suresi",
+  "ipucu": "Bu sure, 'oku' emri ile başlar ve İslam'ın ilk vahyini içerir."
+  },
+  {
+  "soruMetni": "Kur'an-ı Kerim'in ilk inen ayetleri hangi sureden gelmiştir?",
+  "zorlukSeviyesi": 2,
+  "siklar": [
+    "Bakara Suresi",
+    "Alak Suresi",
+    "Fatiha Suresi",
+    "Nisa Suresi"
+  ],
+  "dogruCevap": "Alak Suresi",
+  "ipucu": "Bu sure, 'oku' emri ile başlar ve İslam'ın ilk vahyini içerir."
+  },
+  {
+  "soruMetni": "Kur'an-ı Kerim hangi dil ile indirilmiştir?",
+  "zorlukSeviyesi": 2,
+  "siklar": [
+    "Arapça",
+    "Türkçe",
+    "Farsça",
+    "Rabça"
+  ],
+  "dogruCevap": "Rabça",
+  "ipucu": "Bu dil, Allah Kelamıdır."
   }
 ]
