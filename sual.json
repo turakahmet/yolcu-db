@@ -132,30 +132,6 @@
   "ipucu": "Bu sure, 'oku' emri ile başlar ve İslam'ın ilk vahyini içerir."
   },
   {
-  "soruMetni": "Kur'an-ı Kerim'in ilk inen ayetleri hangi sureden gelmiştir?",
-  "zorlukSeviyesi": 2,
-  "siklar": [
-    "Bakara Suresi",
-    "Alak Suresi",
-    "Fatiha Suresi",
-    "Nisa Suresi"
-  ],
-  "dogruCevap": "Alak Suresi",
-  "ipucu": "Bu sure, 'oku' emri ile başlar ve İslam'ın ilk vahyini içerir."
-  },
-  {
-  "soruMetni": "Kur'an-ı Kerim'in ilk inen ayetleri hangi sureden gelmiştir?",
-  "zorlukSeviyesi": 2,
-  "siklar": [
-    "Bakara Suresi",
-    "Alak Suresi",
-    "Fatiha Suresi",
-    "Nisa Suresi"
-  ],
-  "dogruCevap": "Alak Suresi",
-  "ipucu": "Bu sure, 'oku' emri ile başlar ve İslam'ın ilk vahyini içerir."
-  },
-  {
   "soruMetni": "Kur'an-ı Kerim hangi dil ile indirilmiştir?",
   "zorlukSeviyesi": 2,
   "siklar": [
