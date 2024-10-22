@@ -142,5 +142,77 @@
   ],
   "dogruCevap": "Rabça",
   "ipucu": "Bu dil, Allah Kelamıdır."
+  },
+  {
+  "soruMetni": "Kendisinde şüphe olmayan kati bir delille sabit olan, Allah (c.c.)’ın yapılmasını kesin olarak emrettiği hükümlere ne ad verilir?",
+  "zorlukSeviyesi": 3,
+  "siklar": [
+    "Farz",
+    "Namaz",
+    "Sünnet",
+    "Hac"
+  ],
+  "dogruCevap": "Farz",
+  "ipucu": "Allah'ın müslümanlar için kesin yapılmasını emrettiği temel terimdir"
+  },
+  {
+  "soruMetni": "Kendisinde şüphe olmayan kati bir delille sabit olan, Allah (c.c.)’ın yapılmasını kesin olarak emrettiği hükümlere ne ad verilir?",
+  "zorlukSeviyesi": 3,
+  "siklar": [
+    "Farz",
+    "Namaz",
+    "Sünnet",
+    "Hac"
+  ],
+  "dogruCevap": "Farz",
+  "ipucu": "Allah'ın müslümanlar için kesin yapılmasını emrettiği temel terimdir"
+  },
+  {
+  "soruMetni": "Kendisinde şüphe olmayan kati bir delille sabit olan, Allah (c.c.)’ın yapılmasını kesin olarak emrettiği hükümlere ne ad verilir?",
+  "zorlukSeviyesi": 3,
+  "siklar": [
+    "Farz",
+    "Namaz",
+    "Sünnet",
+    "Hac"
+  ],
+  "dogruCevap": "Farz",
+  "ipucu": "Allah'ın müslümanlar için kesin yapılmasını emrettiği temel terimdir"
+  },
+  {
+    "soruMetni": "Aşağıdaki Esmâ-i Hüsnâ isimlerinden hangisi, 'Merhamet Eden' anlamına gelmektedir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+        "Er-Rahman",
+        "Er-Rafi",
+        "El-Gafur",
+        "El-Kahhar"
+    ],
+    "dogruCevap": "Er-Rahman",
+    "ipucu": "Bu isim, Allah'ın bütün varlıklara olan sınırsız merhametini ifade eder."
+  },
+  {
+    "soruMetni": "Aşağıdaki Esmaül Hüsna isimlerinden hangisi, 'Her şeyi bilen' anlamına gelmektedir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+        "El-Alim",
+        "El-Hakim",
+        "El-Halim",
+        "El-Kadir"
+    ],
+    "dogruCevap": "El-Alim",
+    "ipucu": "Bu isim, Allah'ın her şeyin iç yüzünü ve detaylarını bilen olduğunu ifade eder."
+  },
+  {
+    "soruMetni": "Aşağıdaki hangisi hanefi meshebine göre abdestin farzları arasında yer almaz?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+        "Yüzü yıkamak",
+        "Kolları dirseklerle birlikte yıkamak",
+        "Ağıza su vermek",
+        "Ayakları yıkamak"
+    ],
+    "dogruCevap": "Ağıza su vermek",
+    "ipucu": "Abdestin farzları yüz, kollar, başın mesh edilmesi ve ayakların yıkanmasından oluşur."
   }
 ]
