@@ -133,7 +133,7 @@
   },
   {
   "soruMetni": "Kur'an-ı Kerim hangi dil ile indirilmiştir?",
-  "zorlukSeviyesi": 2,
+  "zorlukSeviyesi": 3,
   "siklar": [
     "Arapça",
     "Türkçe",
@@ -142,30 +142,6 @@
   ],
   "dogruCevap": "Rabça",
   "ipucu": "Bu dil, Allah Kelamıdır."
-  },
-  {
-  "soruMetni": "Kendisinde şüphe olmayan kati bir delille sabit olan, Allah (c.c.)’ın yapılmasını kesin olarak emrettiği hükümlere ne ad verilir?",
-  "zorlukSeviyesi": 3,
-  "siklar": [
-    "Farz",
-    "Namaz",
-    "Sünnet",
-    "Hac"
-  ],
-  "dogruCevap": "Farz",
-  "ipucu": "Allah'ın müslümanlar için kesin yapılmasını emrettiği temel terimdir"
-  },
-  {
-  "soruMetni": "Kendisinde şüphe olmayan kati bir delille sabit olan, Allah (c.c.)’ın yapılmasını kesin olarak emrettiği hükümlere ne ad verilir?",
-  "zorlukSeviyesi": 3,
-  "siklar": [
-    "Farz",
-    "Namaz",
-    "Sünnet",
-    "Hac"
-  ],
-  "dogruCevap": "Farz",
-  "ipucu": "Allah'ın müslümanlar için kesin yapılmasını emrettiği temel terimdir"
   },
   {
   "soruMetni": "Kendisinde şüphe olmayan kati bir delille sabit olan, Allah (c.c.)’ın yapılmasını kesin olarak emrettiği hükümlere ne ad verilir?",
@@ -214,5 +190,17 @@
     ],
     "dogruCevap": "Ağıza su vermek",
     "ipucu": "Abdestin farzları yüz, kollar, başın mesh edilmesi ve ayakların yıkanmasından oluşur."
+  },
+  {
+    "soruMetni": "İslam fıkıhında haram gibi kesin ve bağlayıcı olmamakla birlikte yapılmaması istenen şeydir.",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+        "Mekruh",
+        "Caiz",
+        "Mübah",
+        "Vacip"
+    ],
+    "dogruCevap": "Mekruh",
+    "ipucu": "Haram kadar katı olmayan ama yine de yapılması hoş görülmeyen bir terimdir."
   }
 ]
