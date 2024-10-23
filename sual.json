@@ -202,5 +202,17 @@
     ],
     "dogruCevap": "Mekruh",
     "ipucu": "Haram kadar katı olmayan ama yine de yapılması hoş görülmeyen bir terimdir."
+  },
+  {
+    "soruMetni": "İçinde Peygamber Efendimizin(SAV) Miraca çıkarken basarak yükseldiği kayanın da bulunduğu sarı kubbeli mescidin adı nedir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+        "Kubbetü’s-sahra",
+        "Silsile Minaresi",
+        "Mübah",
+        "Vacip"
+    ],
+    "dogruCevap": "Kubbetü’s-sahra",
+    "ipucu": "Haram kadar katı olmayan ama yine de yapılması hoş görülmeyen bir terimdir."
   }
 ]
