@@ -24,7 +24,7 @@
     "ipucu": "Günde beş vakit yapılan bir ibadettir."
   },
   {
-    "soruMetni": "Peygamber Efendimiz Hz. Muhammed'in (SAV) doğum yılı hangi yıldır?",
+    "soruMetni": "Peygamber Efendimiz Hz. Muhammed'in (s.a.s) doğum yılı hangi yıldır?",
     "zorlukSeviyesi": 1,
     "siklar": [
       "571",
@@ -48,7 +48,7 @@
     "ipucu": "Bu dağ, Peygamber Efendimiz'e ilk vahyin indirildiği yerdir ve Mekke'dedir."
   },
   {
-    "soruMetni": "Hz. Muhammed'in (SAV) Medine'ye hicreti ile başlayan İslami takvim hangi isimle anılır?",
+    "soruMetni": "Hz. Muhammed'in (s.a.s) Medine'ye hicreti ile başlayan İslami takvim hangi isimle anılır?",
     "zorlukSeviyesi": 1,
     "siklar": [
       "Hicri Takvim",
@@ -57,7 +57,7 @@
       "Rumi Takvim"
     ],
     "dogruCevap": "Hicri Takvim",
-    "ipucu": "Bu takvim, Hz. Muhammed'in (SAV) Mekke'den Medine'ye göçü ile başlar."
+    "ipucu": "Bu takvim, Hz. Muhammed'in (s.a.s) Mekke'den Medine'ye göçü ile başlar."
   },
   {
     "soruMetni": "Hz. İbrahim'in (AS) oğlu olan ve kurban edilmek istenen peygamber kimdir?",
@@ -204,15 +204,51 @@
     "ipucu": "Haram kadar katı olmayan ama yine de yapılması hoş görülmeyen bir terimdir."
   },
   {
-    "soruMetni": "İçinde Peygamber Efendimizin(SAV) Miraca çıkarken basarak yükseldiği kayanın da bulunduğu sarı kubbeli mescidin adı nedir?",
-    "zorlukSeviyesi": 2,
+    "soruMetni": "İçinde Peygamber Efendimizin(s.a.s) Miraca çıkarken basarak yükseldiği kayanın da bulunduğu sarı kubbeli mescidin adı nedir?",
+    "zorlukSeviyesi": 3,
     "siklar": [
         "Kubbetü’s-sahra",
         "Silsile Minaresi",
-        "Mübah",
-        "Vacip"
+        "Mescid-i Selmân-ı Fârisî",
+        "Mescid-i Feth"
     ],
     "dogruCevap": "Kubbetü’s-sahra",
-    "ipucu": "Haram kadar katı olmayan ama yine de yapılması hoş görülmeyen bir terimdir."
+    "ipucu": "Bu mescidin en dikkat çekici özelliği altın rengi kubbesidir ve Kudüs'te yer alır."
+  },
+  {
+    "soruMetni": "Peygamberimizin (s.a.s) 'Akraba ilişkisini kesen, cennete giremez.', 'Kim Allah’a ve ahiret gününe inanıyorsa, akraba ile irtibatını sürdürsün...' gibi hadisleriyle önemini vurguladığı kavram hangisidir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+        "Sıla-i Rahim",
+        "Ahsen-i Takvim",
+        "İnsan Sevigisi",
+        "Aile Bağları"
+    ],
+    "dogruCevap": "Sıla-i Rahim",
+    "ipucu": "Bu kavram, akrabalarla bağları devam ettirmek, ziyaret etmek ve onlarla ilgilenmek anlamına gelir."
+  },
+  {
+    "soruMetni": "Mushaf hâline getirilmiş Kur’an’ı çoğaltan ve güzel ahlakıyla bilinen üçüncü halife kimdir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+        "Hz. Osman",
+        "Hz. Ali",
+        "HZ. Ömer",
+        "Hz. Bilal"
+    ],
+    "dogruCevap": "Hz. Osman",
+    "ipucu": "İki defa Peygamberimizin (s.a.s) kızlarıyla evlenmiş ve Kur’an’ı çoğaltmasıyla tanınmıştır."
+  },
+  {
+    "soruMetni": "Peygamberimizin soyu hangi peygambere dayanmaktadır?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+        "Hz. İbrahimin'in Oğlu Hz. İsmail",
+        "Hz. Yakup'un Oğlu Hz. Yunus",
+        "Hz. Musa'nın Kardeşi Hz. Harun",
+        "Hz. Nuh'un Oğlu Hz. Sam"
+    ],
+    "dogruCevap": "Hz. İbrahimin'in Oğlu Hz. İsmail",
+    "ipucu": " Peygamberimizin (s.a.s) soyu, Kâbe'yi inşa eden ve Arapların atası kabul edilen bir peygambere dayanır."
   }
 ]
