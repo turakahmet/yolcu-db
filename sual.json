@@ -249,6 +249,78 @@
         "Hz. Nuh'un Oğlu Hz. Sam"
     ],
     "dogruCevap": "Hz. İbrahimin'in Oğlu Hz. İsmail",
-    "ipucu": " Peygamberimizin (s.a.s) soyu, Kâbe'yi inşa eden ve Arapların atası kabul edilen bir peygambere dayanır."
+    "ipucu": "Peygamberimizin (s.a.s) soyu, Kâbe'yi inşa eden ve Arapların atası kabul edilen bir peygambere dayanır."
+  },
+  {
+    "soruMetni": "Peygamber Efendimiz (s.a.s) hicret ederken yanında kim vardı?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+        "Hz. Ebu Bekir",
+        "Hz. Ömer",
+        "Hz. Osman",
+        "Hz. Ali"
+    ],
+    "dogruCevap": "Hz. Ebu Bekir",
+    "ipucu": "Yol arkadaşı, İslam'ın ilk halifesi olarak da bilinir."
+  },
+  {
+    "soruMetni": "Peygamber Efendimiz (s.a.s)'in Mekkeli müşriklerle yaptığı antlaşmaya ne ad verilir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+        "Akabe",
+        "Hudeybiye",
+        "Bedir",
+        "Mekke Fethi"
+    ],
+    "dogruCevap": "Hudeybiye",
+    "ipucu": "Bu antlaşma, Mekke'ye giden yol üzerinde yapıldığı için bu isimle anılmıştır"
+  },
+  {
+    "soruMetni": "Peygamberimizin (s.a.s) kendisine ilk vahiy geldiğinde bu olay hakkında konuşmak üzere Hz. Hatice ile birlikte ziyarete gittiği kişi kimdir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+        "Varana b. Nevfel",
+        "Abdülmütttalib",
+        "Hz. Hamza",
+        "Hz. Bilal"
+    ],
+    "dogruCevap": "Varana b. Nevfel",
+    "ipucu": "Hz. Hatice'nin akrabası olan bu kişi, kutsal kitapları bilen bilge bir zattı."
+  },
+  {
+    "soruMetni": "Neml sûresisinin adını aldığı “neml” ne anlama gelir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+        "Karınca",
+        "Arı",
+        "Ebabil",
+        "Deve"
+    ],
+    "dogruCevap": "Karınca",
+    "ipucu": "Bu surede, küçük bir canlı topluluğunun kendi aralarında iletişim kurması konu edilmiştir."
+  },
+  {
+    "soruMetni": "Hz. Peygamber’e (s.a.s) Alak suresinin ilk beş ayetinin nazil olduğu yerin adı aşağıdakilerden hangisidir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+        "Sevr Mağarası",
+        "Hira Mağarası",
+        "Uhud Dağı",
+        "Safa Tepesi"
+    ],
+    "dogruCevap": "Hira Mağarası",
+    "ipucu": "İlk vahyin Peygamberimize (s.a.s) geldiği mağara, Mekke yakınlarında, Nur Dağı'nda yer alır."
+  },
+  {
+    "soruMetni": "Kur'an-ı Kerim ayetlerini her yönü ile aynen çevirme iddiası olmaksızın başka bir dile aktarmaya ne ad verilir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+        "Meal",
+        "Siyer",
+        "Tefsir",
+        "Tevil"
+    ],
+    "dogruCevap": "Meal",
+    "ipucu": "Bu terim, Kur'an ayetlerinin anlamını aktarırken, kelime kelime çevirme amacı güdülmeden, genel anlamın ifade edilmesi için kullanılır."
   }
 ]
