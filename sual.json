@@ -322,5 +322,65 @@
     ],
     "dogruCevap": "Meal",
     "ipucu": "Bu terim, Kur'an ayetlerinin anlamını aktarırken, kelime kelime çevirme amacı güdülmeden, genel anlamın ifade edilmesi için kullanılır."
+  },
+  {
+    "soruMetni": "İslam’ın beş şartından biri olan, belirli zamanlarda kutsal mekânları ziyaret etmeye ne denir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+        "Hac",
+        "Arafat",
+        "Umre",
+        "Oruç"
+    ],
+    "dogruCevap": "Hac",
+    "ipucu": "Maddi durumu yerinde olanlara farz olan bir ibadettir."
+  },
+  {
+    "soruMetni": "Hicri takvime göre ilk ay hangisidir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+        "Recep",
+        "Muharrem",
+        "Zilhicce",
+        "Rebiülevvel"
+    ],
+    "dogruCevap": "Muharrem",
+    "ipucu": "Bu ay, Aşure Günü'nün de içinde bulunduğu aydır."
+  },
+  {
+    "soruMetni": "Hicri takvime göre ilk ay hangisidir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+        "Recep",
+        "Muharrem",
+        "Zilhicce",
+        "Rebiülevvel"
+    ],
+    "dogruCevap": "Muharrem",
+    "ipucu": "Bu ay, Aşure Günü'nün de içinde bulunduğu aydır."
+  },
+  {
+    "soruMetni": "İlk vahyin indiği Hira Mağarası nerededir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+        "Mekke",
+        "Medine",
+        "Kudus",
+        "Fas"
+    ],
+    "dogruCevap": "Mekke",
+    "ipucu": "Mescid-i Haram bu şehirde bulunmaktadır."
+  },
+  {
+    "soruMetni": "Hz. Muhammed (s.a.s)’e kaç yaşında Peygamberlik verilmiştir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+        "40",
+        "63",
+        "35",
+        "50"
+    ],
+    "dogruCevap": "40",
+    "ipucu": "Hz. Muhammed (s.a.s) bu yaşta, Mekke'de Hira Mağarası'nda ilk vahyi almıştır."
   }
 ]
