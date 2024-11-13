@@ -348,18 +348,6 @@
     "ipucu": "Bu ay, Aşure Günü'nün de içinde bulunduğu aydır."
   },
   {
-    "soruMetni": "Hicri takvime göre ilk ay hangisidir?",
-    "zorlukSeviyesi": 1,
-    "siklar": [
-        "Recep",
-        "Muharrem",
-        "Zilhicce",
-        "Rebiülevvel"
-    ],
-    "dogruCevap": "Muharrem",
-    "ipucu": "Bu ay, Aşure Günü'nün de içinde bulunduğu aydır."
-  },
-  {
     "soruMetni": "İlk vahyin indiği Hira Mağarası nerededir?",
     "zorlukSeviyesi": 1,
     "siklar": [
@@ -382,5 +370,137 @@
     ],
     "dogruCevap": "40",
     "ipucu": "Hz. Muhammed (s.a.s) bu yaşta, Mekke'de Hira Mağarası'nda ilk vahyi almıştır."
-  }
+  },
+  {
+    "soruMetni": "Kuran-ı Kerim’in en uzun suresi aşağıdakilerden hangisidir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+        "Bakara Suresi",
+        "Nisa Suresi",
+        "Al-i İmran Suresi",
+        "Kasas Suresi"
+    ],
+    "dogruCevap": "Bakara Suresi",
+    "ipucu": "Bu sure içerisinde Amenerrasulü duasını barındırır."
+  },
+  {
+    "soruMetni": "Peygamberimizin İslam’ı anlattığı ilk zamanlarda Müslümanların toplandığı yer neresidir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+        "Akabe",
+        "Dârülerkam (Erkam’ın Evi)",
+        "Uhud",
+        "Mescid-i Nebevi"
+    ],
+    "dogruCevap": "Dârülerkam (Erkam’ın Evi)",
+    "ipucu": "Bu yer, İslam’ın ilk eğitim merkezi olarak kabul edilebilir. Burada İslam’a yeni katılanlar, Peygamberimiz’den İslam’ı öğrenmiş ve Müslüman toplumunun temelleri burada atılmıştır."
+  },
+  {
+    "soruMetni": "Hz. Nuh Peygamber, kavmine kaç yıl boyunca İslam’ı tebliğ etmiştir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+        "40 yıl",
+        "950 yıl",
+        "500 yıl",
+        "120 yıl"
+    ],
+    "dogruCevap": "950 yıl",
+    "ipucu": "Hz. Nuh, kavmine uzun yıllar sabırla tebliğde bulunmuş ve onları Allah’a yöneltmeye çalışmıştır."
+  },
+  {
+    "soruMetni": "Hz. Salih Peygamber, hangi kavme gönderilmiştir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+        "Ad kavmi",
+        "Semud kavmi",
+        "Medyen kavmi",
+        "Beni İsrail"
+    ],
+    "dogruCevap": "Semud kavmi",
+    "ipucu": "Bu kavim, kaya oyuklarında evler yapan ve taşlardan heykelleri şekillendiren bir topluluktu."
+  },
+  {
+    "soruMetni": "Hz. Lut, kavminin hangi kötü alışkanlığını yasaklamıştır?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+        "Hırsızlık",
+        "Zina ve ahlaksızlık",
+        "Kumar",
+        "İçki"
+    ],
+    "dogruCevap": "Zina ve ahlaksızlık",
+    "ipucu": "Bu kavim, aynı cinsiyetle ilişki kurmayı yaygınlaştırarak büyük bir günah işlemişti."
+ },
+ {
+    "soruMetni": "Hz. Musa Peygamber, Firavun’a karşı hangi mucizeyi göstermiştir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+        "Denizin ikiye yarılması",
+        "Ağaçtan su çıkması",
+        "Güneşin tutulması",
+        "Zehirli yılanın ölmesi"
+    ],
+    "dogruCevap": "Denizin ikiye yarılması",
+    "ipucu": "Hz. Musa, kavmiyle birlikte denizin karşısına geçtiğinde, Allah'ın izniyle deniz ikiye yarılmıştır."
+ },
+ {
+    "soruMetni": "Hz. Musa, Firavun'a karşı hangi mucizeyi gösterdikten sonra kavmini Mısır'dan çıkarmıştır?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+        "Kurşunun suya dönüşmesi",
+        "Kollarının büyümesi",
+        "Asasının yılan olması",
+        "Dağın hareket etmesi"
+    ],
+    "dogruCevap": "Asasının yılan olması",
+    "ipucu": "Bu mucizeyi gösterdiğinde, Firavun'un sihirbazları bu durumu kabul ederek iman etmişti."
+ },
+ {
+    "soruMetni": "Hz. Musa, hangi denizi geçerek kavmini Mısır'dan kurtarmıştır?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+        "Kızıldeniz",
+        "Akdeniz",
+        "Hazar Denizi",
+        "Aral Denizi"
+    ],
+    "dogruCevap": "Kızıldeniz",
+    "ipucu": "Hz. Musa, Firavun'un askerlerinden kaçarken bu denizi Allah'ın izniyle ikiye yarıp kavmini geçirmiştir."
+ },
+ {
+    "soruMetni": "Aşağıdakilerden hangisi Hz. İsa'nın mucizeleri arasındadır?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+        "Ölüleri diriltmek",
+        "Havada Durabilme",
+        "Gökyüzünden ateş indirilmesi",
+        "Denizde yürümek"
+    ],
+    "dogruCevap": "Ölüleri diriltmek",
+    "ipucu": "Hz. İsa, Allah'ın izniyle yaşamını kaybeden insanları geri getirmiştir."
+ },
+ {
+    "soruMetni": "Aşağıdakilerden hangisi Hz. Süleyman'ın mucizeleri arasındadır?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+        "Yağmuru kontrol etmesi",
+        "Dağları hareket ettirmesi",
+        "Rüzgarı yönlendirmek",
+        "Elinden ışık çıkarması"
+    ],
+    "dogruCevap": "Rüzgarı yönlendirmek",
+    "ipucu": "Hz. Süleyman, Allah'ın izniyle o istediği yere tatlı tatlı eserdi."
+ },
+ {
+    "soruMetni": "Hz. İbrahim peygamber firavun tarafından ateşe atılmak istenildiğinde 'Safım belli olsun' diye ateşi söndürmek için yardıma giden hayvan hangisidir? ",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+        "Karınca",
+        "Deve",
+        "Ebabil Kuşu",
+        "Arı"
+    ],
+    "dogruCevap": "Karınca",
+    "ipucu": "Hz. İbrahim'in ateşe atılmasından önce, küçük bir hayvan bir damla su ile 'Safım belli olsun' diyerek yardıma gitmiştir."
+}
 ]
