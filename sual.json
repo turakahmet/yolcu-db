@@ -502,5 +502,41 @@
     ],
     "dogruCevap": "Karınca",
     "ipucu": "Hz. İbrahim'in ateşe atılmasından önce, küçük bir hayvan bir damla su ile 'Safım belli olsun' diyerek yardıma gitmiştir."
+},
+   {
+    "soruMetni": "Kur’ân-ı Kerîm’i insan gücünün imkân verdiği ölçüde anlamayı gaye edinen ve geniş şekilde açıklayan, gerektiğinde yorumlayan eserlere ne ad verilir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+        "Tefsir",
+        "Tebliğ",
+        "Siyer",
+        "Meal"
+    ],
+    "dogruCevap": "Tefsir",
+    "ipucu": "Bu terim, Kur'ân-ı Kerîm’in doğru anlaşılması için yapılan derinlemesine açıklamalara ve yorumlara verilen isimdir. Çoğunlukla İslam alimlerinin, ayetleri daha ayrıntılı bir şekilde açıklamak için yazdığı eserlerde bulunur."
+},
+    {
+    "soruMetni": "Kur’ân-ı Kerîm’i insan gücünün imkân verdiği ölçüde anlamayı gaye edinen ve geniş şekilde açıklayan, gerektiğinde yorumlayan eserlere ne ad verilir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+        "Tefsir",
+        "Tebliğ",
+        "Siyer",
+        "Meal"
+    ],
+    "dogruCevap": "Tefsir",
+    "ipucu": "Bu terim, Kur'ân-ı Kerîm’in doğru anlaşılması için yapılan derinlemesine açıklamalara ve yorumlara verilen isimdir. Çoğunlukla İslam alimlerinin, ayetleri daha ayrıntılı bir şekilde açıklamak için yazdığı eserlerde bulunur."
+},
+   {
+    "soruMetni": "Kur’ân-ı Kerîm âyetlerinin iki kapak arasında toplanmasından oluşan kitaba ne denir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+        "Mushaf",
+        "Müfessir",
+        "Meal",
+        "Defter"
+    ],
+    "dogruCevap": "Mushaf",
+    "ipucu": "Kur'ân-ı Kerîm’in tüm âyetlerinin bir araya getirildiği ve genellikle basılı olarak bulunan kitaba verilen isim."
 }
 ]
