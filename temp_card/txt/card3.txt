@@ -1,3 +1,6 @@
+imageUrl:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card3.jpg
+title:Namaz İbadeti
+──── ୨୧ ────
 Namaz, İslam’ın beş temel şartından biri olup, Allah’a kulluk ve ibadetin en önemli göstergelerindendir. Müslümanların gün içerisinde belirli vakitlerde kıldıkları namaz, hem bireysel hem de toplumsal açıdan büyük bir öneme sahiptir. Namaz, insanın ruhunu arındırır, manevi huzur sağlar ve Allah’a yakınlaşmasına vesile olur.
 
 Namazın Önemi
@@ -29,4 +32,5 @@ Namazın hem dış hem de iç olmak üzere toplam on iki farzı vardır. Bunlar 
 Sonuç
 
 Namaz, Müslüman’ın hayatında önemli bir ibadettir ve kişinin hem dünyasını hem de ahiretini güzelleştiren bir eylemdir. Namaz, insanı kötülüklerden alıkoyar, kalbi huzura kavuşturur ve Allah’a yakınlaştırır. Her Müslümanın, namazı düzenli bir şekilde kılmaya gayret etmesi gerekmektedir. Bu ibadeti hakkıyla yerine getirenler, hem dünya hem de ahiret hayatında büyük kazançlar elde ederler.
+──── ୨୧ ────
 
