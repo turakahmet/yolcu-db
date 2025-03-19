@@ -1,4 +1,4 @@
-imageUrl:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card3.jpg
+imageUrl:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card2.jpg
 title:İslam’ın ve İmanın Şartları
 ──── ୨୧ ────
 ~İslam’ın Şartları~
