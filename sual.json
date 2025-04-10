@@ -985,7 +985,7 @@
     ]
   },
   {
-    "soruMetni": "Hz. Peygamber'in (sas) hicret esnasında Kuba'da inşa ettiği ilk mescidin adı nedir?",
+    "soruMetni": "Hz. Peygamber'in (sas) Medine'ye hicretinden sonra inşa edilen ilk mescidin adı nedir?",
     "zorlukSeviyesi": 2,
     "siklar": [
       "Mescid-i Nebevi",
@@ -1713,6 +1713,1469 @@
     "ipucu": "Dinde dürüstlük ve kararlılık.",
     "soruTipleri": [
       "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "İslam'ın temel kaynağı nedir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Sünnet",
+      "Kuran",
+      "İcma",
+      "Kıyas"
+    ],
+    "dogruCevap": "Kuran",
+    "ipucu": "Müslümanların kutsal kitabı.",
+    "soruTipleri": [
+      "GENEL",
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Muhammed (sas) nerede doğmuştur?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Medine",
+      "Şam",
+      "Mekke",
+      "Kudüs"
+    ],
+    "dogruCevap": "Mekke",
+    "ipucu": "Kabe'nin bulunduğu şehir.",
+    "soruTipleri": [
+      "GENEL",
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "İlk Müslümanlardan biri olan ve Habeşistan'a hicret eden sahabe kimdir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Hz. Ömer (ra)",
+      "Hz. Osman (ra)",
+      "Hz. Bilal-i Habeşi (ra)",
+      "Cafer bin Ebu Talib (ra)"
+    ],
+    "dogruCevap": "Cafer bin Ebu Talib (ra)",
+    "ipucu": "Habeşistan hicretinde önemli rol oynamıştır.",
+    "soruTipleri": [
+      "SIYER",
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an-ı Kerim kaç senede tamamlanmıştır?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "10",
+      "15",
+      "23",
+      "40"
+    ],
+    "dogruCevap": "23",
+    "ipucu": "Hz. Muhammed'e (sas) peyderpey indirilmiştir.",
+    "soruTipleri": [
+      "GENEL",
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Hz. İbrahim'in (as) babasının adı neydi?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Nuh",
+      "Adem",
+      "Terah",
+      "Lut"
+    ],
+    "dogruCevap": "Terah",
+    "ipucu": "Put yapımıyla uğraşan bir kişiydi.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Medine Sözleşmesi hangi topluluklar arasında yapılmıştır?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Sadece Müslümanlar ve Yahudiler",
+      "Müslümanlar, Hristiyanlar ve Yahudiler",
+      "Müslümanlar, Yahudiler ve diğer kabileler",
+      "Sadece Müslümanlar"
+    ],
+    "dogruCevap": "Müslümanlar, Yahudiler ve diğer kabileler",
+    "ipucu": "Medine'deki farklı grupların birlikte yaşama esaslarını belirlemiştir.",
+    "soruTipleri": [
+      "SIYER",
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an-ı Kerim'de adı geçen tek kadın sahabe kimdir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Hz. Hatice",
+      "Hz. Aişe",
+      "Hz. Meryem",
+      "Esma bint. Ebi Bekir"
+    ],
+    "dogruCevap": "Hz. Meryem",
+    "ipucu": "Bir peygamberin annesidir.",
+    "soruTipleri": [
+      "KURAN",
+      "PEYGAMBERLER_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "İslam tarihinde 'Hulefa-i Raşidin' dönemi hangi halife ile sona ermiştir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Hz. Ebu Bekir (ra)",
+      "Hz. Ömer (ra)",
+      "Hz. Osman (ra)",
+      "Hz. Ali (ra)"
+    ],
+    "dogruCevap": "Hz. Ali (ra)",
+    "ipucu": "Bu dönemi iç karışıklıklar takip etmiştir.",
+    "soruTipleri": [
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an'ın en kısa suresi hangisidir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Fatiha",
+      "İhlas",
+      "Nas",
+      "Kevser"
+    ],
+    "dogruCevap": "Kevser",
+    "ipucu": "Üç ayetten oluşur.",
+    "soruTipleri": [
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Nuh'un (as) gemisine binenler arasında olmayan oğlu kimdir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Sam",
+      "Ham",
+      "Yafes",
+      "Kenan"
+    ],
+    "dogruCevap": "Kenan",
+    "ipucu": "Tufandan kurtulamamıştır.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "İslam tarihinde ilk ayrılıklar hangi olayla başlamıştır?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Ridde Savaşları",
+      "Cemel Vakası",
+      "Hendek Savaşı",
+      "Bedir Savaşı"
+    ],
+    "dogruCevap": "Cemel Vakası",
+    "ipucu": "Sahabeler arasında yaşanan ilk büyük anlaşmazlık.",
+    "soruTipleri": [
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an'da en çok bahsedilen peygamber kimdir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Hz. İbrahim (as)",
+      "Hz. Musa (as)",
+      "Hz. İsa (as)",
+      "Hz. Yusuf (as)"
+    ],
+    "dogruCevap": "Hz. Musa (as)",
+    "ipucu": "Kıssası oldukça detaylı anlatılır.",
+    "soruTipleri": [
+      "KURAN",
+      "PEYGAMBERLER_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Mekke'nin fethi hangi yılda gerçekleşmiştir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Hicretin 1. yılı",
+      "Hicretin 5. yılı",
+      "Hicretin 8. yılı",
+      "Hicretin 10. yılı"
+    ],
+    "dogruCevap": "Hicretin 8. yılı",
+    "ipucu": "Kabe putlardan temizlenmiştir.",
+    "soruTipleri": [
+      "SIYER",
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Yusuf'un (as) kuyuya atılması olayında kardeşlerinin temel amacı neydi?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Onu öldürmek",
+      "Onu uzaklaştırmak ve babalarının sevgisini kazanmak",
+      "Onu köle olarak satmak",
+      "Onu eğitmek"
+    ],
+    "dogruCevap": "Onu uzaklaştırmak ve babalarının sevgisini kazanmak",
+    "ipucu": "Kıskançlık duygusu etkili olmuştur.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "İslam tarihinde Emevi Devleti'nin başkenti neresiydi?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Mekke",
+      "Medine",
+      "Şam",
+      "Bağdat"
+    ],
+    "dogruCevap": "Şam",
+    "ipucu": "Hulefa-i Raşidin döneminden sonraki büyük İslam devleti.",
+    "soruTipleri": [
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an'da 'Fil Vakası' hangi olayı anlatır?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Bedir Savaşı",
+      "Uhud Savaşı",
+      "Kabe'yi yıkmaya gelen ordu",
+      "Hicret olayı"
+    ],
+    "dogruCevap": "Kabe'yi yıkmaya gelen ordu",
+    "ipucu": "Hz. Peygamber'in (sas) doğumundan kısa bir süre önce yaşanmıştır.",
+    "soruTipleri": [
+      "KURAN",
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Süleyman'a (as) hükmetme yetkisi verilen varlıklar arasında hangisi yoktur?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Cinler",
+      "İnsanlar",
+      "Hayvanlar",
+      "Melekler"
+    ],
+    "dogruCevap": "Melekler",
+    "ipucu": "Rüzgara da hükmedebiliyordu.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "İslam'ın inanç esaslarının tümüne ne ad verilir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Amel",
+      "Ahlak",
+      "İman",
+      "İbadet"
+    ],
+    "dogruCevap": "İman",
+    "ipucu": "Kabul edilmesi gereken temel ilkeler.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an-ı Kerim'in ilk emri neydi?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Namaz kıl",
+      "Oku",
+      "Oruç tut",
+      "Zekat ver"
+    ],
+    "dogruCevap": "Oku",
+    "ipucu": "Bilginin önemine işaret eder.",
+    "soruTipleri": [
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Peygamber'in (sas) amcası olup İslam'a büyük destek veren kişi kimdir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Ebu Cehil",
+      "Ebu Leheb",
+      "Ebu Talib",
+      "Abbas"
+    ],
+    "dogruCevap": "Ebu Talib",
+    "ipucu": "Peygamber Efendimizi uzun yıllar himaye etmiştir.",
+    "soruTipleri": [
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "Hicretin gerçekleştiği şehirlerin ilk ve sonraki adı nedir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Mekke-Taif",
+      "Taif-Medine",
+      "Mekke-Yesrib",
+      "Yesrib-Şam"
+    ],
+    "dogruCevap": "Mekke-Yesrib",
+    "ipucu": "Yesrib daha sonra Peygamber şehri anlamına gelen bir isim almıştır.",
+    "soruTipleri": [
+      "SIYER",
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Bedir Savaşı'nın kazanılmasında Allah'ın (cc) yardımı olarak bahsedilen nedir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Meleklerin savaşa katılması",
+      "Rüzgarın yön değiştirmesi",
+      "Düşman ordusunun dağılması",
+      "Sahabelerin sayısının artması"
+    ],
+    "dogruCevap": "Meleklerin savaşa katılması",
+    "ipucu": "Kur'an'da da bahsedilen ilahi destek.",
+    "soruTipleri": [
+      "SIYER",
+      "ISLAM_TARIHI",
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an'da 'Zülkarneyn' kıssası neyi anlatır?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Bir peygamberin hayatını",
+      "Adil ve güçlü bir hükümdarın hikayesini",
+      "İlk insanın yaratılışını",
+      "Kıyamet alametlerini"
+    ],
+    "dogruCevap": "Adil ve güçlü bir hükümdarın hikayesini",
+    "ipucu": "Yecüc ve Mecüc seddini inşa eden kişi.",
+    "soruTipleri": [
+      "KURAN",
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Abbasiler döneminde kurulan ve önemli bir ilim merkezi olan şehir neresidir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Şam",
+      "Kahire",
+      "Bağdat",
+      "İstanbul"
+    ],
+    "dogruCevap": "Bağdat",
+    "ipucu": "Beytül Hikme'nin bulunduğu şehir.",
+    "soruTipleri": [
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Şuayb'ın (as) kavmi hangi ahlaki bozukluklarıyla tanınırdı?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Putperestlik",
+      "Zina",
+      "Ölçüde ve tartıda hile",
+      "Büyücülük"
+    ],
+    "dogruCevap": "Ölçüde ve tartıda hile",
+    "ipucu": "Medeyen halkı.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Uhud Savaşı'nın temel sebebi neydi?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Bedir Savaşı'nın intikamı",
+      "Mekke'nin fethi isteği",
+      "Yahudilerin kışkırtması",
+      "Ticaret yollarının güvenliği"
+    ],
+    "dogruCevap": "Bedir Savaşı'nın intikamı",
+    "ipucu": "Müşriklerin Müslümanlara karşı ikinci büyük saldırısı.",
+    "soruTipleri": [
+      "SIYER",
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "İslam'da ilk kıble neresiydi?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Kabe",
+      "Mescid-i Aksa",
+      "Mescid-i Nebevi",
+      "Kuba Mescidi"
+    ],
+    "dogruCevap": "Mescid-i Aksa",
+    "ipucu": "Kudüs'te bulunmaktadır.",
+    "soruTipleri": [
+      "GENEL",
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Davud'a (as) verilen mucizelerden biri nedir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Asanın yılana dönüşmesi",
+      "Denizi yarması",
+      "Demirin yumuşaması",
+      "Kuyudan çıkarılması"
+    ],
+    "dogruCevap": "Demirin yumuşaması",
+    "ipucu": "Zırh yapımında kullanmıştır.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "İslam tarihinde yaşanan 'Harre Vakası' nedir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "İlk Müslümanların Habeşistan'a hicreti",
+      "Hz. Ömer'in (ra) şehit edilmesi",
+      "Medine halkına yönelik Emevi zulmü",
+      "Bedir Savaşı öncesindeki keşif hareketi"
+    ],
+    "dogruCevap": "Medine halkına yönelik Emevi zulmü",
+    "ipucu": "Yezid döneminde yaşanan acı olaylardan biri.",
+    "soruTipleri": [
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Veda Hutbesi'nde Hz. Peygamber (sas) Müslümanlara hangi önemli tavsiyelerde bulunmamıştır?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Kadınlara iyi davranılması",
+      "Kan davalarının kaldırılması",
+      "Faizin helal kılınması",
+      "Birlik ve beraberliğin korunması"
+    ],
+    "dogruCevap": "Faizin helal kılınması",
+    "ipucu": "Önemli bir dönüm noktası olan bu hutbe birçok temel ilkeyi içerir.",
+    "soruTipleri": [
+      "SIYER",
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Emeviler'den sonra İslam dünyasında kurulan büyük devlet hangisidir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Selçuklular",
+      "Osmanlılar",
+      "Fatımiler",
+      "Abbasiler"
+    ],
+    "dogruCevap": "Abbasiler",
+    "ipucu": "Başkentleri Bağdat'tır.",
+    "soruTipleri": [
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an'da 'Ashab-ı Kehf' kıssası neyi anlatır?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Peygamberlere yapılan işkenceleri",
+      "Mağaraya sığınan gençlerin mucizevi uykusunu",
+      "Kıyamet günündeki dirilişi",
+      "Geçmiş peygamberlerin davet mücadelelerini"
+    ],
+    "dogruCevap": "Mağaraya sığınan gençlerin mucizevi uykusunu",
+    "ipucu": "Zalim bir hükümdardan kaçan inançlı gençlerin hikayesi.",
+    "soruTipleri": [
+      "KURAN",
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Hz. İdris (as) Kur'an'da nasıl nitelendirilir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Büyük bir peygamber",
+      "Doğruluğu tasdik edilmiş bir nebi",
+      "İlk insan ve peygamber",
+      "Sabırlı bir kul"
+    ],
+    "dogruCevap": "Doğruluğu tasdik edilmiş bir nebi",
+    "ipucu": "İlim ve hikmet sahibi bir peygamber.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an-ı Kerim'in bölümlerine ne ad verilir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Ayat",
+      "Sure",
+      "Cüz",
+      "Hizb"
+    ],
+    "dogruCevap": "Sure",
+    "ipucu": "Her birinin kendine ait bir adı vardır.",
+    "soruTipleri": [
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Peygamber'in (sas) eşlerinden olup 'Müminlerin Annesi' olarak anılan ve zekasıyla tanınan hanım sahabe kimdir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Hz. Hatice",
+      "Hz. Sevde",
+      "Hz. Aişe",
+      "Hz. Ümmü Seleme"
+    ],
+    "dogruCevap": "Hz. Aişe",
+    "ipucu": "Pek çok hadis rivayet etmiştir.",
+    "soruTipleri": [
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "İslam tarihinde ilk deniz savaşı olarak kabul edilen ve Bizans İmparatorluğu ile yapılan savaş hangisidir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Yermük Savaşı",
+      "Kadisiye Savaşı",
+      "Zatü's-Savari Savaşı",
+      "Malazgirt Savaşı"
+    ],
+    "dogruCevap": "Zatü's-Savari Savaşı",
+    "ipucu": "Hz. Osman (ra) döneminde gerçekleşmiştir.",
+    "soruTipleri": [
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Yakup'un (as) oğlu Yusuf'u (as) kıskanan kardeşlerinin sayısı kaçtır?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "5",
+      "7",
+      "10",
+      "12"
+    ],
+    "dogruCevap": "10",
+    "ipucu": "Kur'an'da anlatılan bir olay.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Hicret sırasında Hz. Peygamber (sas) ve Hz. Ebu Bekir'in (ra) saklandığı mağaranın adı nedir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Hira Mağarası",
+      "Uhud Mağarası",
+      "Sevr Mağarası",
+      "Bedir Kuyusu"
+    ],
+    "dogruCevap": "Sevr Mağarası",
+    "ipucu": "Mekke dışındadır.",
+    "soruTipleri": [
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an'da 'İsrâ' suresi hangi olayı anlatır?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Bedir Savaşı'nı",
+      "Hicret olayını",
+      "Miraç olayını",
+      "Fil Vakası'nı"
+    ],
+    "dogruCevap": "Miraç olayını",
+    "ipucu": "Hz. Peygamber'in (sas) göğe yükselişi.",
+    "soruTipleri": [
+      "KURAN",
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "Emeviler döneminde Arapçanın resmi dil ilan edilmesi hangi halife zamanında olmuştur?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Muaviye",
+      "Abdülmelik",
+      "Velid",
+      "Ömer bin Abdülaziz"
+    ],
+    "dogruCevap": "Abdülmelik",
+    "ipucu": "Devlet işlerinde birlik sağlamayı amaçlamıştır.",
+    "soruTipleri": [
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Salih'in (as) kavmi hangi mucizeyi istemişlerdir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Denizin yarılması",
+      "Ateşten zarar görmemesi",
+      "Kayadan deve çıkması",
+      "Ölüleri diriltmesi"
+    ],
+    "dogruCevap": "Kayadan deve çıkması",
+    "ipucu": "Semud kavmi.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Mute Savaşı'nda Müslüman ordusunun ilk üç komutanı sırasıyla kimlerdi?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Halid bin Velid, Ebu Ubeyde bin Cerrah, Amr bin As",
+      "Zeyd bin Harise, Cafer bin Ebu Talib, Abdullah bin Revaha",
+      "Sa'd bin Ebi Vakkas, Zubeyr bin Avvam, Talha bin Ubeydullah",
+      "Bilal-i Habeşi, Mikdad bin Esved, Selman-ı Farisi"
+    ],
+    "dogruCevap": "Zeyd bin Harise, Cafer bin Ebu Talib, Abdullah bin Revaha",
+    "ipucu": "Üçü de şehit olmuştur.",
+    "soruTipleri": [
+      "SIYER",
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "İslam'da farz olan beş vakit namazın rek'at sayıları toplamı kaçtır?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "30",
+      "35",
+      "40",
+      "45"
+    ],
+    "dogruCevap": "40",
+    "ipucu": "Sabah 2, öğle 4, ikindi 4, akşam 3, yatsı 4 + vitir 3.",
+    "soruTipleri": [
+      "GENEL",
+      "İBADET"
+    ]
+  },
+  {
+    "soruMetni": "Hz. İdris (as) hangi özelliğiyle diğer peygamberlerden ayrılır?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "İlk insan olması",
+      "Tufandan kurtulması",
+      "Göğe yükseltilmesi",
+      "En uzun yaşayan peygamber olması"
+    ],
+    "dogruCevap": "Göğe yükseltilmesi",
+    "ipucu": "Kur'an'da özel bir şekilde anılır.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Endülüs Emevi Devleti'nin başkenti neresiydi?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Şam",
+      "Bağdat",
+      "Kurtuba",
+      "Kahire"
+    ],
+    "dogruCevap": "Kurtuba",
+    "ipucu": "Avrupa'daki önemli İslam merkezlerinden biri.",
+    "soruTipleri": [
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Peygamber'in (sas) hicret yolculuğunda kılınan ilk cuma namazı nerede kılınmıştır?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Kuba",
+      "Medine",
+      "Ranuna Vadisi",
+      "Mekke"
+    ],
+    "dogruCevap": "Ranuna Vadisi",
+    "ipucu": "Medine yolunda bir yerleşim yeri.",
+    "soruTipleri": [
+      "SIYER",
+      "İBADET"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an'da adı geçen ve karıncaların konuştuğu peygamber kimdir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Hz. Süleyman (as)",
+      "Hz. Davud (as)",
+      "Hz. Yusuf (as)",
+      "Hz. İbrahim (as)"
+    ],
+    "dogruCevap": "Hz. Süleyman (as)",
+    "ipucu": "Hayvanların dilini bilen peygamber.",
+    "soruTipleri": [
+      "KURAN",
+      "PEYGAMBERLER_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "İslam tarihinde 'Dört Halife' dönemi yaklaşık olarak kaç yıl sürmüştür?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "10 yıl",
+      "20 yıl",
+      "30 yıl",
+      "40 yıl"
+    ],
+    "dogruCevap": "30 yıl",
+    "ipucu": "Hicretin 11. yılından 41. yılına kadar.",
+    "soruTipleri": [
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an'da 'Ahzab' suresi hangi önemli olayı anlatır?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Bedir Savaşı",
+      "Uhud Savaşı",
+      "Hendek Savaşı",
+      "Mekke'nin Fethi"
+    ],
+    "dogruCevap": "Hendek Savaşı",
+    "ipucu": "Müttefik ordularının Medine'yi kuşatması.",
+    "soruTipleri": [
+      "KURAN",
+      "SIYER",
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Nuh'un (as) tufanından sonra geminin karaya oturduğu yer olarak kabul edilen dağın adı nedir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Sina Dağı",
+      "Cudi Dağı",
+      "Eren Dağı",
+      "Arafat Dağı"
+    ],
+    "dogruCevap": "Cudi Dağı",
+    "ipucu": "Farklı rivayetler de bulunmaktadır.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "İslam'da ahiret gününde insanların amellerinin tartılacağı manevi ölçüye ne ad verilir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Mizan",
+      "Sırat",
+      "Cennet",
+      "Cehennem"
+    ],
+    "dogruCevap": "Mizan",
+    "ipucu": "İyilik ve kötülüklerin tartılacağı terazi.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an-ı Kerim'de kaç cüz bulunmaktadır?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "20",
+      "30",
+      "40",
+      "60"
+    ],
+    "dogruCevap": "30",
+    "ipucu": "Her cüz genellikle 20 sayfadır.",
+    "soruTipleri": [
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Peygamber'in (sas) Medine'deki mescidinin ilk adı neydi?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Kuba Mescidi",
+      "Mescid-i Haram",
+      "Mescid-i Nebevi",
+      "Mescid-i Kıbleteyn"
+    ],
+    "dogruCevap": "Mescid-i Nebevi",
+    "ipucu": "Peygamber Mescidi anlamına gelir.",
+    "soruTipleri": [
+      "SIYER",
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "İslam tarihinde Ehl-i Beyt kavramı kimleri kapsar?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Sadece Hz. Peygamber'in (sas) eşlerini",
+      "Sadece Hz. Peygamber'in (sas) çocuklarını",
+      "Hz. Peygamber'in (sas) ailesini ve yakın akrabalarını",
+      "Sadece ilk dört halifeyi"
+    ],
+    "dogruCevap": "Hz. Peygamber'in (sas) ailesini ve yakın akrabalarını",
+    "ipucu": "Ali, Fatıma, Hasan ve Hüseyin (ra) başta olmak üzere.",
+    "soruTipleri": [
+      "ISLAM_TARIHI",
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Adem'den (as) sonra gönderilen ilk peygamber olarak kabul edilen kişi kimdir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Hz. Şît (as)",
+      "Hz. Nuh (as)",
+      "Hz. İdris (as)",
+      "Hz. Salih (as)"
+    ],
+    "dogruCevap": "Hz. Şît (as)",
+    "ipucu": "Hz. Âdem'in üçüncü oğlu. Semavî kitaplara göre ilk insan ve ilk peygamber.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Hicret esnasında Hz. Peygamber'in (sas) devesinin adı neydi?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Kasva",
+      "Burak",
+      "Düldül",
+      "Safra"
+    ],
+    "dogruCevap": "Kasva",
+    "ipucu": "Medine'ye varışında önemli bir rol oynamıştır.",
+    "soruTipleri": [
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an'da 'Enfal' suresi hangi önemli savaştan sonra indirilmiştir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Uhud Savaşı",
+      "Hendek Savaşı",
+      "Bedir Savaşı",
+      "Mute Savaşı"
+    ],
+    "dogruCevap": "Bedir Savaşı",
+    "ipucu": "Ganimetler ve savaş hukukuyla ilgili hükümler içerir.",
+    "soruTipleri": [
+      "KURAN",
+      "SIYER",
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Abbasiler döneminde en parlak devir hangi halife zamanında yaşanmıştır?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Ebu'l-Abbas es-Seffah",
+      "Mansur",
+      "Harun Reşid",
+      "Me'mun"
+    ],
+    "dogruCevap": "Harun Reşid",
+    "ipucu": "Bilim, sanat ve kültürün altın çağı.",
+    "soruTipleri": [
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Hz. İlyas (as) hangi topluma peygamber olarak gönderilmiştir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Semud",
+      "Ad",
+      "İsrailoğulları",
+      "Medeyen"
+    ],
+    "dogruCevap": "İsrailoğulları",
+    "ipucu": "Baal kültürüyle mücadele etmiştir.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Zekeriya'nın (as) oğlu olan peygamber kimdir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Hz. Yahya (as)",
+      "Hz. İsa (as)",
+      "Hz. Süleyman (as)",
+      "Hz. İlyas (as)"
+    ],
+    "dogruCevap": "Hz. Yahya (as)",
+    "ipucu": "Vaftizci Yahya olarak da bilinir.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "İslam tarihinde yaşanan 'Sıffin Savaşı' hangi halife döneminde gerçekleşmiştir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Hz. Ebu Bekir (ra)",
+      "Hz. Ömer (ra)",
+      "Hz. Osman (ra)",
+      "Hz. Ali (ra)"
+    ],
+    "dogruCevap": "Hz. Ali (ra)",
+    "ipucu": "Müslümanlar arasındaki ilk büyük iç savaşlardan biri.",
+    "soruTipleri": [
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Peygamber'in (sas) ilk çocukları kimden olmuştur?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Hz. Aişe",
+      "Hz. Sevde",
+      "Hz. Hatice",
+      "Hz. Zeynep"
+    ],
+    "dogruCevap": "Hz. Hatice",
+    "ipucu": "Peygamberlik öncesi evliliği.",
+    "soruTipleri": [
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an'da 'Hicr' suresinde hangi peygamberin kavminin taş kesildiği anlatılır?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Hz. Nuh (as)",
+      "Hz. Lut (as)",
+      "Hz. Salih (as)",
+      "Hz. Şuayb (as)"
+    ],
+    "dogruCevap": "Hz. Lut (as)",
+    "ipucu": "Ahlaki sapkınlıkları nedeniyle cezalandırıldılar.",
+    "soruTipleri": [
+      "KURAN",
+      "PEYGAMBERLER_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an'da 'Hucurat' suresi hangi temel ahlaki ilkeyi vurgular?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Adalet",
+      "Merhamet",
+      "Gıybetten kaçınma",
+      "Doğruluk"
+    ],
+    "dogruCevap": "Gıybetten kaçınma",
+    "ipucu": "Müslümanların birbirleriyle olan ilişkilerini düzenler.",
+    "soruTipleri": [
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Nuh'un (as) gemisi kaç katlıydı?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Tek katlı",
+      "İki katlı",
+      "Üç katlı",
+      "Dört katlı"
+    ],
+    "dogruCevap": "Üç katlı",
+    "ipucu": "Her kat farklı canlı türleri için ayrılmıştı.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Peygamber'in (sas) hicret ederken sığındığı Sevr Mağarası'nda kaç gün kalmıştır?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "1 gün",
+      "2 gün",
+      "3 gün",
+      "4 gün"
+    ],
+    "dogruCevap": "3 gün",
+    "ipucu": "Müşriklerin takibinden kurtulmak için.",
+    "soruTipleri": [
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an'da 'Tevbe' suresi hangi özelliğiyle diğer surelerden ayrılır?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "En uzun sure olması",
+      "Besmele ile başlamaması",
+      "İlk nazil olan sure olması",
+      "En çok peygamber kıssası içermesi"
+    ],
+    "dogruCevap": "Besmele ile başlamaması",
+    "ipucu": "Savaş ve antlaşmalarla ilgili hükümler içerir.",
+    "soruTipleri": [
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Hz. İbrahim'in (as) ateşe atıldığı yer olarak bilinen antik şehir neresidir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Kudüs",
+      "Şam",
+      "Urfa",
+      "Babil"
+    ],
+    "dogruCevap": "Urfa",
+    "ipucu": "Balıklıgöl'ün hikayesiyle bağlantılıdır.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Hudeybiye Antlaşması kimler arasında imzalanmıştır?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Müslümanlar ve Yahudiler",
+      "Müslümanlar ve Hristiyanlar",
+      "Müslümanlar ve Mekkeli Müşrikler",
+      "Müslümanlar ve Bizans İmparatorluğu"
+    ],
+    "dogruCevap": "Müslümanlar ve Mekkeli Müşrikler",
+    "ipucu": "Önemli bir barış antlaşmasıdır.",
+    "soruTipleri": [
+      "SIYER",
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Yusuf'un (as) rüyasında gördüğü on bir yıldız, güneş ve ay neyi sembolize ediyordu?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Gelecekteki savaşları",
+      "Bolluk ve bereketi",
+      "Kardeşlerini ve anne babasını",
+      "Mısır'ın zenginliğini"
+    ],
+    "dogruCevap": "Kardeşlerini ve anne babasını",
+    "ipucu": "Rüya tabir ilmiyle ilgilidir.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Peygamber'in (sas) hicret yolculuğunda kendisine kılavuzluk yapan sahabe kimdir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Hz. Bilal (ra)",
+      "Hz. Ammar bin Yasir (ra)",
+      "Abdullah bin Ureykıt",
+      "Suheyb-i Rumi (ra)"
+    ],
+    "dogruCevap": "Abdullah bin Ureykıt",
+    "ipucu": "Yolu iyi bilen bir kişiydi.",
+    "soruTipleri": [
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an'da 'Kehf' suresinde geçen 'Yecüc ve Mecüc' kimlerdir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Melekler",
+      "Cinler",
+      "Kıyamet alametlerinden olan iki topluluk",
+      "Geçmişte yaşamış güçlü bir kavim"
+    ],
+    "dogruCevap": "Kıyamet alametlerinden olan iki topluluk",
+    "ipucu": "Zülkarneyn seddi ile engellenmişlerdir.",
+    "soruTipleri": [
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "İslam tarihinde 'Beytül Hikme' hangi dönemde kurulmuştur?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Dört Halife Dönemi",
+      "Emeviler Dönemi",
+      "Abbasiler Dönemi",
+      "Osmanlılar Dönemi"
+    ],
+    "dogruCevap": "Abbasiler Dönemi",
+    "ipucu": "Önemli bir bilim ve tercüme merkezidir.",
+    "soruTipleri": [
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Hud (as) hangi kavme peygamber olarak gönderilmiştir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Semud",
+      "Ad",
+      "Lut",
+      "Medeyen"
+    ],
+    "dogruCevap": "Ad",
+    "ipucu": "Yüksek binalar inşa eden bir kavim.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Peygamber'in (sas) ilk eşi Hz. Hatice kaç yaşında vefat etmiştir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "45",
+      "50",
+      "55",
+      "65"
+    ],
+    "dogruCevap": "65",
+    "ipucu": "Peygamber Efendimizden 15 yaş büyüktü.",
+    "soruTipleri": [
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an'da 'Fil Suresi' hangi olayı anlatmaktadır?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Bedir Savaşı",
+      "Uhud Savaşı",
+      "Kabe'ye saldıran ordu",
+      "Hicret olayı"
+    ],
+    "dogruCevap": "Kabe'ye saldıran ordu",
+    "ipucu": "Ebabil kuşları olayı.",
+    "soruTipleri": [
+      "KURAN",
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "Hz. İbrahim'in (as) soyundan gelen ve peygamber olan son kişi kimdir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Hz. İshak (as)",
+      "Hz. Yakup (as)",
+      "Hz. İsa (as)",
+      "Hz. Muhammed (sas)"
+    ],
+    "dogruCevap": "Hz. Muhammed (sas)",
+    "ipucu": "Hatemü'l-Enbiya.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Adem (as) hangi nedenle cennetten çıkarılmıştır?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Şeytana itaat etmesi",
+      "Yasak ağacın meyvesinden yemesi",
+      "Meleklere karşı gelmesi",
+      "İbadet etmemesi"
+    ],
+    "dogruCevap": "Yasak ağacın meyvesinden yemesi",
+    "ipucu": "Allah'ın emrine muhalefet etmiştir.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Peygamber'in (sas) hicret sırasında Medine'de ilk misafir olduğu sahabe kimdir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Ebu Eyyub el-Ensari (ra)",
+      "Sa'd bin Ubade (ra)",
+      "Abdullah bin Selam (ra)",
+      "Mus'ab bin Umeyr (ra)"
+    ],
+    "dogruCevap": "Ebu Eyyub el-Ensari (ra)",
+    "ipucu": "Evinde uzun süre kalmıştır.",
+    "soruTipleri": [
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an'da 'Furkan' suresi neyin ayırt ediciliğini vurgular?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Helal ve haramın",
+      "İman ve küfrün",
+      "Hak ve batılın",
+      "Doğru ve yanlışın"
+    ],
+    "dogruCevap": "Hak ve batılın",
+    "ipucu": "Kur'an'ın kendisi için kullanılan bir sıfattır.",
+    "soruTipleri": [
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "İslam tarihinde 'Mervan bin Hakem' dönemi hangi olayın başlangıcı olarak kabul edilir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Emevi Devleti'nin kuruluşu",
+      "Abbasiler Devleti'nin kuruluşu",
+      "Dört Halife Dönemi'nin sonu",
+      "İç savaşların yoğunlaşması"
+    ],
+    "dogruCevap": "İç savaşların yoğunlaşması",
+    "ipucu": "Emevi halifelerinden biridir.",
+    "soruTipleri": [
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Peygamber'in (sas) amcalarından İslam'ı kabul etmeyen ve ona düşmanlık besleyen kişi kimdir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Ebu Talib",
+      "Abbas",
+      "Hamza",
+      "Ebu Leheb"
+    ],
+    "dogruCevap": "Ebu Leheb",
+    "ipucu": "Tebbet Suresi'nde adı geçer.",
+    "soruTipleri": [
+      "SIYER",
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "İslam'da sadaka-i cariye ne anlama gelir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Gizli verilen sadaka",
+      "Sadece Ramazan'da verilen sadaka",
+      "Kişinin ölümünden sonra da sevabı devam eden sadaka",
+      "Sadece zenginlerin verdiği sadaka"
+    ],
+    "dogruCevap": "Kişinin ölümünden sonra da sevabı devam eden sadaka",
+    "ipucu": "Camii, okul gibi kalıcı eserler.",
+    "soruTipleri": [
+      "GENEL",
+      "İSLAM_AHLAKI"
+    ]
+  },
+  {
+    "soruMetni": "Hz. İsa'nın (as) annesi Hz. Meryem'in babasının adı neydi?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "İbrahim",
+      "Zekeriya",
+      "İmran",
+      "Yakup"
+    ],
+    "dogruCevap": "İmran",
+    "ipucu": "Kur'an'da ailesi hakkında bir sure bulunmaktadır.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "İslam tarihinde 'Muaviye' hangi göreviyle tanınır?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "İlk halife olması",
+      "Peygamberin katibi olması",
+      "Emevi Devleti'nin kurucusu olması",
+      "Abbasiler'in ilk halifesi olması"
+    ],
+    "dogruCevap": "Emevi Devleti'nin kurucusu olması",
+    "ipucu": "Şam'ı başkent yapmıştır.",
+    "soruTipleri": [
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Peygamber'in (sas) ilk eşi Hz. Hatice'nin vefatından sonra evlendiği ilk hanımı kimdir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Hz. Aişe",
+      "Hz. Sevde bint Zem'a",
+      "Hz. Ümmü Seleme",
+      "Hz. Zeynep bint Cahş"
+    ],
+    "dogruCevap": "Hz. Sevde bint Zem'a",
+    "ipucu": "Yaşlı bir hanım sahabeydi.",
+    "soruTipleri": [
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an'da 'Karia' ne anlama gelir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Kıyamet",
+      "Cennet",
+      "Cehennem",
+      "Mizan"
+    ],
+    "dogruCevap": "Kıyamet",
+    "ipucu": "Kapıları çalan büyük felaket.",
+    "soruTipleri": [
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an'da 'Asr' suresi neyin önemini vurgular?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Zamanın",
+      "İmanın",
+      "Salih amelin",
+      "Sabrın"
+    ],
+    "dogruCevap": "Zamanın",
+    "ipucu": "Kaybedilen değerin telafisinin zorluğuna işaret eder.",
+    "soruTipleri": [
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Süleyman'ın (as) hükümranlığı altında olmayan ve Kur'an'da bahsedilen hükümdar kimdir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Nemrut",
+      "Firavun",
+      "Belkıs (Seba Melikesi)",
+      "Goliath (Calut)"
+    ],
+    "dogruCevap": "Belkıs (Seba Melikesi)",
+    "ipucu": "Hükümdarlığına hayran kalmıştır.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an-ı Kerim'de kaç tane secde ayeti (tilavet secdesi) bulunmaktadır?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "7",
+      "10",
+      "14",
+      "18"
+    ],
+    "dogruCevap": "14",
+    "ipucu": "Okunduğunda secde yapılması sünnet olan ayetler.",
+    "soruTipleri": [
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an-ı Kerim'de 'Ayetü'l-Kürsi' hangi surenin içinde yer almaktadır?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Yasin",
+      "Kehf",
+      "Bakara",
+      "Mülk"
+    ],
+    "dogruCevap": "Bakara",
+    "ipucu": "Allah'ın (cc) eşsiz sıfatlarını anlatan önemli bir ayettir.",
+    "soruTipleri": [
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an-ı Kerim'de geçen 'Tuba ağacı' neyi sembolize eder?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Cehennemdeki azabı",
+      "Dünyadaki bereketi",
+      "Cennetteki sonsuz mutluluğu",
+      "Geçmiş peygamberlerin hayatını"
+    ],
+    "dogruCevap": "Cennetteki sonsuz mutluluğu",
+    "ipucu": "Kökleri yukarıda, dalları aşağıda olan bir ağaçtır.",
+    "soruTipleri": [
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an-ı Kerim'in lafızlarının ve manasının Allah'tan (cc) geldiğine inanmak neyin gereğidir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "İslam'ın şartı",
+      "Namazın rüknü",
+      "İmanın esası",
+      "Orucun hikmeti"
+    ],
+    "dogruCevap": "İmanın esası",
+    "ipucu": "Kur'an'ın Allah kelamı olduğuna iman etmek.",
+    "soruTipleri": [
+      "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an-ı Kerim'de 'Hızır' kıssası hangi peygamberle birlikte anlatılır?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Hz. İbrahim (as)",
+      "Hz. Musa (as)",
+      "Hz. Süleyman (as)",
+      "Hz. Yusuf (as)"
+    ],
+    "dogruCevap": "Hz. Musa (as)",
+    "ipucu": "İlahi hikmetin farklı boyutlarını gösteren bir kıssadır.",
+    "soruTipleri": [
+      "KURAN",
+      "PEYGAMBERLER_TARIHI"
     ]
   }
 ]
