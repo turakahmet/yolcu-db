@@ -16,7 +16,7 @@
     ]
   },
   {
-    "soruMetni": "İslam'ın beş şartından biri hangisidir?",
+    "soruMetni": "İslam'ın beş şartından biri aşağıdakilerden hangisidir?",
     "zorlukSeviyesi": 1,
     "siklar": [
       "Namaz kılmak",
@@ -443,7 +443,7 @@
     ]
   },
   {
-    "soruMetni": "Hicri takvime göre ilk ay hangisidir?",
+    "soruMetni": "Hicri takvime göre ilk ayın ismi nedir?",
     "zorlukSeviyesi": 1,
     "siklar": [
       "Recep",
@@ -634,7 +634,7 @@
     ]
   },
   {
-    "soruMetni": "Aşağıdakilerden hangisi Hz. Süleyman'ın mucizeleri arasındadır?",
+    "soruMetni": "Hangisi Hz. Süleyman'ın mucizeleri arasındadır?",
     "zorlukSeviyesi": 2,
     "siklar": [
       "Yağmuru kontrol etmesi",
@@ -650,7 +650,7 @@
     ]
   },
   {
-    "soruMetni": "Hz. İbrahim peygamber firavun tarafından ateşe atılmak istenildiğinde 'Safım belli olsun' diye ateşi söndürmek için yardıma giden hayvan hangisidir? ",
+    "soruMetni": "Hz. İbrahim peygamber firavun tarafından ateşe atılmak istenildiğinde 'Safım belli olsun' diye ateşi söndürmek için yardıma giden hayvan nedir? ",
     "zorlukSeviyesi": 1,
     "siklar": [
       "Karınca",
@@ -695,6 +695,1024 @@
     "soruTipleri": [
       "GENEL",
       "KURAN"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Peygamber'in (sas) fiziki ve ahlaki özelliklerini ifade eden ve bu konuda yazılan eserlerin ortak adı olan kavrama ne denir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Şemail",
+      "Fezail",
+      "Meal",
+      "Tefsir"
+    ],
+    "dogruCevap": "Şemail",
+    "ipucu": "Peygamber Efendimizin (sas) görünüşü, davranışları ve ahlaki vasıflarını detaylı olarak anlatan ve genellikle hadis kaynaklarına dayanan eserler bu isimle anılır.",
+    "soruTipleri": [
+      "GENEL",
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Peygamberimizin (sas) doğumu münasebetiyle idrak ettiğimiz kandil adı nedir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Mevlid",
+      "Mirac",
+      "Berat",
+      "Regaib"
+    ],
+    "dogruCevap": "Mevlid",
+    "ipucu": "Bu kandil, Peygamber Efendimizin (sas) doğumunu anmak ve onun hayatını hatırlamak amacıyla kutlanır. Adı, 'doğum' anlamına gelen bir kelimedir.",
+    "soruTipleri": [
+      "GENEL",
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Peygamberimizin (sas) doğduğu ev nerededir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Mekke",
+      "Medine",
+      "Şam",
+      "Tebuk"
+    ],
+    "dogruCevap": "Mekke",
+    "ipucu": "Hz. Peygamberimizin (sas) doğduğu ev, İslam tarihinde önemli bir şahsiyetin dünyaya gelişinin simgesel bir yeri olarak kabul edilir. Bu yer, bugün hâlâ ziyaretçi kabul eden bir mekân olarak önemli bir dini mirası taşır.",
+    "soruTipleri": [
+      "GENEL",
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "Aşere-i mübeşşerenin kelime manası aşağıdakilerden hangisidir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Cennetle Müjdelenen On Sahabi",
+      "İlk Hicret Eden On Sahabi",
+      "Kur'an'ı En İyi Ezberleyen On Sahabi",
+      "İlk savaşa giden On Sahabi"
+    ],
+    "dogruCevap": "Bu kavram, Peygamber Efendimizin (sas) hayatında önemli roller üstlenen ve ona en yakın olan on sahabiyi ifade eder. Bu sahabiler, İslam'ın ilk yıllarında büyük başarılar elde etmiş ve İslam toplumunun şekillenmesinde kritik bir rol oynamışlardır.",
+    "ipucu": "",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Oruç ve zekât hangi tarihte farz kılınmıştır?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Hicretin 5.Yılı",
+      "Hicretin 2.Yılı",
+      "Hicretin 1.Yılı",
+      "Hicretin 4.Yılı"
+    ],
+    "dogruCevap": "Hicretin 2.Yılı",
+    "ipucu": "Bu ibadetler, İslam toplumunun temel yapı taşlarından olup, Medine'ye hicret edildikten sonra farz kılınmıştır. Bu tarih, İslam'daki önemli bir dönüm noktasıdır ve ibadetlerin düzenli hale gelmesinin başlangıcını işaret eder.",
+    "soruTipleri": [
+      "GENEL",
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Cibril Hadisi'nde de ifade edilen İslam dininin iman esaslarını, ana hatlarıyla ifade eden terimdir.",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Amentü",
+      "İhlas",
+      "Kelime-i Şehadet",
+      "Tevhid"
+    ],
+    "dogruCevap": "Amentü",
+    "ipucu": "Bu terim, İslam dininin temel inanç esaslarını ifade eden ve Müslümanların inandığı şeylerin özeti olarak kabul edilen bir ifadedir. Özellikle Cibril Hadisi'nde, Peygamber Efendimiz (sas) tarafından açıklanan iman esaslarını özetler.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Peygamberimizin süt kardeşlerinden isimlerinden biridir.",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Abdullah bin Ebu Bekir",
+      "Harise bin Ebu Hadrad",
+      "Şeyma",
+      "Alkame bin Kays"
+    ],
+    "dogruCevap": "Şeyma",
+    "ipucu": "Peygamber Efendimizin (sas) süt kardeşi, onun çocukluk yıllarında birlikte büyüdüğü kişidir. Bu kişi, aynı zamanda bir savaşta da önemli bir rol oynamıştır.",
+    "soruTipleri": [
+      "GENEL",
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "Bütün İslam coğrafyasında şairler Resûlüllah'a (sas) olan sevgilerini şiirlerle de dile getirmişlerdir. Hangi kavram Hz. Peygamber (sas) için yazılan övgü şiirlerinin genel adıdır?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Gazel",
+      "Na't",
+      "Fuzuli",
+      "Mesnevi"
+    ],
+    "dogruCevap": "Na't",
+    "ipucu": "Hz. Peygamber (sas) için yazılan övgü şiirleri, onun güzelliklerini ve yüksek ahlaki özelliklerini dile getiren önemli bir edebi türdür. Bu tür şiirler, İslam edebiyatında özel bir yer tutar ve bu kavram, bu tür şiirlerin genel adıdır.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Peygamberimiz (sas) Veda Hutbesi'ni hangi şehirde ve nerede yapmıştır?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Mekke, Arafat",
+      "Mekke, Mescid-i Haram",
+      "Kudüs, Mescid-i Aksa",
+      "Medine, Mescid-i Nebevi"
+    ],
+    "dogruCevap": "Mekke, Arafat",
+    "ipucu": "Veda Hutbesi, Peygamber Efendimiz (sas) tarafından İslam'ın en önemli belgelerinden biri olarak kabul edilir. Bu hutbe, bir veda niteliği taşıdığı için, Hz. Peygamber'in son haccında gerçekleştirilen ve büyük bir topluluğa hitap ettiği bir konuşmadır. Bu olay, İslam tarihindeki özel bir yeri ifade eder.",
+    "soruTipleri": [
+      "GENEL",
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Ömer'in (ra) kız kardeşi olup İslam'a girişine vesile olan hanım sahâbî kimdir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Fatma bnt. Hattab",
+      "Esma bnt. Ebi bekir",
+      "Hz. Aişe",
+      "Hz. Hatice"
+    ],
+    "dogruCevap": "Fatma bnt. Hattab",
+    "ipucu": "Bu hanım sahâbî, Hz. Ömer'in (ra) kız kardeşi olup, İslam'ı kabul eden ilk kadınlardan biridir. İslam'a girmesine vesile olan olay, çok önemli bir dönüm noktasıdır. Bu sahâbî, aynı zamanda Kur'an'ı ezbere bilen ve İslam'ın ilk kadın müslümanlarından biri olarak tanınır.",
+    "soruTipleri": [
+      "GENEL",
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Ömer'in (ra) kız kardeşi olup İslam'a girişine vesile olan hanım sahâbî kimdir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Fatma bnt. Hattab",
+      "Esma bnt. Ebi bekir",
+      "Hz. Aişe",
+      "Hz. Hatice"
+    ],
+    "dogruCevap": "Fatma bnt. Hattab",
+    "ipucu": "Bu hanım sahâbî, Hz. Ömer'in (ra) kız kardeşi olup, İslam'ı kabul eden ilk kadınlardan biridir. İslam'a girmesine vesile olan olay, çok önemli bir dönüm noktasıdır. Bu sahâbî, aynı zamanda Kur'an'ı ezbere bilen ve İslam'ın ilk kadın müslümanlarından biri olarak tanınır.",
+    "soruTipleri": [
+      "GENEL",
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Peygamber (sas) hicreti hangi yılda gerçekleşmiştir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "622",
+      "610",
+      "632",
+      "600"
+    ],
+    "dogruCevap": "622",
+    "ipucu": "Bu yıl, İslam takviminin başlangıcı olarak kabul edilir ve Mekke'den Medine'ye göçü simgeler.",
+    "soruTipleri": [
+      "GENEL",
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Peygamber (sas) Medine’de kurduğu devletin adı nedir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Medine Devleti",
+      "İslam Devleti",
+      "Hicret Devleti",
+      "Müslüman Cemiyeti"
+    ],
+    "dogruCevap": "Medine Devleti",
+    "ipucu": "Bu devlet, Medine’de farklı kabile ve grupların bir araya gelerek oluşturduğu, İslam’ın temel prensiplerinin ilk uygulandığı yapıdır.",
+    "soruTipleri": [
+      "GENEL",
+      "SIYER",
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Peygamber (sas) ilk evliliğini yaptığı kadın kimdir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Hz. Aişe",
+      "Hz. Hatice",
+      "Hz. Zeynep",
+      "Hz. Meryem"
+    ],
+    "dogruCevap": "Hz. Hatice",
+    "ipucu": "Bu kadın, Peygamberimizin (sas) hayatında uzun süreli ve derin bir evlilik bağı oluşturmuş, aynı zamanda ticari başarılarıyla da tanınmıştır.",
+    "soruTipleri": [
+      "GENEL",
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Peygamber (sas)’in en mucizelerinden biri olan ayın yarılması olayı hangi dönemde gerçekleşmiştir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Mekke Dönemi",
+      "Medine Dönemi",
+      "Hicret Öncesi",
+      "Hicret Sonrası"
+    ],
+    "dogruCevap": "Mekke Dönemi",
+    "ipucu": "Bu mucize, birçok sahabinin aktardığı rivayetlere göre, Mekke döneminde meydana gelmiştir.",
+    "soruTipleri": [
+      "GENEL",
+      "SIYER",
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Peygamber (sas)’e vahiy yoluyla indirilen son kitap nedir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Tevrat",
+      "Zebur",
+      "İncil",
+      "Kur'an-ı Kerim"
+    ],
+    "dogruCevap": "Kur'an-ı Kerim",
+    "ipucu": "Bu kitap, İslam dininin temel kaynağını oluşturur ve Peygamberimize indirilen ilahi mesajı içerir.",
+    "soruTipleri": [
+      "GENEL",
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Peygamber (sas) Medine’ye hicret ettikten sonra, farklı kabile ve topluluklar arasında barışı sağlamak amacıyla hazırlanan sözleşmeye hangisidir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Medine Anayasası",
+      "Hicret Sözleşmesi",
+      "Sakina Sözleşmesi",
+      "Hilafetin Temeli"
+    ],
+    "dogruCevap": "Medine Anayasası",
+    "ipucu": "Bu belge, Medine toplumunun çeşitli grupları arasında sosyal düzen ve adaletin sağlanmasına yönelik ilk anayasal düzenlemelerden biridir.",
+    "soruTipleri": [
+      "GENEL",
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "Medine şehrinin, İslam öncesi dönemdeki adı nedir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Yesrib",
+      "Şam",
+      "Mekke",
+      "Küfe"
+    ],
+    "dogruCevap": "Yesrib",
+    "ipucu": "Bu şehir, Peygamberimizin (sas) hicreti sonrasında Medine adını almıştır ve İslam tarihinde önemli bir rol oynamaktadır.",
+    "soruTipleri": [
+      "GENEL",
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Peygamber'in (sas) hicret esnasında Kuba'da inşa ettiği ilk mescidin adı nedir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Mescid-i Nebevi",
+      "Mescid-i Haram",
+      "Mescid-i Aksa",
+      "Kuba Mescidi"
+    ],
+    "dogruCevap": "Kuba Mescidi",
+    "ipucu": "Bu mescit, Medine'ye ulaşmadan önce inşa edilmiş olup, Müslümanların ilk toplu ibadet yerlerinden biridir.",
+    "soruTipleri": [
+      "GENEL",
+      "SIYER",
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Mute Savaşı'nda şehit düşen Zeyd bin Harise, Cafer bin Ebu Talib ve Abdullah bin Revaha'nın yerine ordu komutanlığına atanan sahabe kimdir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Halid bin Velid (ra)",
+      "Ebu Ubeyde bin Cerrah (ra)",
+      "Sa'd bin Ebi Vakkas (ra)",
+      "Amr bin As (ra)"
+    ],
+    "dogruCevap": "Halid bin Velid (ra)",
+    "ipucu": "Bu sahabe, savaş taktikleri ve cesaretiyle tanınır. Bu savaşta gösterdiği başarıdan sonra 'Seyfullah' (Allah'ın Kılıcı) unvanını almıştır.",
+    "soruTipleri": [
+      "GENEL",
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Peygamber'in (sas) sütannesi kimdir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Halime",
+      "Ümmü Eymen",
+      "Safiye",
+      "Meymune"
+    ],
+    "dogruCevap": "Halime",
+    "ipucu": "Peygamber Efendimiz'i (sas) küçük yaşta emzirip büyüten değerli kadındır.",
+    "soruTipleri": [
+      "GENEL",
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "Hudeybiye Barış Antlaşması hangi olaydan sonra imzalanmıştır?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Bedir Savaşı",
+      "Uhud Savaşı",
+      "Hendek Savaşı",
+      "Hayber'in Fethi"
+    ],
+    "dogruCevap": "Hendek Savaşı",
+    "ipucu": "Bu antlaşma, Mekkeli müşriklerle Müslümanlar arasında bir ateşkes dönemi başlatmış ve daha sonraki fetihlere zemin hazırlamıştır. Antlaşmanın imzalanma süreci bazı sahabiler tarafından ilk başta eleştirilmiştir.",
+    "soruTipleri": [
+      "GENEL",
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Peygamber'in (sas) torunları olan Hz. Hasan ve Hz. Hüseyin'in anneleri kimdir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Hz. Aişe",
+      "Hz. Fatıma",
+      "Hz. Zeyneb",
+      "Hz. Rukiye"
+    ],
+    "dogruCevap": "Hz. Fatıma",
+    "ipucu": "Peygamber Efendimiz'in (sas) çok sevdiği kızı ve Hz. Ali'nin (ra) eşidir.",
+    "soruTipleri": [
+      "GENEL",
+      "SIYER"
+    ]
+  },
+  {
+    "soruMetni": "Hendek Savaşı'nda Medine'nin etrafına hendek kazılması fikrini ortaya atan sahabe kimdir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Hz. Selman-ı Farisi (ra)",
+      "Hz. Bilal-i Habeşi (ra)",
+      "Hz. Ammar bin Yasir (ra)",
+      "Hz. Huzeyfe bin Yeman (ra)"
+    ],
+    "dogruCevap": "Hz. Selman-ı Farisi (ra)",
+    "ipucu": "Bu sahabe, farklı coğrafyalardan gelmiş olup, savaş stratejileri konusunda tecrübeliydi. Savunma amaçlı bu fikir, Medine'nin korunmasında önemli rol oynamıştır.",
+    "soruTipleri": [
+      "GENEL",
+      "SIYER",
+      "ISLAM_TARIHI"
+    ]
+  },
+  {
+    "soruMetni": "İlk insan ve ilk peygamber olarak kabul edilen kişi kimdir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Hz. İbrahim",
+      "Hz. Musa",
+      "Hz. Adem",
+      "Hz. Nuh"
+    ],
+    "dogruCevap": "Hz. Adem",
+    "ipucu": "Yaratılışın başlangıcında var olan ve Allah tarafından seçilen ilk elçi.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Büyük tufan olayında insanlığı ve hayvan türlerini taşıyan gemiyi inşa eden peygamber kimdir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Hz. Yunus",
+      "Hz. Süleyman",
+      "Hz. Nuh",
+      "Hz. İsa"
+    ],
+    "dogruCevap": "Hz. Nuh",
+    "ipucu": "Allah'ın emriyle büyük bir felaketten kurtuluşu sağlayan geminin sahibi peygamber.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Ateşe atıldığı halde Allah'ın mucizesiyle yanmayan peygamber kimdir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Hz. Yusuf",
+      "Hz. Davud",
+      "Hz. İbrahim",
+      "Hz. Yakup"
+    ],
+    "dogruCevap": "Hz. İbrahim",
+    "ipucu": "Nemrut'un zulmünden Allah'ın yardımıyla kurtulan ve tevhid inancının önemli temsilcisi.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Oğlu İsmail ile birlikte Kabe'yi inşa eden peygamber kimdir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Hz. İshak",
+      "Hz. Musa",
+      "Hz. İbrahim",
+      "Hz. Lut"
+    ],
+    "dogruCevap": "Hz. İbrahim",
+    "ipucu": "Tevhidin merkezi olan kutsal yapının inşasında oğluyla birlikte görev alan peygamber.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Kardeşi Harun ile birlikte Firavun'a karşı mücadele eden peygamber kimdir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Hz. Yusuf",
+      "Hz. Musa",
+      "Hz. Şuayb",
+      "Hz. Salih"
+    ],
+    "dogruCevap": "Hz. Musa",
+    "ipucu": "Asası yılan olan ve Kızıldeniz'i yaran mucizelere sahip peygamber.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Kuyudan çıkarıldıktan sonra Mısır'da önemli bir konuma yükselen peygamber kimdir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Hz. Eyyub",
+      "Hz. Yusuf",
+      "Hz. Davud",
+      "Hz. Süleyman"
+    ],
+    "dogruCevap": "Hz. Yusuf",
+    "ipucu": "Gördüğü rüyalar ve zekası sayesinde zorlukların üstesinden gelen peygamber.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Allah'ın emriyle bir balığın karnında bir süre kalan peygamber kimdir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Hz. İdris",
+      "Hz. Zülkifl",
+      "Hz. Yunus",
+      "Hz. İlyas"
+    ],
+    "dogruCevap": "Hz. Yunus",
+    "ipucu": "Ninova halkına gönderilen ve tevbe sonrası kurtuluşa eren peygamber.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Karıncalar vadisinde konuşmaları duyup Allah'a şükreden peygamber kimdir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Hz. Lokman",
+      "Hz. Süleyman",
+      "Hz. Zekeriya",
+      "Hz. Yahya"
+    ],
+    "dogruCevap": "Hz. Süleyman",
+    "ipucu": "Hayvanlarla konuşabilme ve cinlere hükmedebilme mucizesine sahip olan peygamber.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Babası Yakup da peygamber olan ve kardeşleri tarafından kuyuya atılan peygamber kimdir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Hz. İsa",
+      "Hz. Davud",
+      "Hz. Yusuf",
+      "Hz. Musa"
+    ],
+    "dogruCevap": "Hz. Yusuf",
+    "ipucu": "Güzelliği ve rüya tabirindeki yeteneğiyle bilinen peygamber.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Allah yolunda sabrıyla meşhur olan ve uzun süre hastalık çeken peygamber kimdir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Hz. İdris",
+      "Hz. Eyyub",
+      "Hz. Şuayb",
+      "Hz. Zülkifl"
+    ],
+    "dogruCevap": "Hz. Eyyub",
+    "ipucu": "Çektiği zorluklara rağmen Allah'a olan bağlılığını sürdüren sabır timsali peygamber.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Lut kavminin yaşadığı ahlaksızlıklar nedeniyle Allah'ın helak ettiği şehirlerin isimleri nelerdir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Ninova ve Babil",
+      "Sodom ve Gomore",
+      "Erem ve İrem",
+      "Medine ve Şam"
+    ],
+    "dogruCevap": "Sodom ve Gomore",
+    "ipucu": "Hz. Lut'un tebliğde bulunduğu ve ahlaki çöküntüleri nedeniyle cezalandırılan antik şehirler.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Hz. Musa'ya on emir nerede vahyedilmiştir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Sina Dağı",
+      "Hira Mağarası",
+      "Tûr Dağı",
+      "Arafat Dağı"
+    ],
+    "dogruCevap": "Tûr Dağı",
+    "ipucu": "Allah ile Hz. Musa arasında önemli bir iletişim ve vahiy mekanı olan kutsal dağ.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Kıssası Kur'an'da en detaylı anlatılan peygamber kimdir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Hz. Musa",
+      "Hz. İbrahim",
+      "Hz. Yusuf",
+      "Hz. Süleyman"
+    ],
+    "dogruCevap": "Hz. Yusuf",
+    "ipucu": "Hayatının çeşitli evreleri ve karşılaştığı zorluklar detaylı bir şekilde aktarılan peygamber.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Son peygamber olarak kabul edilen ve İslam dininin tebliğcisi olan kişi kimdir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Hz. İsa",
+      "Hz. Musa",
+      "Hz. Muhammed (S.A.V)",
+      "Hz. İbrahim"
+    ],
+    "dogruCevap": "Hz. Muhammed (S.A.V)",
+    "ipucu": "Hatemü'l-Enbiya olarak da bilinen ve tüm insanlığa gönderilen son elçi.",
+    "soruTipleri": [
+      "PEYGAMBERLER_TARIHI",
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "İslam'ın beş şartından ilki nedir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Namaz kılmak",
+      "Oruç tutmak",
+      "Zekat vermek",
+      "Şehadet getirmek"
+    ],
+    "dogruCevap": "Şehadet getirmek",
+    "ipucu": "Allah'ın birliğine ve Hz. Muhammed'in (sas) O'nun kulu ve elçisi olduğuna inanmak.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an-ı Kerim'in ilk suresi hangisidir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Bakara Suresi",
+      "Yasin Suresi",
+      "Fatiha Suresi",
+      "İhlas Suresi"
+    ],
+    "dogruCevap": "Fatiha Suresi",
+    "ipucu": "Kitabın başlangıcı ve bir dua niteliğinde olan sure.",
+    "soruTipleri": [
+      "KURAN",
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "İslam'da ahiret inancına göre, insanların dünyadaki amellerinin hesabının görüleceği güne ne ad verilir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Kadir Gecesi",
+      "Miraç Gecesi",
+      "Mahşer Günü",
+      "Berat Kandili"
+    ],
+    "dogruCevap": "Mahşer Günü",
+    "ipucu": "Dirilişten sonra tüm insanların toplanacağı ve yargılanacağı büyük gün.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "İslam düşüncesinde 'tevhid' kavramı neyi ifade eder?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Peygamberlerin birliğini",
+      "Meleklerin varlığını",
+      "Allah'ın birliğini",
+      "Kutsal kitapların doğruluğunu"
+    ],
+    "dogruCevap": "Allah'ın birliğini",
+    "ipucu": "İslam'ın temel inanç esaslarından olup, Allah'tan başka ilah olmadığına inanmak.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "İslam mezheplerinden Ehl-i Sünnet ve'l Cemaat'ın temel kaynakları nelerdir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Kur'an ve Akıl",
+      "Sadece Kur'an",
+      "Kur'an ve Sünnet",
+      "Kur'an, Sünnet ve Ehli Beyt'in görüşleri"
+    ],
+    "dogruCevap": "Kur'an ve Sünnet",
+    "ipucu": "Çoğunluğu oluşturan bu mezhebin inanç ve ameldeki temel dayanakları.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "İslam tarihinde ilk fitne olarak kabul edilen ve Hz. Osman'ın (ra) şehit edilmesiyle başlayan olaylar zincirine ne ad verilir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Vak'a-i Hayriye",
+      "Cemel Vak'ası",
+      "Sıffin Savaşı",
+      "Büyük Fitne"
+    ],
+    "dogruCevap": "Büyük Fitne",
+    "ipucu": "İlk Müslümanlar arasındaki siyasi ve dini ayrışmaların derinleştiği önemli bir dönem.",
+    "soruTipleri": [
+      "İSLAM_TARIHI",
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an-ı Kerim'de geçen ve anlamı 'hikmet sahibi' olan Allah'ın (cc) isimlerinden biri hangisidir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "El-Alim",
+      "El-Hakim",
+      "Er-Rahman",
+      "El-Kerim"
+    ],
+    "dogruCevap": "El-Hakim",
+    "ipucu": "Allah'ın her işinde bir gaye ve üstün bir bilgelik olduğunu ifade eden güzel isimlerinden biri.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Tasavvufta 'fenâ' ve 'bekâ' kavramları neyi ifade eder?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Dünyadan vazgeçme ve lütfa erişme",
+      "Benliğin yok oluşu ve Allah ile baki olma",
+      "Ruhun arınması ve huzur bulması",
+      "Teslimiyet ve ilahi sırları anlama"
+    ],
+    "dogruCevap": "Benliğin yok oluşu ve Allah ile baki olma",
+    "ipucu": "Manevi yolculuğun ileri aşamaları.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "İslam hukukunda velayet hakkı öncelikle kime aittir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Devlete",
+      "Sadece babaya",
+      "Baba ve dedeye",
+      "En yakın erkek akrabaya"
+    ],
+    "dogruCevap": "Baba ve dedeye",
+    "ipucu": "Ehliyetsizlerin işlerini yürütme yetkisi.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Dirayet ve rivayet tefsiri arasındaki temel fark nedir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Sadece hadislere dayanma",
+      "Lafzi anlamı esas alma",
+      "Nakli ve akli delilleri kullanma",
+      "Güncel olaylara göre yorumlama"
+    ],
+    "dogruCevap": "Nakli ve akli delilleri kullanma",
+    "ipucu": "Kur'an'ı anlama metotları.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "İslam ahlakında 'ihsan' kavramının temel anlamı nedir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Sadece ibadetlerde titizlik",
+      "Sadece başkalarına yardım",
+      "Her işte mükemmellik ve samimiyet",
+      "Sadece dünyevi başarı"
+    ],
+    "dogruCevap": "Her işte mükemmellik ve samimiyet",
+    "ipucu": "Allah'ı görüyormuş gibi hareket etmek.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Hadis ilminde 'cerh ve ta'dil'de ravilerin hangi özelliği temel alınır?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Yaşadığı coğrafya",
+      "Fiziksel özellikleri",
+      "Dindarlığı ve hafızası",
+      "Siyasi görüşleri"
+    ],
+    "dogruCevap": "Dindarlığı ve hafızası",
+    "ipucu": "Ravinın güvenilirliğini belirleme kriterleri.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Hat sanatının gelişiminde en etkili faktör nedir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Yazı araçlarının icadı",
+      "Kur'an'ın estetik yazılma önemi",
+      "Bizans sanatı etkisi",
+      "Hükümdar siparişleri"
+    ],
+    "dogruCevap": "Kur'an'ın estetik yazılma önemi",
+    "ipucu": "Dini metnin sanatsal ifadesi.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "İslam iktisadında riba yasağının temel gerekçesi nedir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Borç alanın mağduriyeti",
+      "Risk paylaşımının adaletsizliği",
+      "Enflasyonu kontrol",
+      "Zenginlerin daha fazla kazanması"
+    ],
+    "dogruCevap": "Risk paylaşımının adaletsizliği",
+    "ipucu": "Faizsiz alternatif finans arayışları.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "İslam'da 'ümmet' kavramının temel unsuru nedir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Aynı siyasi otorite",
+      "Aynı dili konuşmak",
+      "Ortak inanç ve değerler",
+      "Aynı mezhebe mensup olmak"
+    ],
+    "dogruCevap": "Ortak inanç ve değerler",
+    "ipucu": "Küresel Müslüman topluluğunun birliği.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "İslam fıkhında 'hıyâr' kavramı neyi ifade eder?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Borç erteleme hakkı",
+      "Vekalet verme yetkisi",
+      "Sözleşmeden cayma hakkı",
+      "Şahitlik yapma ehliyeti"
+    ],
+    "dogruCevap": "Sözleşmeden cayma hakkı",
+    "ipucu": "Akdin bağlayıcılığını geçersiz kılabilme imkanı.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Tasavvufta 'istiğrak' hali neyi anlatır?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Dünyevi işlere dalmayı",
+      "Allah'ı derin düşünmeye yoğunlaşmayı",
+      "Uykuya dalmayı",
+      "Kendinden geçme ve trans halini"
+    ],
+    "dogruCevap": "Allah'ı derin düşünmeye yoğunlaşmayı",
+    "ipucu": "Varlığın birliğini derinden hissetme.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an'da geçen 'müteşabih' ayetler ne tür anlamlar içerir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Hüküm bildiren açık anlamlar",
+      "Tarihi olayları anlatan net ifadeler",
+      "Birden çok yoruma açık, derin anlamlar",
+      "Sadece lafzi tercümesi mümkün olan ifadeler"
+    ],
+    "dogruCevap": "Birden çok yoruma açık, derin anlamlar",
+    "ipucu": "Kesinliği tartışmalı olan ifadeler.",
+    "soruTipleri": [
+      "KURAN",
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "İslam ahlakında 'tevekkül' ne anlama gelir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Çalışmayı tamamen bırakmak",
+      "Kaderci bir anlayış benimsemek",
+      "Gayret ettikten sonra Allah'a güvenmek",
+      "Sadece dua etmekle yetinmek"
+    ],
+    "dogruCevap": "Gayret ettikten sonra Allah'a güvenmek",
+    "ipucu": "Sebep-sonuç ilişkisini inkâr etmemek.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "İslam sanatında 'arabesk' ne tür motifleri içerir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "İnsan ve hayvan figürleri",
+      "Geometrik ve bitkisel desenler",
+      "Savaş sahneleri tasvirleri",
+      "Mitolojik öykülemeler"
+    ],
+    "dogruCevap": "Geometrik ve bitkisel desenler",
+    "ipucu": "Sonsuzluğu ve birliği simgeleyen süslemeler.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "İslam iktisadında 'maslaha' ilkesi neyi hedefler?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Bireysel kar maksimizasyonunu",
+      "Devletin ekonomik kontrolünü artırmayı",
+      "Toplumsal fayda ve refahı sağlamayı",
+      "Sadece dini kurumların finansmanını"
+    ],
+    "dogruCevap": "Toplumsal fayda ve refahı sağlamayı",
+    "ipucu": "Kamu yararını gözetme prensibi.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "İslam düşüncesinde 'hikmet' kavramı en geniş anlamıyla neyi ifade eder?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Sadece dini bilgiyi",
+      "Pratik zekayı ve kurnazlığı",
+      "Varlığın sırlarını anlama ve doğru hüküm verme yeteneğini",
+      "Ezoterik bilgileri"
+    ],
+    "dogruCevap": "Varlığın sırlarını anlama ve doğru hüküm verme yeteneğini",
+    "ipucu": "Bilgi, akıl ve doğru eylemin bütünlüğü.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "İslam fıkhında 'istihsan' ne tür bir delildir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Kur'an'ın açık hükmü",
+      "Sünnetin zahiri anlamı",
+      "Kıyası terk etme gerekçesi",
+      "Sahabe kavli"
+    ],
+    "dogruCevap": "Kıyası terk etme gerekçesi",
+    "ipucu": "Özel bir delil sebebiyle kıyastan vazgeçme.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "İslam kelamında 'vahdet-i ef'al' neyi ifade eder?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Allah'ın tek yaratıcı olduğunu",
+      "İnsan fiillerinin Allah tarafından yaratıldığını",
+      "Allah'ın fiillerinde ortağı olmadığını",
+      "Evrendeki her şeyin birbiriyle bağlantılı olduğunu"
+    ],
+    "dogruCevap": "Allah'ın fiillerinde ortağı olmadığını",
+    "ipucu": "Fiillerin tek kaynağı Allah'tır.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Tasavvufta 'hâl' ne anlama gelir?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Kalıcı manevi durum",
+      "Geçici manevi deneyim",
+      "Nefsin kötü özellikleri",
+      "Zikrin usulleri"
+    ],
+    "dogruCevap": "Geçici manevi deneyim",
+    "ipucu": "Kulun çabası olmadan Allah'tan gelen manevi haller.",
+    "soruTipleri": [
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "Kur'an'daki 'nâsih' ve 'mensuh' kavramları neyi ifade eder?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Aynı konudaki farklı ayetler",
+      "Önceki ve sonraki hükmü kaldıran ayetler",
+      "Genel ve özel anlamlı ayetler",
+      "Mekki ve Medeni ayetler"
+    ],
+    "dogruCevap": "Önceki ve sonraki hükmü kaldıran ayetler",
+    "ipucu": "Hükmü yürürlükten kalkan ve kaldıran ayetler.",
+    "soruTipleri": [
+      "KURAN",
+      "GENEL"
+    ]
+  },
+  {
+    "soruMetni": "İslam ahlakında 'istikamet' neyi ifade eder?",
+    "zorlukSeviyesi": 3,
+    "siklar": [
+      "Sadece namaz kılmayı",
+      "Doğru yolda sebat etmeyi",
+      "Çokça sadaka vermeyi",
+      "Halka iyi davranmayı"
+    ],
+    "dogruCevap": "Doğru yolda sebat etmeyi",
+    "ipucu": "Dinde dürüstlük ve kararlılık.",
+    "soruTipleri": [
+      "GENEL"
     ]
   }
 ]
