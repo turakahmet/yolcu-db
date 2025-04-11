@@ -25,9 +25,7 @@
     ],
     "dogruCevap": "Namaz kılmak",
     "ipucu": "Günde beş vakit yapılan bir ibadettir.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "Peygamber Efendimiz Hz. Muhammed'in (s.a.s) doğum yılı hangi yıldır?",
@@ -56,9 +54,7 @@
     ],
     "dogruCevap": "Hira Dağı",
     "ipucu": "Bu dağ, Peygamber Efendimiz'e ilk vahyin indirildiği yerdir ve Mekke'dedir.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "Hz. Muhammed'in (s.a.s) Medine'ye hicreti ile başlayan İslami takvim hangi isimle anılır?",
@@ -71,9 +67,7 @@
     ],
     "dogruCevap": "Hicri Takvim",
     "ipucu": "Bu takvim, Hz. Muhammed'in (s.a.s) Mekke'den Medine'ye göçü ile başlar.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "Hz. İbrahim'in (AS) oğlu olan ve kurban edilmek istenen peygamber kimdir?",
@@ -117,9 +111,7 @@
     ],
     "dogruCevap": "Oruç",
     "ipucu": "Bu ibadet, güneşin doğuşundan batışına kadar yemek ve içmekten uzak durmayı içerir.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "İslam'ın beş şartından biri olan Zekat, neyi ifade eder?",
@@ -132,9 +124,7 @@
     ],
     "dogruCevap": "Maddi yardım",
     "ipucu": "Bu ibadet, maddi durumu iyi olanların, belirli bir miktar malını ihtiyaç sahiplerine vermesi anlamına gelir.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "İhlas Suresi'nin temel mesajı nedir?",
@@ -192,9 +182,7 @@
     ],
     "dogruCevap": "Farz",
     "ipucu": "Allah'ın müslümanlar için kesin yapılmasını emrettiği temel terimdir",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "Aşağıdaki Esmâ-i Hüsnâ isimlerinden hangisi, 'Merhamet Eden' anlamına gelmektedir?",
@@ -282,9 +270,7 @@
     ],
     "dogruCevap": "Sıla-i Rahim",
     "ipucu": "Bu kavram, akrabalarla bağları devam ettirmek, ziyaret etmek ve onlarla ilgilenmek anlamına gelir.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "Mushaf hâline getirilmiş Kur’an’ı çoğaltan ve güzel ahlakıyla bilinen üçüncü halife kimdir?",
@@ -297,9 +283,7 @@
     ],
     "dogruCevap": "Hz. Osman",
     "ipucu": "İki defa Peygamberimizin (s.a.s) kızlarıyla evlenmiş ve Kur’an’ı çoğaltmasıyla tanınmıştır.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "Peygamberimizin soyu hangi peygambere dayanmaktadır?",
@@ -419,9 +403,7 @@
     ],
     "dogruCevap": "Hac",
     "ipucu": "Maddi durumu yerinde olanlara farz olan bir ibadettir.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "Hicri takvime göre ilk ayın ismi nedir?",
@@ -434,9 +416,7 @@
     ],
     "dogruCevap": "Muharrem",
     "ipucu": "Bu ay, Aşure Günü'nün de içinde bulunduğu aydır.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "İlk vahyin indiği Hira Mağarası nerededir?",
@@ -449,9 +429,7 @@
     ],
     "dogruCevap": "Mekke",
     "ipucu": "Mescid-i Haram bu şehirde bulunmaktadır.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "Hz. Muhammed (s.a.s)’e kaç yaşında Peygamberlik verilmiştir?",
@@ -720,9 +698,7 @@
     ],
     "dogruCevap": "Bu kavram, Peygamber Efendimizin (sas) hayatında önemli roller üstlenen ve ona en yakın olan on sahabiyi ifade eder. Bu sahabiler, İslam'ın ilk yıllarında büyük başarılar elde etmiş ve İslam toplumunun şekillenmesinde kritik bir rol oynamışlardır.",
     "ipucu": "",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "Oruç ve zekât hangi tarihte farz kılınmıştır?",
@@ -750,9 +726,7 @@
     ],
     "dogruCevap": "Amentü",
     "ipucu": "Bu terim, İslam dininin temel inanç esaslarını ifade eden ve Müslümanların inandığı şeylerin özeti olarak kabul edilen bir ifadedir. Özellikle Cibril Hadisi'nde, Peygamber Efendimiz (sas) tarafından açıklanan iman esaslarını özetler.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "Hz. Peygamberimizin süt kardeşlerinden isimlerinden biridir.",
@@ -780,9 +754,7 @@
     ],
     "dogruCevap": "Na't",
     "ipucu": "Hz. Peygamber (sas) için yazılan övgü şiirleri, onun güzelliklerini ve yüksek ahlaki özelliklerini dile getiren önemli bir edebi türdür. Bu tür şiirler, İslam edebiyatında özel bir yer tutar ve bu kavram, bu tür şiirlerin genel adıdır.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "Peygamberimiz (sas) Veda Hutbesi'ni hangi şehirde ve nerede yapmıştır?",
@@ -1040,8 +1012,7 @@
     "dogruCevap": "Hz. Adem",
     "ipucu": "Yaratılışın başlangıcında var olan ve Allah tarafından seçilen ilk elçi.",
     "soruTipleri": [
-      "PEYGAMBERLER_TARIHI",
-      "GENEL"
+      "PEYGAMBERLER_TARIHI"
     ]
   },
   {
@@ -1056,8 +1027,7 @@
     "dogruCevap": "Hz. Nuh",
     "ipucu": "Allah'ın emriyle büyük bir felaketten kurtuluşu sağlayan geminin sahibi peygamber.",
     "soruTipleri": [
-      "PEYGAMBERLER_TARIHI",
-      "GENEL"
+      "PEYGAMBERLER_TARIHI"
     ]
   },
   {
@@ -1072,8 +1042,7 @@
     "dogruCevap": "Hz. İbrahim",
     "ipucu": "Nemrut'un zulmünden Allah'ın yardımıyla kurtulan ve tevhid inancının önemli temsilcisi.",
     "soruTipleri": [
-      "PEYGAMBERLER_TARIHI",
-      "GENEL"
+      "PEYGAMBERLER_TARIHI"
     ]
   },
   {
@@ -1088,8 +1057,7 @@
     "dogruCevap": "Hz. İbrahim",
     "ipucu": "Tevhidin merkezi olan kutsal yapının inşasında oğluyla birlikte görev alan peygamber.",
     "soruTipleri": [
-      "PEYGAMBERLER_TARIHI",
-      "GENEL"
+      "PEYGAMBERLER_TARIHI"
     ]
   },
   {
@@ -1104,8 +1072,7 @@
     "dogruCevap": "Hz. Musa",
     "ipucu": "Asası yılan olan ve Kızıldeniz'i yaran mucizelere sahip peygamber.",
     "soruTipleri": [
-      "PEYGAMBERLER_TARIHI",
-      "GENEL"
+      "PEYGAMBERLER_TARIHI"
     ]
   },
   {
@@ -1120,8 +1087,7 @@
     "dogruCevap": "Hz. Yusuf",
     "ipucu": "Gördüğü rüyalar ve zekası sayesinde zorlukların üstesinden gelen peygamber.",
     "soruTipleri": [
-      "PEYGAMBERLER_TARIHI",
-      "GENEL"
+      "PEYGAMBERLER_TARIHI"
     ]
   },
   {
@@ -1136,8 +1102,7 @@
     "dogruCevap": "Hz. Yunus",
     "ipucu": "Ninova halkına gönderilen ve tevbe sonrası kurtuluşa eren peygamber.",
     "soruTipleri": [
-      "PEYGAMBERLER_TARIHI",
-      "GENEL"
+      "PEYGAMBERLER_TARIHI"
     ]
   },
   {
@@ -1152,8 +1117,7 @@
     "dogruCevap": "Hz. Süleyman",
     "ipucu": "Hayvanlarla konuşabilme ve cinlere hükmedebilme mucizesine sahip olan peygamber.",
     "soruTipleri": [
-      "PEYGAMBERLER_TARIHI",
-      "GENEL"
+      "PEYGAMBERLER_TARIHI"
     ]
   },
   {
@@ -1168,8 +1132,7 @@
     "dogruCevap": "Hz. Yusuf",
     "ipucu": "Güzelliği ve rüya tabirindeki yeteneğiyle bilinen peygamber.",
     "soruTipleri": [
-      "PEYGAMBERLER_TARIHI",
-      "GENEL"
+      "PEYGAMBERLER_TARIHI"
     ]
   },
   {
@@ -1184,8 +1147,7 @@
     "dogruCevap": "Hz. Eyyub",
     "ipucu": "Çektiği zorluklara rağmen Allah'a olan bağlılığını sürdüren sabır timsali peygamber.",
     "soruTipleri": [
-      "PEYGAMBERLER_TARIHI",
-      "GENEL"
+      "PEYGAMBERLER_TARIHI"
     ]
   },
   {
@@ -1200,8 +1162,7 @@
     "dogruCevap": "Sodom ve Gomore",
     "ipucu": "Hz. Lut'un tebliğde bulunduğu ve ahlaki çöküntüleri nedeniyle cezalandırılan antik şehirler.",
     "soruTipleri": [
-      "PEYGAMBERLER_TARIHI",
-      "GENEL"
+      "PEYGAMBERLER_TARIHI"
     ]
   },
   {
@@ -1216,8 +1177,7 @@
     "dogruCevap": "Tûr Dağı",
     "ipucu": "Allah ile Hz. Musa arasında önemli bir iletişim ve vahiy mekanı olan kutsal dağ.",
     "soruTipleri": [
-      "PEYGAMBERLER_TARIHI",
-      "GENEL"
+      "PEYGAMBERLER_TARIHI"
     ]
   },
   {
@@ -1232,8 +1192,7 @@
     "dogruCevap": "Hz. Yusuf",
     "ipucu": "Hayatının çeşitli evreleri ve karşılaştığı zorluklar detaylı bir şekilde aktarılan peygamber.",
     "soruTipleri": [
-      "PEYGAMBERLER_TARIHI",
-      "GENEL"
+      "PEYGAMBERLER_TARIHI"
     ]
   },
   {
@@ -1248,8 +1207,7 @@
     "dogruCevap": "Hz. Muhammed (S.A.V)",
     "ipucu": "Hatemü'l-Enbiya olarak da bilinen ve tüm insanlığa gönderilen son elçi.",
     "soruTipleri": [
-      "PEYGAMBERLER_TARIHI",
-      "GENEL"
+      "PEYGAMBERLER_TARIHI"
     ]
   },
   {
@@ -1263,9 +1221,7 @@
     ],
     "dogruCevap": "Şehadet getirmek",
     "ipucu": "Allah'ın birliğine ve Hz. Muhammed'in (sas) O'nun kulu ve elçisi olduğuna inanmak.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "Kur'an-ı Kerim'in ilk suresi hangisidir?",
@@ -1279,8 +1235,7 @@
     "dogruCevap": "Fatiha Suresi",
     "ipucu": "Kitabın başlangıcı ve bir dua niteliğinde olan sure.",
     "soruTipleri": [
-      "KURAN",
-      "GENEL"
+      "KURAN"
     ]
   },
   {
@@ -1294,9 +1249,7 @@
     ],
     "dogruCevap": "Mahşer Günü",
     "ipucu": "Dirilişten sonra tüm insanların toplanacağı ve yargılanacağı büyük gün.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "İslam düşüncesinde 'tevhid' kavramı neyi ifade eder?",
@@ -1309,9 +1262,7 @@
     ],
     "dogruCevap": "Allah'ın birliğini",
     "ipucu": "İslam'ın temel inanç esaslarından olup, Allah'tan başka ilah olmadığına inanmak.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "İslam mezheplerinden Ehl-i Sünnet ve'l Cemaat'ın temel kaynakları nelerdir?",
@@ -1324,9 +1275,7 @@
     ],
     "dogruCevap": "Kur'an ve Sünnet",
     "ipucu": "Çoğunluğu oluşturan bu mezhebin inanç ve ameldeki temel dayanakları.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "İslam tarihinde ilk fitne olarak kabul edilen ve Hz. Osman'ın (ra) şehit edilmesiyle başlayan olaylar zincirine ne ad verilir?",
@@ -1340,8 +1289,7 @@
     "dogruCevap": "Büyük Fitne",
     "ipucu": "İlk Müslümanlar arasındaki siyasi ve dini ayrışmaların derinleştiği önemli bir dönem.",
     "soruTipleri": [
-      "İSLAM_TARIHI",
-      "GENEL"
+      "İSLAM_TARIHI"
     ]
   },
   {
@@ -1355,9 +1303,7 @@
     ],
     "dogruCevap": "El-Hakim",
     "ipucu": "Allah'ın her işinde bir gaye ve üstün bir bilgelik olduğunu ifade eden güzel isimlerinden biri.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "Tasavvufta 'fenâ' ve 'bekâ' kavramları neyi ifade eder?",
@@ -1370,9 +1316,7 @@
     ],
     "dogruCevap": "Benliğin yok oluşu ve Allah ile baki olma",
     "ipucu": "Manevi yolculuğun ileri aşamaları.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "İslam hukukunda velayet hakkı öncelikle kime aittir?",
@@ -1385,9 +1329,7 @@
     ],
     "dogruCevap": "Baba ve dedeye",
     "ipucu": "Ehliyetsizlerin işlerini yürütme yetkisi.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "Dirayet ve rivayet tefsiri arasındaki temel fark nedir?",
@@ -1400,9 +1342,7 @@
     ],
     "dogruCevap": "Nakli ve akli delilleri kullanma",
     "ipucu": "Kur'an'ı anlama metotları.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "İslam ahlakında 'ihsan' kavramının temel anlamı nedir?",
@@ -1415,9 +1355,7 @@
     ],
     "dogruCevap": "Her işte mükemmellik ve samimiyet",
     "ipucu": "Allah'ı görüyormuş gibi hareket etmek.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "Hadis ilminde 'cerh ve ta'dil'de ravilerin hangi özelliği temel alınır?",
@@ -1430,9 +1368,7 @@
     ],
     "dogruCevap": "Dindarlığı ve hafızası",
     "ipucu": "Ravinın güvenilirliğini belirleme kriterleri.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "Hat sanatının gelişiminde en etkili faktör nedir?",
@@ -1445,9 +1381,7 @@
     ],
     "dogruCevap": "Kur'an'ın estetik yazılma önemi",
     "ipucu": "Dini metnin sanatsal ifadesi.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "İslam iktisadında riba yasağının temel gerekçesi nedir?",
@@ -1460,9 +1394,7 @@
     ],
     "dogruCevap": "Risk paylaşımının adaletsizliği",
     "ipucu": "Faizsiz alternatif finans arayışları.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "İslam'da 'ümmet' kavramının temel unsuru nedir?",
@@ -1475,9 +1407,7 @@
     ],
     "dogruCevap": "Ortak inanç ve değerler",
     "ipucu": "Küresel Müslüman topluluğunun birliği.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "İslam fıkhında 'hıyâr' kavramı neyi ifade eder?",
@@ -1490,9 +1420,7 @@
     ],
     "dogruCevap": "Sözleşmeden cayma hakkı",
     "ipucu": "Akdin bağlayıcılığını geçersiz kılabilme imkanı.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "Tasavvufta 'istiğrak' hali neyi anlatır?",
@@ -1505,9 +1433,7 @@
     ],
     "dogruCevap": "Allah'ı derin düşünmeye yoğunlaşmayı",
     "ipucu": "Varlığın birliğini derinden hissetme.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "Kur'an'da geçen 'müteşabih' ayetler ne tür anlamlar içerir?",
@@ -1521,8 +1447,7 @@
     "dogruCevap": "Birden çok yoruma açık, derin anlamlar",
     "ipucu": "Kesinliği tartışmalı olan ifadeler.",
     "soruTipleri": [
-      "KURAN",
-      "GENEL"
+      "KURAN"
     ]
   },
   {
@@ -1536,9 +1461,7 @@
     ],
     "dogruCevap": "Gayret ettikten sonra Allah'a güvenmek",
     "ipucu": "Sebep-sonuç ilişkisini inkâr etmemek.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "İslam sanatında 'arabesk' ne tür motifleri içerir?",
@@ -1551,9 +1474,7 @@
     ],
     "dogruCevap": "Geometrik ve bitkisel desenler",
     "ipucu": "Sonsuzluğu ve birliği simgeleyen süslemeler.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "İslam iktisadında 'maslaha' ilkesi neyi hedefler?",
@@ -1566,9 +1487,7 @@
     ],
     "dogruCevap": "Toplumsal fayda ve refahı sağlamayı",
     "ipucu": "Kamu yararını gözetme prensibi.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "İslam düşüncesinde 'hikmet' kavramı en geniş anlamıyla neyi ifade eder?",
@@ -1581,9 +1500,7 @@
     ],
     "dogruCevap": "Varlığın sırlarını anlama ve doğru hüküm verme yeteneğini",
     "ipucu": "Bilgi, akıl ve doğru eylemin bütünlüğü.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "İslam fıkhında 'istihsan' ne tür bir delildir?",
@@ -1596,9 +1513,7 @@
     ],
     "dogruCevap": "Kıyası terk etme gerekçesi",
     "ipucu": "Özel bir delil sebebiyle kıyastan vazgeçme.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "İslam kelamında 'vahdet-i ef'al' neyi ifade eder?",
@@ -1611,9 +1526,7 @@
     ],
     "dogruCevap": "Allah'ın fiillerinde ortağı olmadığını",
     "ipucu": "Fiillerin tek kaynağı Allah'tır.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "Tasavvufta 'hâl' ne anlama gelir?",
@@ -1626,9 +1539,7 @@
     ],
     "dogruCevap": "Geçici manevi deneyim",
     "ipucu": "Kulun çabası olmadan Allah'tan gelen manevi haller.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "Kur'an'daki 'nâsih' ve 'mensuh' kavramları neyi ifade eder?",
@@ -1642,8 +1553,7 @@
     "dogruCevap": "Önceki ve sonraki hükmü kaldıran ayetler",
     "ipucu": "Hükmü yürürlükten kalkan ve kaldıran ayetler.",
     "soruTipleri": [
-      "KURAN",
-      "GENEL"
+      "KURAN"
     ]
   },
   {
@@ -1657,9 +1567,7 @@
     ],
     "dogruCevap": "Doğru yolda sebat etmeyi",
     "ipucu": "Dinde dürüstlük ve kararlılık.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "İslam'ın temel kaynağı nedir?",
@@ -1935,9 +1843,7 @@
     ],
     "dogruCevap": "İman",
     "ipucu": "Kabul edilmesi gereken temel ilkeler.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "Kur'an-ı Kerim'in ilk emri neydi?",
@@ -2450,9 +2356,7 @@
     ],
     "dogruCevap": "Mizan",
     "ipucu": "İyilik ve kötülüklerin tartılacağı terazi.",
-    "soruTipleri": [
-      "GENEL"
-    ]
+    "soruTipleri": []
   },
   {
     "soruMetni": "Kur'an-ı Kerim'de kaç cüz bulunmaktadır?",
