@@ -11,7 +11,6 @@
     "dogruCevap": "Ramazan",
     "ipucu": "Bu ay, İslam'ın en kutsal ayı olarak bilinir ve oruç tutulur.",
     "soruTipleri": [
-      "GENEL",
       "KURAN"
     ]
   },
@@ -42,7 +41,6 @@
     "dogruCevap": "571",
     "ipucu": "Bu yıl, Fil Vakası'nın olduğu ve Peygamber Efendimiz'in doğduğu yıldır.",
     "soruTipleri": [
-      "GENEL",
       "SIYER",
       "PEYGAMBERLER_TARIHI"
     ]
@@ -89,7 +87,6 @@
     "dogruCevap": "Hz. İsmail",
     "ipucu": "Kurban Bayramı'nın temelini oluşturan bu olay, Mekke'de gerçekleşmiştir.",
     "soruTipleri": [
-      "GENEL",
       "PEYGAMBERLER_TARIHI"
     ]
   },
@@ -105,7 +102,6 @@
     "dogruCevap": "Hz. İbrahim",
     "ipucu": "Bu peygamber, Kâbe'yi oğlu İsmail ile birlikte inşa etmiştir.",
     "soruTipleri": [
-      "GENEL",
       "PEYGAMBERLER_TARIHI",
       "ISLAM_TARIHI"
     ]
@@ -152,7 +148,6 @@
     "dogruCevap": "Allah'ın tekliği ve hiç bir şeye muhtaç olmaması",
     "ipucu": "Bu sure, Allah'ın tek ve benzersiz olduğunu vurgular ve Müslümanların inancının temelini oluşturur.",
     "soruTipleri": [
-      "GENEL",
       "KURAN"
     ]
   },
@@ -168,7 +163,6 @@
     "dogruCevap": "Alak Suresi",
     "ipucu": "Bu sure, 'oku' emri ile başlar ve İslam'ın ilk vahyini içerir.",
     "soruTipleri": [
-      "GENEL",
       "KURAN"
     ]
   },
@@ -184,7 +178,6 @@
     "dogruCevap": "Rabça",
     "ipucu": "Bu dil, Allah Kelamıdır.",
     "soruTipleri": [
-      "GENEL",
       "KURAN"
     ]
   },
@@ -215,7 +208,6 @@
     "dogruCevap": "Er-Rahman",
     "ipucu": "Bu isim, Allah'ın bütün varlıklara olan sınırsız merhametini ifade eder.",
     "soruTipleri": [
-      "GENEL",
       "KURAN"
     ]
   },
@@ -231,7 +223,6 @@
     "dogruCevap": "El-Alim",
     "ipucu": "Bu isim, Allah'ın her şeyin iç yüzünü ve detaylarını bilen olduğunu ifade eder.",
     "soruTipleri": [
-      "GENEL",
       "KURAN"
     ]
   },
@@ -247,7 +238,6 @@
     "dogruCevap": "Ağıza su vermek",
     "ipucu": "Abdestin farzları yüz, kollar, başın mesh edilmesi ve ayakların yıkanmasından oluşur.",
     "soruTipleri": [
-      "GENEL",
       "KURAN"
     ]
   },
@@ -263,7 +253,6 @@
     "dogruCevap": "Mekruh",
     "ipucu": "Haram kadar katı olmayan ama yine de yapılması hoş görülmeyen bir terimdir.",
     "soruTipleri": [
-      "GENEL",
       "KURAN"
     ]
   },
@@ -279,7 +268,6 @@
     "dogruCevap": "Kubbetü’s-sahra",
     "ipucu": "Bu mescidin en dikkat çekici özelliği altın rengi kubbesidir ve Kudüs'te yer alır.",
     "soruTipleri": [
-      "GENEL",
       "SIYER"
     ]
   },
@@ -325,7 +313,6 @@
     "dogruCevap": "Hz. İbrahimin'in Oğlu Hz. İsmail",
     "ipucu": "Peygamberimizin (s.a.s) soyu, Kâbe'yi inşa eden ve Arapların atası kabul edilen bir peygambere dayanır.",
     "soruTipleri": [
-      "GENEL",
       "PEYGAMBERLER_TARIHI"
     ]
   },
@@ -341,7 +328,6 @@
     "dogruCevap": "Hz. Ebu Bekir",
     "ipucu": "Yol arkadaşı, İslam'ın ilk halifesi olarak da bilinir.",
     "soruTipleri": [
-      "GENEL",
       "SIYER"
     ]
   },
@@ -357,7 +343,6 @@
     "dogruCevap": "Hudeybiye",
     "ipucu": "Bu antlaşma, Mekke'ye giden yol üzerinde yapıldığı için bu isimle anılmıştır",
     "soruTipleri": [
-      "GENEL",
       "SIYER",
       "ISLAM_TARIHI"
     ]
@@ -374,7 +359,6 @@
     "dogruCevap": "Varana b. Nevfel",
     "ipucu": "Hz. Hatice'nin akrabası olan bu kişi, kutsal kitapları bilen bilge bir zattı.",
     "soruTipleri": [
-      "GENEL",
       "SIYER"
     ]
   },
@@ -390,7 +374,6 @@
     "dogruCevap": "Karınca",
     "ipucu": "Bu surede, küçük bir canlı topluluğunun kendi aralarında iletişim kurması konu edilmiştir.",
     "soruTipleri": [
-      "GENEL",
       "KURAN"
     ]
   },
@@ -406,7 +389,6 @@
     "dogruCevap": "Hira Mağarası",
     "ipucu": "İlk vahyin Peygamberimize (s.a.s) geldiği mağara, Mekke yakınlarında, Nur Dağı'nda yer alır.",
     "soruTipleri": [
-      "GENEL",
       "SIYER",
       "KURAN"
     ]
@@ -423,7 +405,6 @@
     "dogruCevap": "Meal",
     "ipucu": "Bu terim, Kur'an ayetlerinin anlamını aktarırken, kelime kelime çevirme amacı güdülmeden, genel anlamın ifade edilmesi için kullanılır.",
     "soruTipleri": [
-      "GENEL",
       "KURAN"
     ]
   },
@@ -484,7 +465,6 @@
     "dogruCevap": "40",
     "ipucu": "Hz. Muhammed (s.a.s) bu yaşta, Mekke'de Hira Mağarası'nda ilk vahyi almıştır.",
     "soruTipleri": [
-      "GENEL",
       "SIYER"
     ]
   },
@@ -500,7 +480,6 @@
     "dogruCevap": "Bakara Suresi",
     "ipucu": "Bu sure içerisinde Amenerrasulü duasını barındırır.",
     "soruTipleri": [
-      "GENEL",
       "KURAN"
     ]
   },
@@ -516,7 +495,6 @@
     "dogruCevap": "Dârülerkam (Erkam’ın Evi)",
     "ipucu": "Bu yer, İslam’ın ilk eğitim merkezi olarak kabul edilebilir. Burada İslam’a yeni katılanlar, Peygamberimiz’den İslam’ı öğrenmiş ve Müslüman toplumunun temelleri burada atılmıştır.",
     "soruTipleri": [
-      "GENEL",
       "ISLAM_TARIHI",
       "SIYER"
     ]
@@ -533,7 +511,6 @@
     "dogruCevap": "950 yıl",
     "ipucu": "Hz. Nuh, kavmine uzun yıllar sabırla tebliğde bulunmuş ve onları Allah’a yöneltmeye çalışmıştır.",
     "soruTipleri": [
-      "GENEL",
       "PEYGAMBERLER_TARIHI"
     ]
   },
@@ -549,7 +526,6 @@
     "dogruCevap": "Semud kavmi",
     "ipucu": "Bu kavim, kaya oyuklarında evler yapan ve taşlardan heykelleri şekillendiren bir topluluktu.",
     "soruTipleri": [
-      "GENEL",
       "PEYGAMBERLER_TARIHI"
     ]
   },
@@ -565,7 +541,6 @@
     "dogruCevap": "Zina ve ahlaksızlık",
     "ipucu": "Bu kavim, aynı cinsiyetle ilişki kurmayı yaygınlaştırarak büyük bir günah işlemişti.",
     "soruTipleri": [
-      "GENEL",
       "PEYGAMBERLER_TARIHI"
     ]
   },
@@ -581,7 +556,6 @@
     "dogruCevap": "Denizin ikiye yarılması",
     "ipucu": "Hz. Musa, kavmiyle birlikte denizin karşısına geçtiğinde, Allah'ın izniyle deniz ikiye yarılmıştır.",
     "soruTipleri": [
-      "GENEL",
       "PEYGAMBERLER_TARIHI"
     ]
   },
@@ -597,7 +571,6 @@
     "dogruCevap": "Asasının yılan olması",
     "ipucu": "Bu mucizeyi gösterdiğinde, Firavun'un sihirbazları bu durumu kabul ederek iman etmişti.",
     "soruTipleri": [
-      "GENEL",
       "PEYGAMBERLER_TARIHI"
     ]
   },
@@ -613,7 +586,6 @@
     "dogruCevap": "Kızıldeniz",
     "ipucu": "Hz. Musa, Firavun'un askerlerinden kaçarken bu denizi Allah'ın izniyle ikiye yarıp kavmini geçirmiştir.",
     "soruTipleri": [
-      "GENEL",
       "PEYGAMBERLER_TARIHI"
     ]
   },
@@ -629,7 +601,6 @@
     "dogruCevap": "Ölüleri diriltmek",
     "ipucu": "Hz. İsa, Allah'ın izniyle yaşamını kaybeden insanları geri getirmiştir.",
     "soruTipleri": [
-      "GENEL",
       "PEYGAMBERLER_TARIHI"
     ]
   },
@@ -645,7 +616,6 @@
     "dogruCevap": "Rüzgarı yönlendirmek",
     "ipucu": "Hz. Süleyman, Allah'ın izniyle o istediği yere tatlı tatlı eserdi.",
     "soruTipleri": [
-      "GENEL",
       "PEYGAMBERLER_TARIHI"
     ]
   },
@@ -661,7 +631,6 @@
     "dogruCevap": "Karınca",
     "ipucu": "Hz. İbrahim'in ateşe atılmasından önce, küçük bir hayvan bir damla su ile 'Safım belli olsun' diyerek yardıma gitmiştir.",
     "soruTipleri": [
-      "GENEL",
       "PEYGAMBERLER_TARIHI"
     ]
   },
@@ -677,7 +646,6 @@
     "dogruCevap": "Tefsir",
     "ipucu": "Bu terim, Kur'ân-ı Kerîm’in doğru anlaşılması için yapılan derinlemesine açıklamalara ve yorumlara verilen isimdir. Çoğunlukla İslam alimlerinin, ayetleri daha ayrıntılı bir şekilde açıklamak için yazdığı eserlerde bulunur.",
     "soruTipleri": [
-      "GENEL",
       "KURAN"
     ]
   },
@@ -693,7 +661,6 @@
     "dogruCevap": "Mushaf",
     "ipucu": "Kur'ân-ı Kerîm’in tüm âyetlerinin bir araya getirildiği ve genellikle basılı olarak bulunan kitaba verilen isim.",
     "soruTipleri": [
-      "GENEL",
       "KURAN"
     ]
   },
@@ -709,7 +676,6 @@
     "dogruCevap": "Şemail",
     "ipucu": "Peygamber Efendimizin (sas) görünüşü, davranışları ve ahlaki vasıflarını detaylı olarak anlatan ve genellikle hadis kaynaklarına dayanan eserler bu isimle anılır.",
     "soruTipleri": [
-      "GENEL",
       "SIYER"
     ]
   },
@@ -725,7 +691,6 @@
     "dogruCevap": "Mevlid",
     "ipucu": "Bu kandil, Peygamber Efendimizin (sas) doğumunu anmak ve onun hayatını hatırlamak amacıyla kutlanır. Adı, 'doğum' anlamına gelen bir kelimedir.",
     "soruTipleri": [
-      "GENEL",
       "SIYER"
     ]
   },
@@ -741,7 +706,6 @@
     "dogruCevap": "Mekke",
     "ipucu": "Hz. Peygamberimizin (sas) doğduğu ev, İslam tarihinde önemli bir şahsiyetin dünyaya gelişinin simgesel bir yeri olarak kabul edilir. Bu yer, bugün hâlâ ziyaretçi kabul eden bir mekân olarak önemli bir dini mirası taşır.",
     "soruTipleri": [
-      "GENEL",
       "SIYER"
     ]
   },
@@ -772,7 +736,6 @@
     "dogruCevap": "Hicretin 2.Yılı",
     "ipucu": "Bu ibadetler, İslam toplumunun temel yapı taşlarından olup, Medine'ye hicret edildikten sonra farz kılınmıştır. Bu tarih, İslam'daki önemli bir dönüm noktasıdır ve ibadetlerin düzenli hale gelmesinin başlangıcını işaret eder.",
     "soruTipleri": [
-      "GENEL",
       "ISLAM_TARIHI"
     ]
   },
@@ -803,7 +766,6 @@
     "dogruCevap": "Şeyma",
     "ipucu": "Peygamber Efendimizin (sas) süt kardeşi, onun çocukluk yıllarında birlikte büyüdüğü kişidir. Bu kişi, aynı zamanda bir savaşta da önemli bir rol oynamıştır.",
     "soruTipleri": [
-      "GENEL",
       "SIYER"
     ]
   },
@@ -834,7 +796,6 @@
     "dogruCevap": "Mekke, Arafat",
     "ipucu": "Veda Hutbesi, Peygamber Efendimiz (sas) tarafından İslam'ın en önemli belgelerinden biri olarak kabul edilir. Bu hutbe, bir veda niteliği taşıdığı için, Hz. Peygamber'in son haccında gerçekleştirilen ve büyük bir topluluğa hitap ettiği bir konuşmadır. Bu olay, İslam tarihindeki özel bir yeri ifade eder.",
     "soruTipleri": [
-      "GENEL",
       "SIYER"
     ]
   },
@@ -850,7 +811,6 @@
     "dogruCevap": "Fatma bnt. Hattab",
     "ipucu": "Bu hanım sahâbî, Hz. Ömer'in (ra) kız kardeşi olup, İslam'ı kabul eden ilk kadınlardan biridir. İslam'a girmesine vesile olan olay, çok önemli bir dönüm noktasıdır. Bu sahâbî, aynı zamanda Kur'an'ı ezbere bilen ve İslam'ın ilk kadın müslümanlarından biri olarak tanınır.",
     "soruTipleri": [
-      "GENEL",
       "ISLAM_TARIHI"
     ]
   },
@@ -866,7 +826,6 @@
     "dogruCevap": "Fatma bnt. Hattab",
     "ipucu": "Bu hanım sahâbî, Hz. Ömer'in (ra) kız kardeşi olup, İslam'ı kabul eden ilk kadınlardan biridir. İslam'a girmesine vesile olan olay, çok önemli bir dönüm noktasıdır. Bu sahâbî, aynı zamanda Kur'an'ı ezbere bilen ve İslam'ın ilk kadın müslümanlarından biri olarak tanınır.",
     "soruTipleri": [
-      "GENEL",
       "ISLAM_TARIHI"
     ]
   },
@@ -882,7 +841,6 @@
     "dogruCevap": "622",
     "ipucu": "Bu yıl, İslam takviminin başlangıcı olarak kabul edilir ve Mekke'den Medine'ye göçü simgeler.",
     "soruTipleri": [
-      "GENEL",
       "SIYER"
     ]
   },
@@ -898,7 +856,6 @@
     "dogruCevap": "Medine Devleti",
     "ipucu": "Bu devlet, Medine’de farklı kabile ve grupların bir araya gelerek oluşturduğu, İslam’ın temel prensiplerinin ilk uygulandığı yapıdır.",
     "soruTipleri": [
-      "GENEL",
       "SIYER",
       "ISLAM_TARIHI"
     ]
@@ -915,7 +872,6 @@
     "dogruCevap": "Hz. Hatice",
     "ipucu": "Bu kadın, Peygamberimizin (sas) hayatında uzun süreli ve derin bir evlilik bağı oluşturmuş, aynı zamanda ticari başarılarıyla da tanınmıştır.",
     "soruTipleri": [
-      "GENEL",
       "SIYER"
     ]
   },
@@ -931,7 +887,6 @@
     "dogruCevap": "Mekke Dönemi",
     "ipucu": "Bu mucize, birçok sahabinin aktardığı rivayetlere göre, Mekke döneminde meydana gelmiştir.",
     "soruTipleri": [
-      "GENEL",
       "SIYER",
       "ISLAM_TARIHI"
     ]
@@ -948,7 +903,6 @@
     "dogruCevap": "Kur'an-ı Kerim",
     "ipucu": "Bu kitap, İslam dininin temel kaynağını oluşturur ve Peygamberimize indirilen ilahi mesajı içerir.",
     "soruTipleri": [
-      "GENEL",
       "SIYER"
     ]
   },
@@ -964,7 +918,6 @@
     "dogruCevap": "Medine Anayasası",
     "ipucu": "Bu belge, Medine toplumunun çeşitli grupları arasında sosyal düzen ve adaletin sağlanmasına yönelik ilk anayasal düzenlemelerden biridir.",
     "soruTipleri": [
-      "GENEL",
       "SIYER"
     ]
   },
@@ -980,7 +933,6 @@
     "dogruCevap": "Yesrib",
     "ipucu": "Bu şehir, Peygamberimizin (sas) hicreti sonrasında Medine adını almıştır ve İslam tarihinde önemli bir rol oynamaktadır.",
     "soruTipleri": [
-      "GENEL",
       "ISLAM_TARIHI"
     ]
   },
@@ -996,7 +948,6 @@
     "dogruCevap": "Kuba Mescidi",
     "ipucu": "Bu mescit, Medine'ye ulaşmadan önce inşa edilmiş olup, Müslümanların ilk toplu ibadet yerlerinden biridir.",
     "soruTipleri": [
-      "GENEL",
       "SIYER",
       "ISLAM_TARIHI"
     ]
@@ -1013,7 +964,6 @@
     "dogruCevap": "Halid bin Velid (ra)",
     "ipucu": "Bu sahabe, savaş taktikleri ve cesaretiyle tanınır. Bu savaşta gösterdiği başarıdan sonra 'Seyfullah' (Allah'ın Kılıcı) unvanını almıştır.",
     "soruTipleri": [
-      "GENEL",
       "ISLAM_TARIHI"
     ]
   },
@@ -1029,7 +979,6 @@
     "dogruCevap": "Halime",
     "ipucu": "Peygamber Efendimiz'i (sas) küçük yaşta emzirip büyüten değerli kadındır.",
     "soruTipleri": [
-      "GENEL",
       "SIYER"
     ]
   },
@@ -1045,7 +994,6 @@
     "dogruCevap": "Hendek Savaşı",
     "ipucu": "Bu antlaşma, Mekkeli müşriklerle Müslümanlar arasında bir ateşkes dönemi başlatmış ve daha sonraki fetihlere zemin hazırlamıştır. Antlaşmanın imzalanma süreci bazı sahabiler tarafından ilk başta eleştirilmiştir.",
     "soruTipleri": [
-      "GENEL",
       "ISLAM_TARIHI"
     ]
   },
@@ -1061,7 +1009,6 @@
     "dogruCevap": "Hz. Fatıma",
     "ipucu": "Peygamber Efendimiz'in (sas) çok sevdiği kızı ve Hz. Ali'nin (ra) eşidir.",
     "soruTipleri": [
-      "GENEL",
       "SIYER"
     ]
   },
@@ -1077,7 +1024,6 @@
     "dogruCevap": "Hz. Selman-ı Farisi (ra)",
     "ipucu": "Bu sahabe, farklı coğrafyalardan gelmiş olup, savaş stratejileri konusunda tecrübeliydi. Savunma amaçlı bu fikir, Medine'nin korunmasında önemli rol oynamıştır.",
     "soruTipleri": [
-      "GENEL",
       "SIYER",
       "ISLAM_TARIHI"
     ]
@@ -1727,7 +1673,6 @@
     "dogruCevap": "Kuran",
     "ipucu": "Müslümanların kutsal kitabı.",
     "soruTipleri": [
-      "GENEL",
       "KURAN"
     ]
   },
@@ -1743,7 +1688,6 @@
     "dogruCevap": "Mekke",
     "ipucu": "Kabe'nin bulunduğu şehir.",
     "soruTipleri": [
-      "GENEL",
       "SIYER"
     ]
   },
@@ -1775,7 +1719,6 @@
     "dogruCevap": "23",
     "ipucu": "Hz. Muhammed'e (sas) peyderpey indirilmiştir.",
     "soruTipleri": [
-      "GENEL",
       "KURAN"
     ]
   },
@@ -2134,7 +2077,6 @@
     "dogruCevap": "Mescid-i Aksa",
     "ipucu": "Kudüs'te bulunmaktadır.",
     "soruTipleri": [
-      "GENEL",
       "ISLAM_TARIHI"
     ]
   },
@@ -2383,7 +2325,6 @@
     "dogruCevap": "40",
     "ipucu": "Sabah 2, öğle 4, ikindi 4, akşam 3, yatsı 4 + vitir 3.",
     "soruTipleri": [
-      "GENEL",
       "İBADET"
     ]
   },
@@ -3006,7 +2947,6 @@
     "dogruCevap": "Kişinin ölümünden sonra da sevabı devam eden sadaka",
     "ipucu": "Camii, okul gibi kalıcı eserler.",
     "soruTipleri": [
-      "GENEL",
       "İSLAM_AHLAKI"
     ]
   },
