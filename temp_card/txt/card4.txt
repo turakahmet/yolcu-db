@@ -1,5 +1,5 @@
 imageUrl:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card4.jpg
-title:Oruç İbadeti
+title:Oruç
 ──── ୨୧ ────
 🌙Oruç İbadeti
 
