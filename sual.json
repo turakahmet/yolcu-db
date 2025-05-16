@@ -1,4 +1,49 @@
 [
+   {
+    "soruMetni": "Mekke’de inmiştir. 5 ayettir. Surede Ebu Leheb ve hanımının güvendiği malı ve itibarının kendilerine fayda sağlamadığı ve nasıl helak oldukları anlatılır. Bu sure hangisidir",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Tebbet Suresi",
+      "Felak Suresi",
+      "Kevser Suresi",
+      "Fatiha Suresi"
+    ],
+    "dogruCevap": "Tebbet Suresi",
+    "ipucu": "Odun taşıyıcısı’ ifadesiyle Ebu Leheb’in eşine atıfta bulunur.",
+    "soruTipleri": [
+      "KURAN"
+    ]
+   },
+   {
+    "soruMetni": "'Kim Allah için sever, Allah için nefret eder, Allah için verir, Allah için (kötülüklere) engel olursa, imanını kemale erdirmiş olur.' hadisinin hangi kavrama işaret ettiği söylenebilir?",
+    "zorlukSeviyesi": 2,
+    "siklar": [
+      "Hasbilik",
+      "Sehavet",
+      "Takvalık",
+      "Hanefilik"
+    ],
+    "dogruCevap": "Hasbilik",
+    "ipucu": "Amellerin sadece Allah rızası için yapılması bu kavramla ifade edilir.",
+    "soruTipleri": [
+      ""
+    ]
+  },
+  {
+    "soruMetni": "Hadislere göre hangi namaz, tek başına kılınan namazdan 27 kat daha faziletlidir?",
+    "zorlukSeviyesi": 1,
+    "siklar": [
+      "Kabe'de kılınan",
+      "Cemaatle kılınan",
+      "Evde kılınan",
+      "İşyerinde kılınan"
+    ],
+    "dogruCevap": "Cemaatle kılınan",
+    "ipucu": "Bir kişinin kıldırdığı ifadedir",
+    "soruTipleri": [
+      ""
+    ]
+  },
   {
     "soruMetni": "Kur'an-ı Kerim hangi ayda indirilmeye başlanmıştır?",
     "zorlukSeviyesi": 1,
