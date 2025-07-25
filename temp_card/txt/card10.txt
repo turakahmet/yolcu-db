@@ -1,0 +1,21 @@
+imageUrl:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9.jpg
+title:Kuran-ı Kerimden Dualar
+──── ୨୧ ────
+Kur'an-ı Kerim'de Geçen Bazı Dualar 🤲
+
+Kur'an-ı Kerim'de geçen ve "Rabbena" (Ey Rabbimiz) ifadesiyle başlayan birçok önemli dua bulunmaktadır. Bu dualar, müminlerin Allah'a yönelerek dileklerini, ihtiyaçlarını ve yakarışlarını ifade etmeleri için güzel örneklerdir. Kur'an-ı Kerimde geçen Rabbena dualarından bazı örnekler aşağıda Arapça metinleri, Türkçe okunuşları(Kolaylık olması açısından eklenmiştir. Arapça okunuşundan okumak gerekir) ve anlamlarıyla birlikte yer almaktadır.
+
+<card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/bakara128.jpg
+Başlık:Bakara Suresi 128. Ayet
+Türkçe Okunuşu:Rabbena vec'alna müslimeyni leke ve min zürriyyetina ümmeten müslimeten leke ve erina menasikena ve tüb aleyna, inneke entet tevvabur rahim.
+Anlamı:Ey Rabbimiz! Bizi sana teslim olmuş kimseler kıl. Soyumuzdan da sana teslim olmuş bir ümmet kıl. Bize ibadet yerlerini ve ilkelerini göster. Tövbemizi kabul et. Çünkü sen, tövbeleri çok kabul edensin, çok merhametli olansın.</card>
+
+<card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/bakara127.jpg
+Başlık:Bakara Suresi 127. Ayet
+Türkçe Okunuşu:Rabbena tekabbel minna, inneke entes semiul alim.
+Anlamı:Ey Rabbimiz! (İbadetlerimizi) bizden kabul buyur. Şüphesiz sen hakkıyla işiten, hakkıyla bilensin.</card>
+
+<card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/bakara201.jpg
+Başlık:Bakara Suresi 201. Ayet
+Türkçe Okunuşu:Rabbena atina fid dünya haseneten ve fil ahırati haseneten ve kına azabennar.
+Anlamı:Ey Rabbimiz! Bize dünyada da iyilik ver, ahirette de iyilik ver ve bizi ateş azabından koru.</card>
