@@ -1,5 +1,6 @@
 imageUrl:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9.jpg
 title:Kuran-ı Kerimden Dualar
+source:cardLayout
 ──── ୨୧ ────
 Kur'an-ı Kerim'de Geçen Bazı Dualar 🤲
 
