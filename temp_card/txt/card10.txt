@@ -6,17 +6,128 @@ Kur'an-ı Kerim'de Geçen Bazı Dualar 🤲
 
 Kur'an-ı Kerim'de geçen ve "Rabbena" (Ey Rabbimiz) ifadesiyle başlayan birçok önemli dua bulunmaktadır. Bu dualar, müminlerin Allah'a yönelerek dileklerini, ihtiyaçlarını ve yakarışlarını ifade etmeleri için güzel örneklerdir. Kur'an-ı Kerimde geçen Rabbena dualarından bazı örnekler aşağıda Arapça metinleri, Türkçe okunuşları(Kolaylık olması açısından eklenmiştir. Arapça okunuşundan okumak gerekir) ve anlamlarıyla birlikte yer almaktadır.
 
-<card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/bakara128.jpg
-Başlık:Bakara Suresi 128. Ayet
-Türkçe Okunuşu:Rabbena vec'alna müslimeyni leke ve min zürriyyetina ümmeten müslimeten leke ve erina menasikena ve tüb aleyna, inneke entet tevvabur rahim.
-Anlamı:Ey Rabbimiz! Bizi sana teslim olmuş kimseler kıl. Soyumuzdan da sana teslim olmuş bir ümmet kıl. Bize ibadet yerlerini ve ilkelerini göster. Tövbemizi kabul et. Çünkü sen, tövbeleri çok kabul edensin, çok merhametli olansın.</card>
-
 <card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/bakara127.jpg
 Başlık:Bakara Suresi 127. Ayet
 Türkçe Okunuşu:Rabbena tekabbel minna, inneke entes semiul alim.
 Anlamı:Ey Rabbimiz! (İbadetlerimizi) bizden kabul buyur. Şüphesiz sen hakkıyla işiten, hakkıyla bilensin.</card>
 
+<card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/bakara128.jpg
+Başlık:Bakara Suresi 128. Ayet
+Türkçe Okunuşu:Rabbena vec'alna müslimeyni leke ve min zürriyyetina ümmeten müslimeten leke ve erina menasikena ve tüb aleyna, inneke entet tevvabur rahim.
+Anlamı:Ey Rabbimiz! Bizi sana teslim olmuş kimseler kıl. Soyumuzdan da sana teslim olmuş bir ümmet kıl. Bize ibadet yerlerini ve ilkelerini göster. Tövbemizi kabul et. Çünkü sen, tövbeleri çok kabul edensin, çok merhametli olansın.</card>
+
 <card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/bakara201.jpg
 Başlık:Bakara Suresi 201. Ayet
 Türkçe Okunuşu:Rabbena atina fid dünya haseneten ve fil ahırati haseneten ve kına azabennar.
 Anlamı:Ey Rabbimiz! Bize dünyada da iyilik ver, ahirette de iyilik ver ve bizi ateş azabından koru.</card>
+
+<card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/bakara286.jpg
+Başlık:Bakara Suresi 286. Ayet
+Türkçe Okunuşu:Rabbena la tuahızna in nesina ev ahta'na. Rabbena ve la tahmil aleyna ısran kema hameltehu alellezine min kablina. Rabbena ve la tuhammilna ma la takate lena bih. Va'fu anna, vağfir lena, verhamna, ente mevlana fensurna alel kavmil kafirin.
+Anlamı:Ey Rabbimiz! Unutur ya da yanılırsak bizi sorumlu tutma! Ey Rabbimiz! Bizden öncekilere yüklediğin gibi bize de ağır yük yükleme! Ey Rabbimiz! Gücümüzün yetmediği şeylerle bizi sınama! Bizi affet, bizi bağışla, bize merhamet et! Sen bizim Mevlâmızsın; kâfirler topluluğuna karşı bize yardım et!</card>
+
+<card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/araf47.jpg
+Başlık:Araf Suresi 47. Ayet
+Türkçe Okunuşu:Rabbena la tec'alna meal kavmiz zalimin.
+Anlamı:Ey Rabbimiz! Bizi zalimler topluluğuyla beraber kılma!</card>
+
+<card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/hud47.jpg
+Başlık:Hud Suresi 47. Ayet
+Türkçe Okunuşu:Rabbi inni euzu bike en es'eleke ma leyse li bihi ilm, ve illa tağfir li ve terhamni ekün minel hasirin.
+Anlamı:Ey Rabbim! Hakkında bilgim olmayan şeyi senden istemekten sana sığınırım. Eğer beni bağışlamaz ve bana merhamet etmezsen, ziyana uğrayanlardan olurum.</card>
+
+<card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/ibrahim40.jpg
+Başlık:İbrahim Suresi 40. Ayet
+Türkçe Okunuşu:Rabbi'c'alni mukimes salahı ve min zürriyyeti. Rabbena ve tekabbel düa'.
+Anlamı:Ey Rabbim! Beni ve zürriyetimi namazı dosdoğru kılanlardan eyle. Ey Rabbimiz! Duamı kabul buyur.</card>
+
+<card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/ibrahim41.jpg
+Başlık:İbrahim Suresi 41. Ayet
+Türkçe Okunuşu:Rabbenafir li ve li valideyye ve lil mü'minine yevme yekumül hisab.
+Anlamı:Ey Rabbimiz! Hesap görüleceği gün beni, ana babamı ve bütün müminleri bağışla!</card>
+
+<card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/isra80.jpg
+Başlık:İsra Suresi 80. Ayet
+Türkçe Okunuşu:Rabbi edhılni müdhale sıdkın ve ahrıcni muhrace sıdkın vec'al li min ledünke sultanen nasira.
+Anlamı:Ey Rabbim! Beni doğrulukla girilecek yere girdir ve doğrulukla çıkılacak yerden çıkar. Katından bana yardımcı bir güç ver.</card>
+
+<card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/kehf10.jpg
+Başlık:Kehf Suresi 10. Ayet
+Türkçe Okunuşu:Rabbena atina min ledünke rahmeten ve heyyi' lena min emrina raşeda.
+Anlamı:Ey Rabbimiz! Bize katından bir rahmet ver ve içinde bulunduğumuz şu durumda bize kurtuluş ve doğruluğa ulaşmayı kolaylaştır.</card>
+
+<card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/taha2528.jpg
+Başlık:Taha Suresi 25-28. Ayet
+Türkçe Okunuşu:Kale rabbişrah li sadri. Ve yessir li emri. Vahlül ukdeten min lisani. Yefkahu kavli.
+Anlamı:(Musa) dedi ki: "Ey Rabbim! Göğsümü genişlet. İşimi kolaylaştır. Dilimden de bağı çöz ki sözümü iyi anlasınlar."</card>
+
+<card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/taha114.jpg
+Başlık:Taha Suresi 114. Ayet
+Türkçe Okunuşu:Rabbi zidni ilma.
+Anlamı:Ey Rabbim! Benim ilmimi artır.</card>
+
+<card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/muminun9798.jpg
+Başlık:Mü'minun Suresi 97-98. Ayet
+Türkçe Okunuşu:Rabbi zidni ilma.
+Anlamı:Ey Rabbim! Benim ilmimi artır.</card>
+
+<card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/muminun109.jpg
+Başlık:Mü'minun Suresi 109. Ayet
+Türkçe Okunuşu:Rabbena amenna fağfir lena verhamna ve ente hayrur rahimin.
+Anlamı:Ey Rabbimiz! Biz iman ettik; bizi bağışla ve bize merhamet et. Sen merhamet edenlerin en hayırlısısın.
+</card>
+
+<card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/furkan65.jpg
+Başlık:Furkan Suresi 65. Ayet
+Türkçe Okunuşu:Rabbenâ-srif anna azabe cehennem, inne azabeha kane ğarama.
+Anlamı:Ey Rabbimiz! Bizden cehennem azabını uzaklaştır. Çünkü onun azabı sürekli bir helaktir.
+</card>
+
+<card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/furkan74.jpg
+Başlık:Furkan Suresi 74. Ayet
+Türkçe Okunuşu:Rabbena heb lena min ezvacina ve zürriyyatina kurrete a'yunin vec'alna lil müttakine imama.
+Anlamı:Ey Rabbimiz! Bize eşlerimizden ve zürriyetimizden gözümüzü aydınlatacak (sâlih insanlar) ihsan et ve bizi takva sahiplerine önder kıl.
+</card>
+
+<card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/suara8385.jpg
+Başlık:Şuara Suresi 83-85. Ayet
+Türkçe Okunuşu:Rabbi heb li hukmen ve elhıkni bis salihin. Vec'al li lisane sıdkın fil ahirin. Vec'alni min veraseti cennetin naim.
+Anlamı:Ey Rabbim! Bana bir hikmet bahşet ve beni salih kimseler arasına kat. Sonra gelecekler arasında beni doğrulukla anılanlardan kıl. Beni Naîm cennetinin varislerinden eyle..
+</card>
+
+<card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/neml19.jpg
+Başlık:Neml Suresi 19. Ayet
+Türkçe Okunuşu:Rabbi evzı'ni en eşküre ni'metekelleti en'amte aleyye ve ala valideyye ve en a'mele salihan terdahu ve edhılni birahmetike fi ıbadikes salihin.
+Anlamı:Ey Rabbim! Bana ve ana babama verdiğin nimetlere şükretmemi, senin razı olacağın salih ameller işlememi nasip et ve beni rahmetinle salih kullarının arasına kat.
+</card>
+
+<card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/kasas16.jpg
+Başlık:Kasas Suresi 16. Ayet
+Türkçe Okunuşu: Rabbi inni zalemtü nefsi fağfir li.
+Anlamı:Ey Rabbim! Ben nefsime zulmettim, beni bağışla.
+</card>
+
+<card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/mumin78.jpg
+Başlık:Mümin Suresi 7-8. Ayet
+Türkçe Okunuşu: Rabbena vesi'te kulle şey'in rahmeten ve ilmen fagfir lillezîne tâbû vettebeû sebîleke ve kıhim azâbel cahîm. Rabbena ve edhilhum cennâti adninilletî vaadtehum ve men salaha min âbâihim ve ezvâcihim ve zurriyyâtihim inneke entel azîzul hakîm.
+Anlamı:Ey Rabbimiz! Rahmetin ve ilmin her şeyi kuşatmıştır. Tövbe edip senin yoluna uyanları bağışla ve onları cehennem azabından koru. Ey Rabbimiz! Onları ve babalarından, eşlerinden ve zürriyetlerinden salih olanları kendilerine vaad ettiğin Adn cennetlerine koy. Şüphesiz sen mutlak güç sahibi, hüküm ve hikmet sahibisin.
+</card>
+
+<card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/hasr10.jpg
+Başlık:Haşr Suresi 10. Ayet
+Türkçe Okunuşu: Rabbenağfir lena ve li ihvaninellezine sebekuna bil iman ve la tec'al fi kulubina ğıllen lillezine amenu rabbena inneke raufun rahim.
+Anlamı:Ey Rabbimiz! Bizi ve bizden önce iman etmiş olan kardeşlerimizi bağışla. Kalplerimizde iman edenlere karşı hiçbir kin bırakma. Ey Rabbimiz! Şüphesiz sen çok şefkatli, çok merhametlisin.
+</card>
+
+<card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/mumtehine45.jpg
+Başlık:Mümtehine Suresi 4-5. Ayet
+Türkçe Okunuşu: Rabbena aleyke tevekkelna ve ileyke enebna ve ileykel masir. Rabbena la tec'alna fitneten lillezine keferu vağfir lena rabbena, inneke entel azizül hakim.
+Anlamı:Ey Rabbimiz! Yalnız sana tevekkül ettik, yalnızca sana yöneldik ve dönüş de ancak sanadır. Ey Rabbimiz! Bizi inkâr edenler için bir fitne (konusu) kılma ve bizi bağışla! Ey Rabbimiz! Şüphesiz sen mutlak güç sahibi, hüküm ve hikmet sahibisin.
+</card>
+
+<card>Görsel:https://raw.githubusercontent.com/turakahmet/yolcu-db/refs/heads/main/temp_card/img/card9_/ahkaf15.jpg
+Başlık:Ahkaf Suresi 15. Ayet
+Türkçe Okunuşu: Rabbi evzı’nî en eşkure ni’metekelletî en’amte aleyye ve alâ vâlideyye ve en a’mele sâlihan terdâhu ve aslıh lî fî zurriyyetî, innî tubtu ileyke ve innî minel muslimîn.
+Anlamı:Rabbim! Bana ve ana babama verdiğin nimetlere şükretmemi, senin razı olacağın salih ameller işlememi ve zürriyetimi de ıslah etmeni bana ilham et. Şüphesiz ben sana döndüm ve ben Müslümanlardanım.
+</card>
+
