@@ -4,1455 +4,1455 @@
         "ay": "OCAK",
         "yil": 2025,
         "hafta_gunu": "ÇARŞAMBA",
-        "dini_gun": "ÜÇ AYLARIN BAŞLANGICI"
+        "dini_gun": "Üç Ayların Başlangıcı"
     },
     {
         "gun": "02",
         "ay": "OCAK",
         "yil": 2025,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "REGAİB KANDİLİ"
+        "dini_gun": "Regaib Kandili"
     },
     {
         "gun": "26",
         "ay": "OCAK ",
         "yil": 2025,
         "hafta_gunu": "PAZAR",
-        "dini_gun": "MİRAC KANDİLİ"
+        "dini_gun": "Miraç Kandili"
     },
     {
         "gun": "13",
         "ay": "ŞUBAT ",
         "yil": 2025,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "BERAT KANDİLİ"
+        "dini_gun": "Berat Kandili"
     },
     {
         "gun": "01",
         "ay": "MART",
         "yil": 2025,
         "hafta_gunu": "CUMARTESİ",
-        "dini_gun": "RAMAZAN BAŞLANGICI"
+        "dini_gun": "Ramazan Başlangıcı"
     },
     {
         "gun": "26",
         "ay": "MART ",
         "yil": 2025,
         "hafta_gunu": "ÇARŞAMBA",
-        "dini_gun": "KADİR GECESİ"
+        "dini_gun": "Kadir Gecesi"
     },
     {
         "gun": "29",
         "ay": "MART",
         "yil": 2025,
         "hafta_gunu": "CUMARTESİ",
-        "dini_gun": "AREFE"
+        "dini_gun": "Ramazan Bayramı Arefesi"
     },
     {
         "gun": "30",
         "ay": "MART",
         "yil": 2025,
         "hafta_gunu": "PAZAR",
-        "dini_gun": "RAMAZAN BAYRAMI (1. Gün)"
+        "dini_gun": "Ramazan Bayramı (1. Gün)"
     },
     {
         "gun": "31",
         "ay": "MART",
         "yil": 2025,
         "hafta_gunu": "PAZARTESİ",
-        "dini_gun": "RAMAZAN BAYRAMI (2. Gün)"
+        "dini_gun": "Ramazan Bayramı (2. Gün)"
     },
     {
         "gun": "01",
         "ay": "NİSAN",
         "yil": 2025,
         "hafta_gunu": "SALI",
-        "dini_gun": "RAMAZAN BAYRAMI (3. Gün)"
+        "dini_gun": "Ramazan Bayramı (3. Gün)"
     },
     {
         "gun": "05",
         "ay": "HAZİRAN",
         "yil": 2025,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "AREFE"
+        "dini_gun": "Kurban Bayramı Arefesi"
     },
     {
         "gun": "06",
         "ay": "HAZİRAN ",
         "yil": 2025,
         "hafta_gunu": "CUMA",
-        "dini_gun": "KURBAN BAYRAMI (1. Gün)"
+        "dini_gun": "Kurban Bayramı (1. Gün)"
     },
     {
         "gun": "07",
         "ay": "HAZİRAN ",
         "yil": 2025,
         "hafta_gunu": "CUMARTESİ",
-        "dini_gun": "KURBAN BAYRAMI (2. Gün)"
+        "dini_gun": "Kurban Bayramı (2. Gün)"
     },
     {
         "gun": "08",
         "ay": "HAZİRAN ",
         "yil": 2025,
         "hafta_gunu": "PAZAR",
-        "dini_gun": "KURBAN BAYRAMI (3. Gün)"
+        "dini_gun": "Kurban Bayramı (3. Gün)"
     },
     {
         "gun": "09",
         "ay": "HAZİRAN ",
         "yil": 2025,
         "hafta_gunu": "PAZARTESİ",
-        "dini_gun": "KURBAN BAYRAMI (4. Gün)"
+        "dini_gun": "Kurban Bayramı (4. Gün)"
     },
     {
         "gun": "26",
         "ay": "HAZİRAN",
         "yil": 2025,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "HİCRİ YILBAŞI"
+        "dini_gun": "Hicri Yılbaşı"
     },
     {
         "gun": "05",
         "ay": "TEMMUZ ",
         "yil": 2025,
         "hafta_gunu": "CUMARTESİ",
-        "dini_gun": "AŞURE GÜNÜ"
+        "dini_gun": "Aşure Günü"
     },
     {
         "gun": "03",
         "ay": "EYLÜL ",
         "yil": 2025,
         "hafta_gunu": "ÇARŞAMBA",
-        "dini_gun": "MEVLİD KANDİLİ"
+        "dini_gun": "Mevlid Kandili"
     },
     {
         "gun": "21",
         "ay": "ARALIK",
         "yil": 2025,
         "hafta_gunu": "PAZAR",
-        "dini_gun": "ÜÇ AYLARIN BAŞLANGICI"
+        "dini_gun": "Üç Ayların Başlangıcı"
     },
     {
         "gun": "25",
         "ay": "ARALIK ",
         "yil": 2025,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "REGAİB KANDİLİ"
+        "dini_gun": "Regaib Kandili"
     },
     {
         "gun": "15",
         "ay": "OCAK ",
         "yil": 2026,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "MİRAC KANDİLİ"
+        "dini_gun": "Miraç Kandili"
     },
     {
         "gun": "02",
         "ay": "ŞUBAT ",
         "yil": 2026,
         "hafta_gunu": "PAZARTESİ",
-        "dini_gun": "BERAT KANDİLİ"
+        "dini_gun": "Berat Kandili"
     },
     {
         "gun": "19",
         "ay": "ŞUBAT ",
         "yil": 2026,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "RAMAZAN BAŞLANGICI"
+        "dini_gun": "Ramazan Başlangıcı"
     },
     {
         "gun": "16",
         "ay": "MART ",
         "yil": 2026,
         "hafta_gunu": "PAZARTESİ",
-        "dini_gun": "KADİR GECESİ"
+        "dini_gun": "Kadir Gecesi"
     },
     {
         "gun": "19",
         "ay": "MART",
         "yil": 2026,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "AREFE"
+        "dini_gun": "Ramazan Bayramı Arefesi"
     },
     {
         "gun": "20",
         "ay": "MART",
         "yil": 2026,
         "hafta_gunu": "CUMA",
-        "dini_gun": "RAMAZAN BAYRAMI (1. Gün)"
+        "dini_gun": "Ramazan Bayramı (1. Gün)"
     },
     {
         "gun": "21",
         "ay": "MART",
         "yil": 2026,
         "hafta_gunu": "CUMARTESİ",
-        "dini_gun": "RAMAZAN BAYRAMI (2. Gün)"
+        "dini_gun": "Ramazan Bayramı (2. Gün)"
     },
     {
         "gun": "22",
         "ay": "MART",
         "yil": 2026,
         "hafta_gunu": "PAZAR",
-        "dini_gun": "RAMAZAN BAYRAMI (3. Gün)"
+        "dini_gun": "Ramazan Bayramı (3. Gün)"
     },
     {
         "gun": "26",
         "ay": "MAYIS",
         "yil": 2026,
         "hafta_gunu": "SALI",
-        "dini_gun": "AREFE"
+        "dini_gun": "Kurban Bayramı Arefesi"
     },
     {
         "gun": "27",
         "ay": "MAYIS ",
         "yil": 2026,
         "hafta_gunu": "ÇARŞAMBA",
-        "dini_gun": "KURBAN BAYRAMI (1. Gün)"
+        "dini_gun": "Kurban Bayramı (1. Gün)"
     },
     {
         "gun": "28",
         "ay": "MAYIS ",
         "yil": 2026,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "KURBAN BAYRAMI (2. Gün)"
+        "dini_gun": "Kurban Bayramı (2. Gün)"
     },
     {
         "gun": "29",
         "ay": "MAYIS ",
         "yil": 2026,
         "hafta_gunu": "CUMA",
-        "dini_gun": "KURBAN BAYRAMI (3. Gün)"
+        "dini_gun": "Kurban Bayramı (3. Gün)"
     },
     {
         "gun": "30",
         "ay": "MAYIS ",
         "yil": 2026,
         "hafta_gunu": "CUMARTESİ",
-        "dini_gun": "KURBAN BAYRAMI (4. Gün)"
+        "dini_gun": "Kurban Bayramı (4. Gün)"
     },
     {
         "gun": "16",
         "ay": "HAZİRAN",
         "yil": 2026,
         "hafta_gunu": "SALI",
-        "dini_gun": "HİCRİ YILBAŞI"
+        "dini_gun": "Hicri Yılbaşı"
     },
     {
         "gun": "25",
         "ay": "HAZİRAN ",
         "yil": 2026,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "AŞURE GÜNÜ"
+        "dini_gun": "Aşure Günü"
     },
     {
         "gun": "24",
         "ay": "AĞUSTOS",
         "yil": 2026,
         "hafta_gunu": "PAZARTESİ",
-        "dini_gun": "MEVLİD KANDİLİ"
+        "dini_gun": "Mevlid Kandili"
     },
     {
         "gun": "10",
         "ay": "ARALIK",
         "yil": 2026,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "ÜÇ AYLARIN BAŞLANGICI"
+        "dini_gun": "Üç Ayların Başlangıcı"
     },
     {
         "gun": "10",
         "ay": "ARALIK ",
         "yil": 2026,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "REGAİB KANDİLİ"
+        "dini_gun": "Regaib Kandili"
     },
     {
         "gun": "04",
         "ay": "OCAK ",
         "yil": 2027,
         "hafta_gunu": "PAZARTESİ",
-        "dini_gun": "MİRAC KANDİLİ"
+        "dini_gun": "Miraç Kandili"
     },
     {
         "gun": "22",
         "ay": "OCAK ",
         "yil": 2027,
         "hafta_gunu": "CUMA",
-        "dini_gun": "BERAT KANDİLİ"
+        "dini_gun": "Berat Kandili"
     },
     {
         "gun": "08",
         "ay": "ŞUBAT ",
         "yil": 2027,
         "hafta_gunu": "PAZARTESİ",
-        "dini_gun": "RAMAZAN BAŞLANGICI"
+        "dini_gun": "Ramazan Başlangıcı"
     },
     {
         "gun": "05",
         "ay": "MART ",
         "yil": 2027,
         "hafta_gunu": "CUMA",
-        "dini_gun": "KADİR GECESİ"
+        "dini_gun": "Kadir Gecesi"
     },
     {
         "gun": "08",
         "ay": "MART",
         "yil": 2027,
         "hafta_gunu": "PAZARTESİ",
-        "dini_gun": "AREFE"
+        "dini_gun": "Ramazan Bayramı Arefesi"
     },
     {
         "gun": "09",
         "ay": "MART",
         "yil": 2027,
         "hafta_gunu": "SALI",
-        "dini_gun": "RAMAZAN BAYRAMI (1. Gün)"
+        "dini_gun": "Ramazan Bayramı (1. Gün)"
     },
     {
         "gun": "10",
         "ay": "MART",
         "yil": 2027,
         "hafta_gunu": "ÇARŞAMBA",
-        "dini_gun": "RAMAZAN BAYRAMI (2. Gün)"
+        "dini_gun": "Ramazan Bayramı (2. Gün)"
     },
     {
         "gun": "11",
         "ay": "MART",
         "yil": 2027,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "RAMAZAN BAYRAMI (3. Gün)"
+        "dini_gun": "Ramazan Bayramı (3. Gün)"
     },
     {
         "gun": "15",
         "ay": "MAYIS",
         "yil": 2027,
         "hafta_gunu": "CUMARTESİ",
-        "dini_gun": "AREFE"
+        "dini_gun": "Kurban Bayramı Arefesi"
     },
     {
         "gun": "16",
         "ay": "MAYIS ",
         "yil": 2027,
         "hafta_gunu": "PAZAR",
-        "dini_gun": "KURBAN BAYRAMI (1. Gün)"
+        "dini_gun": "Kurban Bayramı (1. Gün)"
     },
     {
         "gun": "17",
         "ay": "MAYIS ",
         "yil": 2027,
         "hafta_gunu": "PAZARTESİ",
-        "dini_gun": "KURBAN BAYRAMI (2. Gün)"
+        "dini_gun": "Kurban Bayramı (2. Gün)"
     },
     {
         "gun": "18",
         "ay": "MAYIS ",
         "yil": 2027,
         "hafta_gunu": "SALI",
-        "dini_gun": "KURBAN BAYRAMI (3. Gün)"
+        "dini_gun": "Kurban Bayramı (3. Gün)"
     },
     {
         "gun": "19",
         "ay": "MAYIS ",
         "yil": 2027,
         "hafta_gunu": "ÇARŞAMBA",
-        "dini_gun": "KURBAN BAYRAMI (4. Gün)"
+        "dini_gun": "Kurban Bayramı (4. Gün)"
     },
     {
         "gun": "06",
         "ay": "HAZİRAN",
         "yil": 2027,
         "hafta_gunu": "PAZAR",
-        "dini_gun": "HİCRİ YILBAŞI"
+        "dini_gun": "Hicri Yılbaşı"
     },
     {
         "gun": "15",
         "ay": "HAZİRAN ",
         "yil": 2027,
         "hafta_gunu": "SALI",
-        "dini_gun": "AŞURE GÜNÜ"
+        "dini_gun": "Aşure Günü"
     },
     {
         "gun": "13",
         "ay": "AĞUSTOS",
         "yil": 2027,
         "hafta_gunu": "CUMA",
-        "dini_gun": "MEVLİD KANDİLİ"
+        "dini_gun": "Mevlid Kandili"
     },
     {
         "gun": "29",
         "ay": "KASIM",
         "yil": 2027,
         "hafta_gunu": "PAZARTESİ",
-        "dini_gun": "ÜÇ AYLARIN BAŞLANGICI"
+        "dini_gun": "Üç Ayların Başlangıcı"
     },
     {
         "gun": "02",
         "ay": "ARALIK ",
         "yil": 2027,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "REGAİB KANDİLİ"
+        "dini_gun": "Regaib Kandili"
     },
     {
         "gun": "24",
         "ay": "ARALIK ",
         "yil": 2027,
         "hafta_gunu": "CUMA",
-        "dini_gun": "MİRAC KANDİLİ"
+        "dini_gun": "Miraç Kandili"
     },
     {
         "gun": "11/12",
         "ay": "OCAK",
         "yil": 2028,
         "hafta_gunu": "SALI/ÇARŞAMBA",
-        "dini_gun": "BERAT KANDİLİ"
+        "dini_gun": "Berat Kandili"
     },
     {
         "gun": "28",
         "ay": "OCAK ",
         "yil": 2028,
         "hafta_gunu": "CUMA",
-        "dini_gun": "RAMAZAN BAŞLANGICI"
+        "dini_gun": "Ramazan Başlangıcı"
     },
     {
         "gun": "22/23",
         "ay": "ŞUBAT ",
         "yil": 2028,
         "hafta_gunu": "SALI/ÇARŞ",
-        "dini_gun": "KADİR GECESİ"
+        "dini_gun": "Kadir Gecesi"
     },
     {
         "gun": "25",
         "ay": "ŞUBAT",
         "yil": 2028,
         "hafta_gunu": "CUMA",
-        "dini_gun": "RAMAZAN BAY. AREFESİ"
+        "dini_gun": "Ramazan Bayramı Arefesi"
     },
     {
         "gun": "26",
         "ay": "ŞUBAT",
         "yil": 2028,
         "hafta_gunu": "CUMARTESİ",
-        "dini_gun": "RAMAZAN BAYRAMI 1. Gün"
+        "dini_gun": "Ramazan Bayramı (1. Gün)"
     },
     {
         "gun": "27",
         "ay": "ŞUBAT",
         "yil": 2028,
         "hafta_gunu": "PAZAR",
-        "dini_gun": "RAMAZAN BAYRAMI 2. Gün"
+        "dini_gun": "Ramazan Bayramı (2. Gün)"
     },
     {
         "gun": "28",
         "ay": "ŞUBAT",
         "yil": 2028,
         "hafta_gunu": "PAZARTESİ",
-        "dini_gun": "RAMAZAN BAYRAMI 3. Gün"
+        "dini_gun": "Ramazan Bayramı (3. Gün)"
     },
     {
         "gun": "04",
         "ay": "MAYIS",
         "yil": 2028,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "KURBAN BAY. AREFESİ"
+        "dini_gun": "Kurban Bayramı Arefesi"
     },
     {
         "gun": "05",
         "ay": "MAYIS ",
         "yil": 2028,
         "hafta_gunu": "CUMA",
-        "dini_gun": "KURBAN BAYRAMI 1. Gün"
+        "dini_gun": "Kurban Bayramı (1. Gün)"
     },
     {
         "gun": "06",
         "ay": "MAYIS ",
         "yil": 2028,
         "hafta_gunu": "CUMARTESİ",
-        "dini_gun": "KURBAN BAYRAMI 2. Gün"
+        "dini_gun": "Kurban Bayramı (2. Gün)"
     },
     {
         "gun": "07",
         "ay": "MAYIS ",
         "yil": 2028,
         "hafta_gunu": "PAZAR",
-        "dini_gun": "KURBAN BAYRAMI 3. Gün"
+        "dini_gun": "Kurban Bayramı (3. Gün)"
     },
     {
         "gun": "08",
         "ay": "MAYIS ",
         "yil": 2028,
         "hafta_gunu": "PAZARTESİ",
-        "dini_gun": "KURBAN BAYRAMI 4. Gün"
+        "dini_gun": "Kurban Bayramı (4. Gün)"
     },
     {
         "gun": "25",
         "ay": "MAYIS",
         "yil": 2028,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "HİCRİ YILBAŞI"
+        "dini_gun": "Hicri Yılbaşı"
     },
     {
         "gun": "03",
         "ay": "HAZİRAN ",
         "yil": 2028,
         "hafta_gunu": "CUMARTESİ",
-        "dini_gun": "AŞURE GÜNÜ"
+        "dini_gun": "Aşure Günü"
     },
     {
         "gun": "02/03",
         "ay": "AĞUSTOS",
         "yil": 2028,
         "hafta_gunu": "ÇARŞ/PERŞ",
-        "dini_gun": "MEVLİT KANDİLİ"
+        "dini_gun": "Mevlid Kandili"
     },
     {
         "gun": "18",
         "ay": "KASIM",
         "yil": 2028,
         "hafta_gunu": "CUMARTESİ",
-        "dini_gun": "ÜÇ AYLARIN BAŞLANGICI"
+        "dini_gun": "Üç Ayların Başlangıcı"
     },
     {
         "gun": "23/24",
         "ay": "KASIM ",
         "yil": 2028,
         "hafta_gunu": "PERŞ/CUMA",
-        "dini_gun": "REGAİB KANDİLİ"
+        "dini_gun": "Regaib Kandili"
     },
     {
         "gun": "13/14",
         "ay": "ARALIK ",
         "yil": 2028,
         "hafta_gunu": "ÇARŞ/PERŞ",
-        "dini_gun": "MİRAC KANDİLİ"
+        "dini_gun": "Miraç Kandili"
     },
     {
         "gun": "30/31",
         "ay": "ARALIK ",
         "yil": 2028,
         "hafta_gunu": "C.TESİ/PAZAR",
-        "dini_gun": "BERAT KANDİLİ"
+        "dini_gun": "Berat Kandili"
     },
     {
         "gun": "16",
         "ay": "OCAK ",
         "yil": 2029,
         "hafta_gunu": "SALI",
-        "dini_gun": "RAMAZAN BAŞLANGICI"
+        "dini_gun": "Ramazan Başlangıcı"
     },
     {
         "gun": "10/11",
         "ay": "ŞUBAT ",
         "yil": 2029,
         "hafta_gunu": "C.TESİ/PAZAR",
-        "dini_gun": "KADİR GECESİ"
+        "dini_gun": "Kadir Gecesi"
     },
     {
         "gun": "13",
         "ay": "ŞUBAT",
         "yil": 2029,
         "hafta_gunu": "SALI",
-        "dini_gun": "RAMAZAN BAY. AREFESİ"
+        "dini_gun": "Ramazan Bayramı Arefesi"
     },
     {
         "gun": "14",
         "ay": "ŞUBAT",
         "yil": 2029,
         "hafta_gunu": "ÇARŞAMBA",
-        "dini_gun": "RAMAZAN BAYRAMI 1. Gün"
+        "dini_gun": "Ramazan Bayramı (1. Gün)"
     },
     {
         "gun": "15",
         "ay": "ŞUBAT",
         "yil": 2029,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "RAMAZAN BAYRAMI 2. Gün"
+        "dini_gun": "Ramazan Bayramı (2. Gün)"
     },
     {
         "gun": "16",
         "ay": "ŞUBAT",
         "yil": 2029,
         "hafta_gunu": "CUMA",
-        "dini_gun": "RAMAZAN BAYRAMI 3. Gün"
+        "dini_gun": "Ramazan Bayramı (3. Gün)"
     },
     {
         "gun": "23",
         "ay": "NİSAN",
         "yil": 2029,
         "hafta_gunu": "PAZARTESİ",
-        "dini_gun": "KURBAN BAY. AREFESİ"
+        "dini_gun": "Kurban Bayramı Arefesi"
     },
     {
         "gun": "24",
         "ay": "NİSAN",
         "yil": 2029,
         "hafta_gunu": "SALI",
-        "dini_gun": "KURBAN BAYRAMI 1. Gün"
+        "dini_gun": "Kurban Bayramı (1. Gün)"
     },
     {
         "gun": "25",
         "ay": "NİSAN",
         "yil": 2029,
         "hafta_gunu": "ÇARŞAMBA",
-        "dini_gun": "KURBAN BAYRAMI 2. Gün"
+        "dini_gun": "Kurban Bayramı (2. Gün)"
     },
     {
         "gun": "26",
         "ay": "NİSAN",
         "yil": 2029,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "KURBAN BAYRAMI 3. Gün"
+        "dini_gun": "Kurban Bayramı (3. Gün)"
     },
     {
         "gun": "27",
         "ay": "NİSAN",
         "yil": 2029,
         "hafta_gunu": "CUMA",
-        "dini_gun": "KURBAN BAYRAMI 4. Gün"
+        "dini_gun": "Kurban Bayramı (4. Gün)"
     },
     {
         "gun": "14",
         "ay": "MAYIS",
         "yil": 2029,
         "hafta_gunu": "PAZARTESİ",
-        "dini_gun": "HİCRİ YILBAŞI"
+        "dini_gun": "Hicri Yılbaşı"
     },
     {
         "gun": "23",
         "ay": "MAYIS ",
         "yil": 2029,
         "hafta_gunu": "ÇARŞAMBA",
-        "dini_gun": "AŞURE GÜNÜ"
+        "dini_gun": "Aşure Günü"
     },
     {
         "gun": "23/24",
         "ay": "TEMMUZ",
         "yil": 2029,
         "hafta_gunu": "P.TESİ/SALI",
-        "dini_gun": "MEVLİT KANDİLİ"
+        "dini_gun": "Mevlid Kandili"
     },
     {
         "gun": "07",
         "ay": "KASIM",
         "yil": 2029,
         "hafta_gunu": "ÇARŞAMBA",
-        "dini_gun": "ÜÇ AYLARIN BAŞLANGICI"
+        "dini_gun": "Üç Ayların Başlangıcı"
     },
     {
         "gun": "08/09",
         "ay": "KASIM ",
         "yil": 2029,
         "hafta_gunu": "PERŞ/CUMA",
-        "dini_gun": "REGAİB KANDİLİ"
+        "dini_gun": "Regaib Kandili"
     },
     {
         "gun": "02/03",
         "ay": "ARALIK ",
         "yil": 2029,
         "hafta_gunu": "PAZAR/P.TESİ",
-        "dini_gun": "MİRAC KANDİLİ"
+        "dini_gun": "Miraç Kandili"
     },
     {
         "gun": "20/21",
         "ay": "ARALIK ",
         "yil": 2029,
         "hafta_gunu": "PERŞ/CUMA",
-        "dini_gun": "BERAT KANDİLİ"
+        "dini_gun": "Berat Kandili"
     },
     {
         "gun": "05",
         "ay": "OCAK ",
         "yil": 2030,
         "hafta_gunu": "CUMARTESİ",
-        "dini_gun": "RAMAZAN BAŞLANGICI"
+        "dini_gun": "Ramazan Başlangıcı"
     },
     {
         "gun": "30/31",
         "ay": "OCAK ",
         "yil": 2030,
         "hafta_gunu": "ÇARŞ/PERŞ",
-        "dini_gun": "KADİR GECESİ"
+        "dini_gun": "Kadir Gecesi"
     },
     {
         "gun": "03",
         "ay": "ŞUBAT",
         "yil": 2030,
         "hafta_gunu": "PAZAR",
-        "dini_gun": "RAMAZAN BAY. AREFESİ"
+        "dini_gun": "Ramazan Bayramı Arefesi"
     },
     {
         "gun": "04",
         "ay": "ŞUBAT",
         "yil": 2030,
         "hafta_gunu": "PAZARTESİ",
-        "dini_gun": "RAMAZAN BAYRAMI 1. Gün"
+        "dini_gun": "Ramazan Bayramı (1. Gün)"
     },
     {
         "gun": "05",
         "ay": "ŞUBAT",
         "yil": 2030,
         "hafta_gunu": "SALI",
-        "dini_gun": "RAMAZAN BAYRAMI 2. Gün"
+        "dini_gun": "Ramazan Bayramı (2. Gün)"
     },
     {
         "gun": "06",
         "ay": "ŞUBAT",
         "yil": 2030,
         "hafta_gunu": "ÇARŞAMBA",
-        "dini_gun": "RAMAZAN BAYRAMI 3. Gün"
+        "dini_gun": "Ramazan Bayramı (3. Gün)"
     },
     {
         "gun": "12",
         "ay": "NİSAN",
         "yil": 2030,
         "hafta_gunu": "CUMA",
-        "dini_gun": "KURBAN BAY. AREFESİ"
+        "dini_gun": "Kurban Bayramı Arefesi"
     },
     {
         "gun": "13",
         "ay": "NİSAN",
         "yil": 2030,
         "hafta_gunu": "CUMARTESİ",
-        "dini_gun": "KURBAN BAYRAMI 1. Gün"
+        "dini_gun": "Kurban Bayramı (1. Gün)"
     },
     {
         "gun": "14",
         "ay": "NİSAN",
         "yil": 2030,
         "hafta_gunu": "PAZAR",
-        "dini_gun": "KURBAN BAYRAMI 2. Gün"
+        "dini_gun": "Kurban Bayramı (2. Gün)"
     },
     {
         "gun": "15",
         "ay": "NİSAN",
         "yil": 2030,
         "hafta_gunu": "PAZARTESİ",
-        "dini_gun": "KURBAN BAYRAMI 3. Gün"
+        "dini_gun": "Kurban Bayramı (3. Gün)"
     },
     {
         "gun": "16",
         "ay": "NİSAN",
         "yil": 2030,
         "hafta_gunu": "SALI",
-        "dini_gun": "KURBAN BAYRAMI 4. Gün"
+        "dini_gun": "Kurban Bayramı (4. Gün)"
     },
     {
         "gun": "03",
         "ay": "MAYIS",
         "yil": 2030,
         "hafta_gunu": "CUMA",
-        "dini_gun": "HİCRİ YILBAŞI"
+        "dini_gun": "Hicri Yılbaşı"
     },
     {
         "gun": "12",
         "ay": "MAYIS ",
         "yil": 2030,
         "hafta_gunu": "PAZAR",
-        "dini_gun": "AŞURE GÜNÜ"
+        "dini_gun": "Aşure Günü"
     },
     {
         "gun": "12/13",
         "ay": "TEMMUZ",
         "yil": 2030,
         "hafta_gunu": "CUMA/C.TESİ",
-        "dini_gun": "MEVLİT KANDİLİ"
+        "dini_gun": "Mevlid Kandili"
     },
     {
         "gun": "28",
         "ay": "EKİM",
         "yil": 2030,
         "hafta_gunu": "PAZARTESİ",
-        "dini_gun": "ÜÇ AYLARIN BAŞLANGICI"
+        "dini_gun": "Üç Ayların Başlangıcı"
     },
     {
         "gun": "31/01",
         "ay": "EKİM/KASIM ",
         "yil": 2030,
         "hafta_gunu": "PERŞ/CUMA",
-        "dini_gun": "REGAİB KANDİLİ"
+        "dini_gun": "Regaib Kandili"
     },
     {
         "gun": "22/23",
         "ay": "KASIM ",
         "yil": 2030,
         "hafta_gunu": "CUMA/C.TESİ",
-        "dini_gun": "MİRAC KANDİLİ"
+        "dini_gun": "Miraç Kandili"
     },
     {
         "gun": "09/10",
         "ay": "ARALIK ",
         "yil": 2030,
         "hafta_gunu": "P.TESİ/SALI",
-        "dini_gun": "BERAT KANDİLİ"
+        "dini_gun": "Berat Kandili"
     },
     {
         "gun": "26",
         "ay": "ARALIK",
         "yil": 2030,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "RAMAZAN BAŞLANGICI"
+        "dini_gun": "Ramazan Başlangıcı"
     },
     {
         "gun": "20/21",
         "ay": "OCAK ",
         "yil": 2031,
         "hafta_gunu": "P.TESİ/SALI",
-        "dini_gun": "KADİR GECESİ"
+        "dini_gun": "Kadir Gecesi"
     },
     {
         "gun": "23",
         "ay": "OCAK",
         "yil": 2031,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "RAMAZAN BAY. AREFESİ"
+        "dini_gun": "Ramazan Bayramı Arefesi"
     },
     {
         "gun": "24",
         "ay": "OCAK",
         "yil": 2031,
         "hafta_gunu": "CUMA",
-        "dini_gun": "RAMAZAN BAYRAMI 1. Gün"
+        "dini_gun": "Ramazan Bayramı (1. Gün)"
     },
     {
         "gun": "25",
         "ay": "OCAK",
         "yil": 2031,
         "hafta_gunu": "CUMARTESİ",
-        "dini_gun": "RAMAZAN BAYRAMI 2. Gün"
+        "dini_gun": "Ramazan Bayramı (2. Gün)"
     },
     {
         "gun": "26",
         "ay": "OCAK",
         "yil": 2031,
         "hafta_gunu": "PAZAR",
-        "dini_gun": "RAMAZAN BAYRAMI 3. Gün"
+        "dini_gun": "Ramazan Bayramı (3. Gün)"
     },
     {
         "gun": "01",
         "ay": "NİSAN",
         "yil": 2031,
         "hafta_gunu": "SALI",
-        "dini_gun": "KURBAN BAY. AREFESİ"
+        "dini_gun": "Kurban Bayramı Arefesi"
     },
     {
         "gun": "02",
         "ay": "NİSAN",
         "yil": 2031,
         "hafta_gunu": "ÇARŞAMBA",
-        "dini_gun": "KURBAN BAYRAMI 1. Gün"
+        "dini_gun": "Kurban Bayramı (1. Gün)"
     },
     {
         "gun": "03",
         "ay": "NİSAN",
         "yil": 2031,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "KURBAN BAYRAMI 2. Gün"
+        "dini_gun": "Kurban Bayramı (2. Gün)"
     },
     {
         "gun": "04",
         "ay": "NİSAN",
         "yil": 2031,
         "hafta_gunu": "CUMA",
-        "dini_gun": "KURBAN BAYRAMI 3. Gün"
+        "dini_gun": "Kurban Bayramı (3. Gün)"
     },
     {
         "gun": "05",
         "ay": "NİSAN",
         "yil": 2031,
         "hafta_gunu": "CUMARTESİ",
-        "dini_gun": "KURBAN BAYRAMI 4. Gün"
+        "dini_gun": "Kurban Bayramı (4. Gün)"
     },
     {
         "gun": "23",
         "ay": "NİSAN",
         "yil": 2031,
         "hafta_gunu": "ÇARŞAMBA",
-        "dini_gun": "HİCRİ YILBAŞI"
+        "dini_gun": "Hicri Yılbaşı"
     },
     {
         "gun": "02",
         "ay": "MAYIS ",
         "yil": 2031,
         "hafta_gunu": "CUMA",
-        "dini_gun": "AŞURE GÜNÜ"
+        "dini_gun": "Aşure Günü"
     },
     {
         "gun": "01/02",
         "ay": "TEMMUZ",
         "yil": 2031,
         "hafta_gunu": "SALI/ÇARŞ",
-        "dini_gun": "MEVLİT KANDİLİ"
+        "dini_gun": "Mevlid Kandili"
     },
     {
         "gun": "16/17",
         "ay": "EKİM",
         "yil": 2031,
         "hafta_gunu": "PERŞ/CUMA",
-        "dini_gun": "REGAİB KANDİLİ"
+        "dini_gun": "Regaib Kandili"
     },
     {
         "gun": "17",
         "ay": "EKİM",
         "yil": 2031,
         "hafta_gunu": "CUMA",
-        "dini_gun": "ÜÇ AYLARIN BAŞLANGICI"
+        "dini_gun": "Üç Ayların Başlangıcı"
     },
     {
         "gun": "11/12",
         "ay": "KASIM ",
         "yil": 2031,
         "hafta_gunu": "SALI/ÇARŞ",
-        "dini_gun": "MİRAC KANDİLİ"
+        "dini_gun": "Miraç Kandili"
     },
     {
         "gun": "29/30",
         "ay": "KASIM ",
         "yil": 2031,
         "hafta_gunu": "C.TESİ/PAZAR",
-        "dini_gun": "BERAT KANDİLİ"
+        "dini_gun": "Berat Kandili"
     },
     {
         "gun": "15",
         "ay": "ARALIK",
         "yil": 2031,
         "hafta_gunu": "PAZARTESİ",
-        "dini_gun": "RAMAZAN BAŞLANGICI"
+        "dini_gun": "Ramazan Başlangıcı"
     },
     {
         "gun": "09/10",
         "ay": "OCAK ",
         "yil": 2032,
         "hafta_gunu": "CUMA/C.TESİ",
-        "dini_gun": "KADİR GECESİ"
+        "dini_gun": "Kadir Gecesi"
     },
     {
         "gun": "13",
         "ay": "OCAK",
         "yil": 2032,
         "hafta_gunu": "SALI",
-        "dini_gun": "RAMAZAN BAY. AREFESİ"
+        "dini_gun": "Ramazan Bayramı Arefesi"
     },
     {
         "gun": "14",
         "ay": "OCAK",
         "yil": 2032,
         "hafta_gunu": "ÇARŞAMBA",
-        "dini_gun": "RAMAZAN BAYRAMI 1. Gün"
+        "dini_gun": "Ramazan Bayramı (1. Gün)"
     },
     {
         "gun": "15",
         "ay": "OCAK",
         "yil": 2032,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "RAMAZAN BAYRAMI 2. Gün"
+        "dini_gun": "Ramazan Bayramı (2. Gün)"
     },
     {
         "gun": "16",
         "ay": "OCAK",
         "yil": 2032,
         "hafta_gunu": "CUMA",
-        "dini_gun": "RAMAZAN BAYRAMI 3. Gün"
+        "dini_gun": "Ramazan Bayramı (3. Gün)"
     },
     {
         "gun": "21",
         "ay": "MART",
         "yil": 2032,
         "hafta_gunu": "PAZAR",
-        "dini_gun": "KURBAN BAY. AREFESİ"
+        "dini_gun": "Kurban Bayramı Arefesi"
     },
     {
         "gun": "22",
         "ay": "MART ",
         "yil": 2032,
         "hafta_gunu": "PAZARTESİ",
-        "dini_gun": "KURBAN BAYRAMI 1. Gün"
+        "dini_gun": "Kurban Bayramı (1. Gün)"
     },
     {
         "gun": "23",
         "ay": "MART ",
         "yil": 2032,
         "hafta_gunu": "SALI",
-        "dini_gun": "KURBAN BAYRAMI 2. Gün"
+        "dini_gun": "Kurban Bayramı (2. Gün)"
     },
     {
         "gun": "24",
         "ay": "MART ",
         "yil": 2032,
         "hafta_gunu": "ÇARŞAMBA",
-        "dini_gun": "KURBAN BAYRAMI 3. Gün"
+        "dini_gun": "Kurban Bayramı (3. Gün)"
     },
     {
         "gun": "25",
         "ay": "MART ",
         "yil": 2032,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "KURBAN BAYRAMI 4. Gün"
+        "dini_gun": "Kurban Bayramı (4. Gün)"
     },
     {
         "gun": "11",
         "ay": "NİSAN",
         "yil": 2032,
         "hafta_gunu": "PAZAR",
-        "dini_gun": "HİCRİ YILBAŞI"
+        "dini_gun": "Hicri Yılbaşı"
     },
     {
         "gun": "20",
         "ay": "NİSAN ",
         "yil": 2032,
         "hafta_gunu": "SALI",
-        "dini_gun": "AŞURE GÜNÜ"
+        "dini_gun": "Aşure Günü"
     },
     {
         "gun": "19/20",
         "ay": "HAZİRAN",
         "yil": 2032,
         "hafta_gunu": "C.TESİ/PAZAR",
-        "dini_gun": "MEVLİT KANDİLİ"
+        "dini_gun": "Mevlid Kandili"
     },
     {
         "gun": "06",
         "ay": "EKİM",
         "yil": 2032,
         "hafta_gunu": "ÇARŞAMBA",
-        "dini_gun": "ÜÇ AYLARIN BAŞLANGICI"
+        "dini_gun": "Üç Ayların Başlangıcı"
     },
     {
         "gun": "07/08",
         "ay": "EKİM",
         "yil": 2032,
         "hafta_gunu": "PERŞ/CUMA",
-        "dini_gun": "REGAİB KANDİLİ"
+        "dini_gun": "Regaib Kandili"
     },
     {
         "gun": "31/01",
         "ay": "EKİM/KASIM ",
         "yil": 2032,
         "hafta_gunu": "PAZAR/P.TESİ",
-        "dini_gun": "MİRAC KANDİLİ"
+        "dini_gun": "Miraç Kandili"
     },
     {
         "gun": "17/18",
         "ay": "KASIM ",
         "yil": 2032,
         "hafta_gunu": "ÇARŞ./PERŞ",
-        "dini_gun": "BERAT KANDİLİ"
+        "dini_gun": "Berat Kandili"
     },
     {
         "gun": "04",
         "ay": "ARALIK",
         "yil": 2032,
         "hafta_gunu": "CUMARTESİ",
-        "dini_gun": "RAMAZAN BAŞLANGICI"
+        "dini_gun": "Ramazan Başlangıcı"
     },
     {
         "gun": "29/30",
         "ay": "ARALIK ",
         "yil": 2032,
         "hafta_gunu": "ÇARŞ/PERŞ",
-        "dini_gun": "KADİR GECESİ"
+        "dini_gun": "Kadir Gecesi"
     },
     {
         "gun": "01",
         "ay": "OCAK",
         "yil": 2033,
         "hafta_gunu": "CUMARTESİ",
-        "dini_gun": "RAMAZAN BAY. AREFESİ"
+        "dini_gun": "Ramazan Bayramı Arefesi"
     },
     {
         "gun": "02",
         "ay": "OCAK",
         "yil": 2033,
         "hafta_gunu": "PAZAR",
-        "dini_gun": "RAMAZAN BAYRAMI 1. Gün"
+        "dini_gun": "Ramazan Bayramı (1. Gün)"
     },
     {
         "gun": "03",
         "ay": "OCAK",
         "yil": 2033,
         "hafta_gunu": "PAZARTESİ",
-        "dini_gun": "RAMAZAN BAYRAMI 2. Gün"
+        "dini_gun": "Ramazan Bayramı (2. Gün)"
     },
     {
         "gun": "04",
         "ay": "OCAK",
         "yil": 2033,
         "hafta_gunu": "SALI",
-        "dini_gun": "RAMAZAN BAYRAMI 3. Gün"
+        "dini_gun": "Ramazan Bayramı (3. Gün)"
     },
     {
         "gun": "10",
         "ay": "MART",
         "yil": 2033,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "KURBAN BAY. AREFESİ"
+        "dini_gun": "Kurban Bayramı Arefesi"
     },
     {
         "gun": "11",
         "ay": "MART ",
         "yil": 2033,
         "hafta_gunu": "CUMA",
-        "dini_gun": "KURBAN BAYRAMI 1. Gün"
+        "dini_gun": "Kurban Bayramı (1. Gün)"
     },
     {
         "gun": "12",
         "ay": "MART ",
         "yil": 2033,
         "hafta_gunu": "CUMARTESİ",
-        "dini_gun": "KURBAN BAYRAMI 2. Gün"
+        "dini_gun": "Kurban Bayramı (2. Gün)"
     },
     {
         "gun": "13",
         "ay": "MART ",
         "yil": 2033,
         "hafta_gunu": "PAZAR",
-        "dini_gun": "KURBAN BAYRAMI 3. Gün"
+        "dini_gun": "Kurban Bayramı (3. Gün)"
     },
     {
         "gun": "14",
         "ay": "MART ",
         "yil": 2033,
         "hafta_gunu": "PAZARTESİ",
-        "dini_gun": "KURBAN BAYRAMI 4. Gün"
+        "dini_gun": "Kurban Bayramı (4. Gün)"
     },
     {
         "gun": "01",
         "ay": "NİSAN",
         "yil": 2033,
         "hafta_gunu": "CUMA",
-        "dini_gun": "HİCRİ YILBAŞI"
+        "dini_gun": "Hicri Yılbaşı"
     },
     {
         "gun": "10",
         "ay": "NİSAN ",
         "yil": 2033,
         "hafta_gunu": "PAZAR",
-        "dini_gun": "AŞURE GÜNÜ"
+        "dini_gun": "Aşure Günü"
     },
     {
         "gun": "09/10",
         "ay": "HAZİRAN",
         "yil": 2033,
         "hafta_gunu": "PERŞ/CUMA",
-        "dini_gun": "MEVLİT KANDİLİ"
+        "dini_gun": "Mevlid Kandili"
     },
     {
         "gun": "25",
         "ay": "EYLÜL",
         "yil": 2033,
         "hafta_gunu": "PAZAR",
-        "dini_gun": "ÜÇ AYLARIN BAŞLANGICI"
+        "dini_gun": "Üç Ayların Başlangıcı"
     },
     {
         "gun": "29/30",
         "ay": "EYLÜL",
         "yil": 2033,
         "hafta_gunu": "PERŞ/CUMA",
-        "dini_gun": "REGAİB KANDİLİ"
+        "dini_gun": "Regaib Kandili"
     },
     {
         "gun": "20/21",
         "ay": "EKİM ",
         "yil": 2033,
         "hafta_gunu": "PERŞ/CUMA",
-        "dini_gun": "MİRAC KANDİLİ"
+        "dini_gun": "Miraç Kandili"
     },
     {
         "gun": "06/07",
         "ay": "KASIM ",
         "yil": 2033,
         "hafta_gunu": "PAZAR/P.TESİ",
-        "dini_gun": "BERAT KANDİLİ"
+        "dini_gun": "Berat Kandili"
     },
     {
         "gun": "23",
         "ay": "KASIM",
         "yil": 2033,
         "hafta_gunu": "ÇARŞAMBA",
-        "dini_gun": "RAMAZAN BAŞLANGICI"
+        "dini_gun": "Ramazan Başlangıcı"
     },
     {
         "gun": "18/19",
         "ay": "ARALIK ",
         "yil": 2033,
         "hafta_gunu": "PAZAR/P.TESİ",
-        "dini_gun": "KADİR GECESİ"
+        "dini_gun": "Kadir Gecesi"
     },
     {
         "gun": "22",
         "ay": "ARALIK",
         "yil": 2033,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "RAMAZAN BAY. AREFESİ"
+        "dini_gun": "Ramazan Bayramı Arefesi"
     },
     {
         "gun": "23",
         "ay": "ARALIK ",
         "yil": 2033,
         "hafta_gunu": "CUMA",
-        "dini_gun": "RAMAZAN BAYRAMI 1. Gün"
+        "dini_gun": "Ramazan Bayramı (1. Gün)"
     },
     {
         "gun": "24",
         "ay": "ARALIK ",
         "yil": 2033,
         "hafta_gunu": "CUMARTESİ",
-        "dini_gun": "RAMAZAN BAYRAMI 2. Gün"
+        "dini_gun": "Ramazan Bayramı (2. Gün)"
     },
     {
         "gun": "25",
         "ay": "ARALIK ",
         "yil": 2033,
         "hafta_gunu": "PAZAR",
-        "dini_gun": "RAMAZAN BAYRAMI 3. Gün"
+        "dini_gun": "Ramazan Bayramı (3. Gün)"
     },
     {
         "gun": "28",
         "ay": "ŞUBAT",
         "yil": 2034,
         "hafta_gunu": "SALI",
-        "dini_gun": "KURBAN BAY. AREFESİ"
+        "dini_gun": "Kurban Bayramı Arefesi"
     },
     {
         "gun": "01",
         "ay": "MART ",
         "yil": 2034,
         "hafta_gunu": "ÇARŞAMBA",
-        "dini_gun": "KURBAN BAYRAMI 1. Gün"
+        "dini_gun": "Kurban Bayramı (1. Gün)"
     },
     {
         "gun": "02",
         "ay": "MART ",
         "yil": 2034,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "KURBAN BAYRAMI 2. Gün"
+        "dini_gun": "Kurban Bayramı (2. Gün)"
     },
     {
         "gun": "03",
         "ay": "MART ",
         "yil": 2034,
         "hafta_gunu": "CUMA",
-        "dini_gun": "KURBAN BAYRAMI 3. Gün"
+        "dini_gun": "Kurban Bayramı (3. Gün)"
     },
     {
         "gun": "04",
         "ay": "MART ",
         "yil": 2034,
         "hafta_gunu": "CUMARTESİ",
-        "dini_gun": "KURBAN BAYRAMI 4. Gün"
+        "dini_gun": "Kurban Bayramı (4. Gün)"
     },
     {
         "gun": "21",
         "ay": "MART",
         "yil": 2034,
         "hafta_gunu": "SALI",
-        "dini_gun": "HİCRİ YILBAŞI"
+        "dini_gun": "Hicri Yılbaşı"
     },
     {
         "gun": "30",
         "ay": "MART ",
         "yil": 2034,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "AŞURE GÜNÜ"
+        "dini_gun": "Aşure Günü"
     },
     {
         "gun": "29/30",
         "ay": "MAYIS",
         "yil": 2034,
         "hafta_gunu": "P.TESİ/SALI",
-        "dini_gun": "MEVLİT KANDİLİ"
+        "dini_gun": "Mevlid Kandili"
     },
     {
         "gun": "14",
         "ay": "EYLÜL",
         "yil": 2034,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "ÜÇ AYLARIN BAŞLANGICI"
+        "dini_gun": "Üç Ayların Başlangıcı"
     },
     {
         "gun": "14/15",
         "ay": "EYLÜL",
         "yil": 2034,
         "hafta_gunu": "PERŞ/CUMA",
-        "dini_gun": "REGAİB KANDİLİ"
+        "dini_gun": "Regaib Kandili"
     },
     {
         "gun": "09/10",
         "ay": "EKİM ",
         "yil": 2034,
         "hafta_gunu": "P.TESİ/SALI",
-        "dini_gun": "MİRAC KANDİLİ"
+        "dini_gun": "Miraç Kandili"
     },
     {
         "gun": "26/27",
         "ay": "EKİM ",
         "yil": 2034,
         "hafta_gunu": "PERŞ/CUMA",
-        "dini_gun": "BERAT KANDİLİ"
+        "dini_gun": "Berat Kandili"
     },
     {
         "gun": "12",
         "ay": "KASIM",
         "yil": 2034,
         "hafta_gunu": "PAZAR",
-        "dini_gun": "RAMAZAN BAŞLANGICI"
+        "dini_gun": "Ramazan Başlangıcı"
     },
     {
         "gun": "07/08",
         "ay": "ARALIK ",
         "yil": 2034,
         "hafta_gunu": "PERŞ/CUMA",
-        "dini_gun": "KADİR GECESİ"
+        "dini_gun": "Kadir Gecesi"
     },
     {
         "gun": "11",
         "ay": "ARALIK",
         "yil": 2034,
         "hafta_gunu": "PAZARTESİ",
-        "dini_gun": "RAMAZAN BAY. AREFESİ"
+        "dini_gun": "Ramazan Bayramı Arefesi"
     },
     {
         "gun": "12",
         "ay": "ARALIK ",
         "yil": 2034,
         "hafta_gunu": "SALI",
-        "dini_gun": "RAMAZAN BAYRAMI 1. Gün"
+        "dini_gun": "Ramazan Bayramı (1. Gün)"
     },
     {
         "gun": "13",
         "ay": "ARALIK ",
         "yil": 2034,
         "hafta_gunu": "ÇARŞAMBA",
-        "dini_gun": "RAMAZAN BAYRAMI 2. Gün"
+        "dini_gun": "Ramazan Bayramı (2. Gün)"
     },
     {
         "gun": "14",
         "ay": "ARALIK ",
         "yil": 2034,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "RAMAZAN BAYRAMI 3. Gün"
+        "dini_gun": "Ramazan Bayramı (3. Gün)"
     },
     {
         "gun": "17",
         "ay": "ŞUBAT",
         "yil": 2035,
         "hafta_gunu": "CUMARTESİ",
-        "dini_gun": "KURBAN BAY. AREFESİ"
+        "dini_gun": "Kurban Bayramı Arefesi"
     },
     {
         "gun": "18",
         "ay": "ŞUBAT ",
         "yil": 2035,
         "hafta_gunu": "PAZAR",
-        "dini_gun": "KURBAN BAYRAMI 1. Gün"
+        "dini_gun": "Kurban Bayramı (1. Gün)"
     },
     {
         "gun": "19",
         "ay": "ŞUBAT ",
         "yil": 2035,
         "hafta_gunu": "PAZARTESİ",
-        "dini_gun": "KURBAN BAYRAMI 2. Gün"
+        "dini_gun": "Kurban Bayramı (2. Gün)"
     },
     {
         "gun": "20",
         "ay": "ŞUBAT ",
         "yil": 2035,
         "hafta_gunu": "SALI",
-        "dini_gun": "KURBAN BAYRAMI 3. Gün"
+        "dini_gun": "Kurban Bayramı (3. Gün)"
     },
     {
         "gun": "21",
         "ay": "ŞUBAT ",
         "yil": 2035,
         "hafta_gunu": "ÇARŞAMBA",
-        "dini_gun": "KURBAN BAYRAMI 4. Gün"
+        "dini_gun": "Kurban Bayramı (4. Gün)"
     },
     {
         "gun": "11",
         "ay": "MART",
         "yil": 2035,
         "hafta_gunu": "PAZAR",
-        "dini_gun": "HİCRİ YILBAŞI"
+        "dini_gun": "Hicri Yılbaşı"
     },
     {
         "gun": "20",
         "ay": "MART ",
         "yil": 2035,
         "hafta_gunu": "SALI",
-        "dini_gun": "AŞURE GÜNÜ"
+        "dini_gun": "Aşure Günü"
     },
     {
         "gun": "19/20",
         "ay": "MAYIS",
         "yil": 2035,
         "hafta_gunu": "C.TESİ/PAZAR",
-        "dini_gun": "MEVLİT KANDİLİ"
+        "dini_gun": "Mevlid Kandili"
     },
     {
         "gun": "03",
         "ay": "EYLÜL",
         "yil": 2035,
         "hafta_gunu": "PAZARTESİ",
-        "dini_gun": "ÜÇ AYLARIN BAŞLANGICI"
+        "dini_gun": "Üç Ayların Başlangıcı"
     },
     {
         "gun": "06/07",
         "ay": "EYLÜL",
         "yil": 2035,
         "hafta_gunu": "PERŞ/CUMA",
-        "dini_gun": "REGAİB KANDİLİ"
+        "dini_gun": "Regaib Kandili"
     },
     {
         "gun": "28/29",
         "ay": "EYLÜL ",
         "yil": 2035,
         "hafta_gunu": "CUMA/C.TESİ",
-        "dini_gun": "MİRAC KANDİLİ"
+        "dini_gun": "Miraç Kandili"
     },
     {
         "gun": "16/17",
         "ay": "EKİM ",
         "yil": 2035,
         "hafta_gunu": "SALI/ÇARŞ",
-        "dini_gun": "BERAT KANDİLİ"
+        "dini_gun": "Berat Kandili"
     },
     {
         "gun": "01",
         "ay": "KASIM",
         "yil": 2035,
         "hafta_gunu": "PERŞEMBE",
-        "dini_gun": "RAMAZAN BAŞLANGICI"
+        "dini_gun": "Ramazan Başlangıcı"
     },
     {
         "gun": "26/27",
         "ay": "KASIM ",
         "yil": 2035,
         "hafta_gunu": "P.TESİ/SALI",
-        "dini_gun": "KADİR GECESİ"
+        "dini_gun": "Kadir Gecesi"
     },
     {
         "gun": "30",
         "ay": "KASIM",
         "yil": 2035,
         "hafta_gunu": "CUMA",
-        "dini_gun": "RAMAZAN BAY. AREFESİ"
+        "dini_gun": "Ramazan Bayramı Arefesi"
     },
     {
         "gun": "01",
         "ay": "ARALIK ",
         "yil": 2035,
         "hafta_gunu": "CUMARTESİ",
-        "dini_gun": "RAMAZAN BAYRAMI 1. Gün"
+        "dini_gun": "Ramazan Bayramı (1. Gün)"
     },
     {
         "gun": "02",
         "ay": "ARALIK ",
         "yil": 2035,
         "hafta_gunu": "PAZAR",
-        "dini_gun": "RAMAZAN BAYRAMI 2. Gün"
+        "dini_gun": "Ramazan Bayramı (2. Gün)"
     },
     {
         "gun": "03",
         "ay": "ARALIK ",
         "yil": 2035,
         "hafta_gunu": "PAZARTESİ",
-        "dini_gun": "RAMAZAN BAYRAMI 3. Gün"
+        "dini_gun": "Ramazan Bayramı (3. Gün)"
     }
 ]
